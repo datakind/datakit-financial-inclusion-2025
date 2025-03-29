@@ -1,0 +1,138 @@
+---
+title: "EDA - Colombia Financial Inclusion"
+author: "Duarte Silva"
+date: "`r Sys.Date()`"
+output:
+  html_document: default
+---
+
+```{r setup, include=FALSE, message = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Load Data
+
+```{r}
+dataset_dir <- getwd()
+file_path <- file.path(dataset_dir, "colombia_financial_inclusion_dataset_translated_cleaned.csv")
+colombia_financial_inclusion_dataset <- read.csv(file_path, header = TRUE)
+```
+
+# Exploratory Data Analysis (EDA)
+
+## Dataset Overview
+
+```{r}
+dim(colombia_financial_inclusion_dataset)
+table(sapply(colombia_financial_inclusion_dataset, class))
+```
+
+- The dataset contains **137 722 761 observations**;
+- The dataset includes **factor, integer, and numeric variables**, most being integer and numeric.
+
+## Data Type Adjustments
+
+```{r}
+cols_to_convert <- c("entity_type", "entity_code", "unified_capital", "category_code")
+colombia_financial_inclusion_dataset[cols_to_convert] <- lapply(
+  colombia_financial_inclusion_dataset[cols_to_convert], as.character
+)
+```
+
+## Missing Values and Zeros Analysis
+
+```{r}
+zero_rows <- rowSums(colombia_financial_inclusion_dataset[, 10:99] == 0) == ncol(colombia_financial_inclusion_dataset[, 10:99])
+relative_count <- sum(zero_rows) / nrow(colombia_financial_inclusion_dataset)
+relative_count
+```
+
+- **~16%** of the dataset consists of all zeros in numeric variables.
+
+```{r}
+total_na_percentage <- sum(is.na(colombia_financial_inclusion_dataset)) / (nrow(colombia_financial_inclusion_dataset) * ncol(colombia_financial_inclusion_dataset)) * 100
+total_na_percentage
+
+```
+
+- **No missing values detected.**
+
+## Data Sparsity Analysis
+
+```{r}
+numeric_vars <- colombia_financial_inclusion_dataset[, sapply(colombia_financial_inclusion_dataset, is.numeric)]
+sparsity_check <- data.frame(
+  Variable = names(numeric_vars),
+  Zero_Percentage = sapply(numeric_vars, function(x) mean(x == 0, na.rm = TRUE) * 100)
+)
+summary(sparsity_check$Zero_Percentage)
+```
+
+```{r}
+boxplot(sparsity_check$Zero_Percentage, main="Sparsity of Numeric Variables", ylab="Percentage of Zeros")
+```
+
+- **Extremely sparse dataset:** At least **75% sparsity**, with half the variables exceeding **97.5% sparsity**.
+
+# Analysis of Housing Loans between Men and Women
+
+## Identifying Housing Loan Variables
+
+```{r}
+loan_vars <- grep("loans", names(colombia_financial_inclusion_dataset), value = TRUE, ignore.case = TRUE)
+housing_vars <- grep("housing", names(colombia_financial_inclusion_dataset), value = TRUE, ignore.case = TRUE)
+housing_loan_vars <- intersect(loan_vars, housing_vars)
+
+cfid_housing_loans <- colombia_financial_inclusion_dataset[, c(housing_loan_vars, "region_description", "category_description"), drop = FALSE]
+```
+
+## Housing Loans Distribution by Region and Category (Men vs Women)
+
+```{r, fig.width=13, fig.height=8}
+par(mfrow = c(2, 2))
+
+plot(cfid_housing_loans$number_of_housing_loans_men ~ cfid_housing_loans$region_description, 
+     main = "Housing Loans (Men) by Region",
+     xlab = "Region", 
+     ylab = "Number of Loans")
+
+plot(cfid_housing_loans$number_of_housing_loans_women ~ cfid_housing_loans$region_description, 
+     main = "Housing Loans (Women) by Region",
+     xlab = "Region", 
+     ylab = "Number of Loans")
+
+plot(cfid_housing_loans$number_of_housing_loans_men ~ cfid_housing_loans$category_description, 
+     main = "Housing Loans (Men) by Category",
+     xlab = "Category", 
+     ylab = "Number of Loans")
+
+plot(cfid_housing_loans$number_of_housing_loans_women ~ cfid_housing_loans$category_description, 
+     main = "Housing Loans (Women) by Category",
+     xlab = "Category", 
+     ylab = "Number of Loans")
+```
+
+- **Not very informative due to high sparsity.**
+
+## Proportion of Housing Loans by Gender
+
+```{r}
+prop_housing_loans_men <- ifelse(cfid_housing_loans$number_of_housing_loans != 0, 
+                                 cfid_housing_loans$number_of_housing_loans_men / cfid_housing_loans$number_of_housing_loans, 0)
+
+prop_housing_loans_women <- ifelse(cfid_housing_loans$number_of_housing_loans != 0, 
+                                   cfid_housing_loans$number_of_housing_loans_women / cfid_housing_loans$number_of_housing_loans, 0)
+
+summary(prop_housing_loans_men)
+summary(prop_housing_loans_women)
+```
+
+- **Proportions should be between 0 and 1**, but some exceed reasonable values;
+- Distribution is highly concentrated, meaning **low variability in loan distribution**.
+
+# Conclusion
+
+- **Dataset is extremely sparse**, making it difficult to extract meaningful insights;
+- **Housing loan data shows anomalies**, indicating potential data quality issues;
+- **Dataset should not be used as a use-case** due to its inconsistencies.
+
