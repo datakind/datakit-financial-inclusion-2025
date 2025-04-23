@@ -3,6 +3,7 @@
 
 dataset_dir <- getwd()
 
+#Can't upload the data on the repository, but you can ask Daniel Dobrenz (daniel.dobrenz at gmail.com) for it!
 
 file_path <- file.path(dataset_dir, "colombia_financial_inclusion_dataset_translated_cleaned.csv")
 
