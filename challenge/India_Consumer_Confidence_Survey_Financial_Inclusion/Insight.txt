@@ -1,0 +1,36 @@
+Consumer Confidence Survey – Bimonthly Survey (March 2024 to Jan 2025) Dataset
+
+Overview:
+The survey collects current perception and one year ahead expectations of households on general economic situation, employment scenario, overall price situation, own income and spending across 19 major cities.
+DataSet:
+Used Consumer Confidence Survey bi-weekly data set of last one year from Jan 2024 to Jan 2025. 
+Used Python pandas library to concat the datasets to make it available as a single large dataset.
+Output the concatenated dataframe into an excel file in the project folder.
+
+PowerBI:
+Used PowerBI import service to import the excel spreadsheet into powerBI and transformed the imported data such as removing blanks, modifying null values, using custom measures to categorize the columns, some custom column measures to calculate the CurrentSentimentIndex, FutureEconomicIndex and SentimentChange based on the custom column such as 
+1.	EconomicSentimentScore
+2.	EconomicOutlookScore
+3.	EmploymentSentimentScore
+4.	EmploymentOutlookScore
+5.	HouseHoldIncomeOutlookScore
+6.	HouseHoldIncomeEconomicScore
+7.	PriceOutlookScore
+8.	PriceSentimentScore
+9.	InflationSentimentScore
+
+Visualised the important KPIs in three-page report and published the report in powerBI services and created a powerBI dashboard.
+
+
+Visualisation Result:
+Based on the visualization, the overall currentSentimentScore is 99.62 and FutureEconomicIndex is 100.07.
+To further dig deeper, it is clear thar average currentSentimentIndex is high on March 2024, declined by 0.015 points in May 2024 and a sharp decrease 0.035 points in July 2024. However, there is an increase in index by 0.01 and reduced by 0.01 again in Nov 2024 and be the same in Jan 2025.
+The average sentiment change among all these bimonthly data is 0.45 and 0.44.
+It is clearly noted that there is a sharp fluctuation in the month of July in all the sentiment and outlook scores. 
+Also, the people are optimistic when comes to Outlook on Economic, inflation, household income, price. However, they are pessimistic about the current situation.
+Based on the income tier (High Income, low income, Above Average Income, Average Income, Below Average Income, less than below average income) and city, the economic and employment Sentiment score is visualized to understand how people with different income tier in each city have an idea about it.
+The third page report considers visualizing the average of InflationSentimentScoreby occupation of respondent and Income Tier.
+Also, visualized tabular data against Age and Income tier.
+
+
+
