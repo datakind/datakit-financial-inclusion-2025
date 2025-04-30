@@ -28,4 +28,13 @@ The United Nations defines 17 Sustainability Development Goals (SDGs)(https://ww
 
 # Established Metrics
 
-The World Bank, in collaboration with G20, state that their *Financial Consumer Protection Survey*, which is recognized by over 100 jurisdictions around the world, is the 
+## Financial Consumer Protection Survey
+
+The World Bank, in collaboration with G20, created the *Financial Consumer Protection Survey* (https://www.worldbank.org/en/topic/financialinclusion/brief/ficpsurvey), which is recognized by over 100 jurisdictions around the world. It catalogs responses from jurisdictions around the world benchmarking their efforts to support Financial Incluison.
+
+## Gini Coefficient
+
+The Gini Coefficient is a metric measuring inequality within a given region. OurWorldInData (https://ourworldindata.org/grapher/economic-inequality-gini-index) takes data from the World Bank and displays this information.
+
+When the Gini Coefficient ranges from 0.0 to 1.0
+A higher value means higher inequality, while a lower value means less inequality.
