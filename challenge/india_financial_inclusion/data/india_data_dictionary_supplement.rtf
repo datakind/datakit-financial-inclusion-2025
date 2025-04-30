@@ -1,0 +1,694 @@
+{\rtf1\ansi\deff3\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset0 Liberation Serif{\*\falt Times New Roman};}{\f4\froman\fprq2\fcharset0 Liberation Sans{\*\falt Arial};}{\f5\froman\fprq2\fcharset0 Liberation Mono{\*\falt Courier New};}{\f6\fnil\fprq2\fcharset0 Liberation Serif{\*\falt Times New Roman};}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+{\stylesheet{\s0\snext0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1 Normal;}
+{\s15\sbasedon0\snext16\dbch\af6\langfe1081\dbch\af6\afs28\ql\widctlpar\hyphpar0\sb240\sa120\keepn\ltrpar\cf0\loch\f4\fs28\lang1033\kerning1 Heading;}
+{\s16\sbasedon0\snext16\dbch\af6\langfe1081\dbch\af6\afs24\sl276\slmult1\ql\widctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1 Text Body;}
+{\s17\sbasedon16\snext17\dbch\af6\langfe1081\dbch\af6\afs24\sl276\slmult1\ql\widctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1 List;}
+{\s18\sbasedon0\snext18\dbch\af6\langfe1081\dbch\af6\afs24\ai\ql\widctlpar\hyphpar0\sb120\sa120\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1 Caption;}
+{\s19\sbasedon0\snext19\dbch\af6\langfe1081\dbch\af6\afs24\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1 Index;}
+{\s20\sbasedon0\snext20\dbch\af6\langfe1081\dbch\af6\afs20\ql\widctlpar\hyphpar0\sb0\sa0\ltrpar\cf0\loch\f5\fs20\lang1033\kerning1 Preformatted Text;}
+}{\*\generator LibreOffice/6.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2}{\info{\creatim\yr2025\mo4\dy8\hr11\min47}{\revtim\yr2025\mo4\dy29\hr22\min31}{\printim\yr0\mo0\dy0\hr0\min0}}{\*\userprops}\deftab709
+\hyphauto1\viewscale100
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse451\pgwsxn12240\pghsxn15840\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\pgdscnxt0 Default Style;}}
+\formshade{\*\pgdscno0}\paperh15840\paperw12240\margl1134\margr1134\margt1134\margb1134\sectd\sbknone\sectunlocked1\pgndec\pgwsxn12240\pghsxn15840\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+{\*\ftnsep\chftnsep}\pgndec\pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\loch
+data dictionary for team India dataset}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20\ab0 \ltrch\fs20\b0\loch
+(some field names may be slightly different from those in official upload on DataKind }{\rtlch\dbch\af6\langfe1081\dbch\af6\afs20\ab0 \ltrch\cf0\fs20\lang1033\b0\kerning1\loch
+github, but should be similar enough to resolve}{\rtlch\afs20\ab0 \ltrch\fs20\b0\loch
+)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20\ab0 \ltrch\fs20\b0\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20\ab \ltrch\fs20\b\loch
+notes:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab this data should be reasonably "clean"}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab \tab there should be only a few missing values}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab \tab a handful of values missing in the original SDG Excel file series were imputed, especially for small states like Ladakh}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab \tab Ladakh in particular however still has some missing entries in non-SDG columns--so be careful when including this UT (note as of 2021 population estimates, it is the second least populated State/UT in India, at ~300,000 people; India's total population is around 1.3 billion people)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20\ab \ltrch\fs20\b\loch
+column names by category:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+state/ut name: 'state_ut'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+wage and employment data:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab unemployment rates:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'unemp_rur_mal_2019', 'unemp_rur_fem_2019', 'unemp_rur_per_2019', 'unemp_urb_mal_2019', 'unemp_urb_fem_2019', 'unemp_urb_per_2019', 'unemp_tot_mal_2019', 'unemp_tot_fem_2019', 'unemp_tot_per_2019', 'unemp_rur_mal_2022', 'unemp_rur_fem_2022', 'unemp_rur_per_2022', 'unemp_urb_mal_2022', 'unemp_urb_fem_2022', 'unemp_urb_per_2022', 'unemp_tot_mal_2022', 'unemp_tot_fem_2022', 'unemp_tot_per_2022'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab labor force participation:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'lfpr_rur_mal_2022', 'lfpr_rur_fem_2022', 'lfpr_rur_per_2022', 'lfpr_urb_mal_2022', 'lfpr_urb_fem_2022', 'lfpr_urb_per_2022', 'lfpr_tot_mal_2022', 'lfpr_tot_fem_2022', 'lfpr_tot_per_2022'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab casual wages:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'cas_wage_male_2019', 'cas_wage_female_2019', 'cas_wage_person_2019', 'cas_wage_male_2022', 'cas_wage_female_2022', 'cas_wage_person_2022'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab agricultural wages:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'agr_wage_male_2019', 'agr_wage_female_2019', 'agr_wage_person_2019', 'agr_wage_male_2022', 'agr_wage_female_2022', 'agr_wage_person_2022'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab general wages and white collar / blue collar average hourly wage ratios:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'wag_rur_mal_2019', 'wag_rur_mal_ratio_2019', 'wag_rur_fem_2019', 'wag_rur_fem_ratio_2019', 'wag_rur_tot_2019', 'wag_rur_tot_ratio_2019', 'wag_rur_mal_2022', 'wag_rur_mal_ratio_2022', 'wag_rur_fem_2022', 'wag_rur_fem_ratio_2022', 'wag_rur_tot_2022', 'wag_rur_tot_ratio_2022', 'wag_tot_mal_2019', 'wag_tot_mal_ratio_2019', 'wag_tot_fem_2019', 'wag_tot_fem_ratio_2019', 'wag_tot_tot_2019', 'wag_tot_tot_ratio_2019', 'wag_tot_mal_2022', 'wag_tot_mal_ratio_2022', 'wag_tot_fem_2022', 'wag_tot_fem_ratio_2022', 'wag_tot_tot_2022', 'wag_tot_tot_ratio_2022', 'wag_urb_mal_2019', 'wag_urb_mal_ratio_2019', 'wag_urb_fem_2019', 'wag_urb_fem_ratio_2019', 'wag_urb_tot_2019', 'wag_urb_tot_ratio_2019', 'wag_urb_mal_2022', 'wag_urb_mal_ratio_2022', 'wag_urb_fem_2022', 'wag_urb_fem_ratio_2022', 'wag_urb_tot_2022', 'wag_urb_tot_ratio_2022'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab (note this has a typo in some names--rur_rur should be rur_tot, and urb_urb should be urb_tot)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab female managers ratio:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'fem_manage_ratio_2019', 'fem_manage_ratio_2022'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+poverty:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'poverty_multi_rur_2015', 'poverty_multi_urb_2015', 'poverty_multi_tot_2015', 'poverty_multi_rur_2019', 'poverty_multi_urb_2019', 'poverty_multi_tot_2019'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+income and expenditures related:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'exp_hh', 'exp_onl_hh', 'exp_onl_pct_hh'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+tangible assets:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'has_tv', 'has_radio', 'has_laptop', 'has_mobile_dev', 'has_bicycle', 'has_scooter', 'has_motorcar', 'has_truck', 'has_animalcar', 'has_fridge', 'has_washmach', 'has_aircon', 'land_owns', 'land_agr_owns'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+time use data:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'tus_rur_male_domestic_mins', 'tus_rur_female_domestic_mins', 'tus_rur_person_domestic_mins', 'tus_rur_male_caregiving_mins', 'tus_rur_female_caregiving_mins', 'tus_rur_person_caregiving_mins', 'tus_tot_male_domestic_mins', 'tus_tot_female_domestic_mins', 'tus_tot_person_domestic_mins', 'tus_tot_male_caregiving_mins', 'tus_tot_female_caregiving_mins', 'tus_tot_person_caregiving_mins', 'tus_urb_male_domestic_mins', 'tus_urb_female_domestic_mins', 'tus_urb_person_domestic_mins', 'tus_urb_male_caregiving_mins', 'tus_urb_female_caregiving_mins', 'tus_urb_person_caregiving_mins'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+social programs:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'mgnrega_2019', 'mgnrega_2022', 'pmmvy_2019', 'pmmvy_2022', 'senior_help_2019', 'senior_help_2022', 'pension_nps_2019', 'pension_nps_2022'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+entreprenneurship:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'su_ai', 'su_arvr', 'su_adv', 'su_space', 'su_agri', 'su_air', 'su_meas', 'su_anim', 'su_arch', 'su_art', 'su_auto', 'su_biotech', 'su_chem', 'su_cv', 'su_cons', 'su_dating', 'su_design', 'su_educ', 'su_saas', 'su_events', 'su_fashion', 'su_fintech', 'su_f&b', 'su_greentech', 'su_healthcare', 'su_hhs', 'su_hr', 'su_it', 'su_inlang', 'su_iot', 'su_log', 'su_mark', 'su_media', 'su_nanotech', 'su_nre', 'su_or', 'su_others', 'su_pass', 'su_pets', 'su_pcs', 'su_realestate', 'su_energy', 'su_retail', 'su_robot', 'su_safety', 'su_sec', 'su_socimp', 'su_socnet', 'su_sports', 'su_hard', 'su_telecom', 'su_text', 'su_toys', 'su_storage', 'su_travel', 'su_wm'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+education related:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'higher_ed_2019', 'higher_ed_2021', 'stud_marks_mean', 'stud_marks_median', 'stud_marks_std', 'school_bwr', 'school_comp', 'school_med', 'school_digilib', 'school_water', 'school_elec', 'school_func_bwr', 'school_func_water', 'school_func_elec', 'school_func_gwr', 'school_gwr', 'school_wash', 'schoool_internet', 'school_kg', 'school_lib', 'school_play', 'school_ptr', 'school_rwhs', 'school_ramp', 'school_r&h', 'school_cwsn', 'school_solar', 'school_func_comp', 'educ_mem', 'educ_free_book', 'educ_free_book_num', 'educ_free_pap', 'educ_free_pap_num', 'educ_free_bag', 'educ_free_bag_num', 'educ_free_other', 'educ_free_other_num', 'educ_free_tuit', 'educ_free_tuit_num', 'educ_att_mean', 'educ_att_med', 'educ_att_std'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+banking and investment related:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'bank_per_2019', 'bank_vil_bc_prop_2019', 'bank_per_2022', 'bank_vil_bc_prop_2022', 'atm_per_000_2019', 'atm_per_000_2022', 'acc_per_per_2019', 'acc_per_per_2022', 'msme_credit_amt_2019', 'msme_credit_amt_2022', 'msme_num_2020', 'msme_num_2022', 'nfs_app_vol', 'shg_num_2019', 'shg_loans_2019', 'shg_num_2021', 'shg_loans_2021', 'digital_payment_per_capita', 'bse_clients', 'pay_cd', 'pay_cd_used', , 'acct_comm', 'acct_post', 'acct_nbfc', 'acct_nia', 'reg_loan_val_sd', 'reg_loan_val_acq', 'reg_loan_val_disp', 'reg_loan_val_aa', 'reg_loan_year_borr', 'reg_loan_amt_borr', 'reg_loan_ten', 'reg_loan_aroi', 'reg_loan_amt_out', 'kind_loan_per', 'kind_loan_amt_out', 'kind_loan_src_pro', 'kind_loan_src_supp', 'kind_loan_src_other', 'kind_loan_src_f&f', 'pay_ewal', 'pay_ewal_used'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+digitalization related (eg internet access, social media use, etc):}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'dig_soc_fb', 'dig_soc_ig', 'dig_soc_wa',  'ut_num_districts', 'ut_rolledout_districts', 'num_launched_eservices', 'eservices_per_district', 'ut_rolledout_districts_pct', 'internet_has', 'op_fuel', 'op_cons', 'op_educ', 'op_meds', 'op_other', 'teledensity_pct'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+msc:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab household Ginis:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'gini_rur_hh_2022', 'gini_urb_hh_2022'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab climate measures:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'num_3mo_dgt_00_22', 'num_12mo_dgt_00_22', 'num_24mo_dgt_00_22', 'num_3mo_fld_00_22', 'num_12mo_fld_00_22', 'num_24mo_fld_00_22', 'temp_avg_2020'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab population levels (projected):}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'Pop_2015', 'Pop_2019', 'Pop_2021', 'Pop_2022'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab percentage urban population:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'urb_pct_2011', 'urb_pct_2021', 'urb_pct_2031'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab Aadhaar:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+'total_population', 'pop_on_Aadhaar', 'pop_on_Aadhaar_pct'}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20\ai0\ab \ltrch\fs20\i0\b\loch
+descriptions of fields in the dataset:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab }{\rtlch\afs20\ab \ltrch\fs20\b\loch
+from Sustainable Development Goals (SDG) report (various years):}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab https://www.mospi.gov.in/sites/default/files/publication_reports/SDG-NIF-ProgressReport-FullFile-v4N.pdf}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab source / cite: \tab }
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab "Sustainable Development Goals, National Indicator Framework," Ministry of Statistics and Programme Implementation, Government of India, 2024}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab data was extracted via QR codes in the report, linking to URLs of type,  https://www.mospi.gov.in/sites/default/files/publication_reports/SDG_Goal_2024/Goal<NUM>_2024.xlsx, where <NUM> varied from 1 to 17; to download the Goal 1 data, for example, use URL,  https://www.mospi.gov.in/sites/default/files/publication_reports/SDG_Goal_2024/Goal1_2024.xlsx}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab reports used: Goal1; Goal4; Goal5; Goal8; Goal10}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab fields:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab poverty_multi_...: rur_2015, urb_2015, tot_2015, rur_2019, urb_2019, tot_2019 (percentage living in poverty; 1.2.2)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab health_ins_...: 2015, 2019--health insurance percentage (1.3.1)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab mgnrega_2019, mgnrega_2022; employment offered under MGNREGA, a public-sponsored employment program, total number of persons}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab pmmvy_2019, pmmvy_2022; proportion out of elligible population receiving PMMVY benefits (related to public support for mothers / children)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab senior_help_2019, _2022; number of seniors provided help through a public program senior assistance (eg public nursing homes)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab pension_nps_2019, _2022; number of subscribers covered by pension scheme / NPS; note this is cumulative total at that point in time (and not the number of new subscribers who signed up in a given year)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab shg_num_2019, shg_loans_2019, shg_num_2021, shg_loans_2021--women-oriented Self Help Groups (banking links for poor people eg), number established, and amount of loans dispensed}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab higher_ed_2019, _2021--gross enrollment ratio in higher secondary education (this amounts to US equivalent of grades 11 and 12)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab tus_tot_male_domestic_mins\tab tus_tot_female_domestic_mins\tab tus_tot_person_domestic_mins\tab tus_tot_male_caregiving_mins\tab tus_tot_female_caregiving_mins\tab tus_tot_person_caregiving_mins--time use survey, measuring how much time people 15-59 years old spend per day on unpaid domestic work, and unpaid caregiving work--there are 3 sets of these (6) fields, with "tot" being for both urban and rural, along with "rur" and "urb" sets; "mins" are in units of minutes (per day); "domestic" is minutes per day spent in unpaid domestic work; "caregiving" is minutes per day spent in unpaid caregiving work}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab fem_manage_ratio_2019, _2022--ratio of females in "usual status (ps+ss)" in managerial positions to total workers in same status}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab lfpr_male_2020, lfpr_female_2020, lfpr_male_2022, lfpr_female_2022--proportion of people in the labor force, by gender, by year (ages 15-59)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab cas_wage_male_2019\tab cas_wage_female_2019\tab cas_wage_person_2019\tab cas_wage_male_2022\tab cas_wage_female_2022\tab cas_wage_person_2022--casual wages, yearly average, per hour (in Rupees), by gender, year ("5.a.3: Wages of casual labourers (gender wise) other than public works, (Rs. per day)")}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab agr_wage_...--agriculture, but same categories as "casual" wages, by gender, year ("Average agricultural wage earnings from casual labour work other than public works, (Rs. per day)")}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab msme_credit_amt_2019\tab msme_credit_amt_2022--total credit outstanding by / via MSME, Ministry of Micro, Small & Medium Enterprises (help for micro- and small businesses); units of 1e7 (ten million)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab msme_num_2020\tab msme_num_2022--number of MSME (micro- and small) businesses registered under the online Udyam registration Portal (including Udyam Assist Platform)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab wag_rur_mal_2019, wag_rur_mal_ratio_2019, wag_rur_fem_2019, wag_rur_fem_ratio_2019, wag_rur_tot_2019, wag_rur_tot_ratio_2019 (and _2022)--wage data for rural / urban / total, male / female / persons: average hourly wages (Rupees), and white collar / blue collar average wages ratio (coded in NCO-2015 occupation Division headings--average hourly wages over occupation divisions 1 thru 4 divided by average hourly wages over divisions 5 thru 9)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab unemp_rur_mal_2019\tab unemp_rur_fem_2019\tab unemp_rur_per_2019\tab unemp_urb_mal_2019\tab unemp_urb_fem_2019\tab unemp_urb_per_2019\tab unemp_tot_mal_2019\tab unemp_tot_fem_2019\tab unemp_tot_per_2019\tab unemp_rur_mal_2022 (and for _2022)--unemployment by categories: rural / urban / total, male / female / person (in percent)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab lfpr_rur_mal_2022\tab lfpr_rur_fem_2022\tab lfpr_rur_per_2022\tab lfpr_urb_mal_2022\tab lfpr_urb_fem_2022\tab lfpr_urb_per_2022\tab lfpr_tot_mal_2022\tab lfpr_tot_fem_2022\tab lfpr_tot_per_2022--labor force participation rate, urban/rural/total, male/female/person, 2022 only}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab bank_per_2019\tab bank_vil_bc_prop_2019\tab bank_per_2022\tab bank_vil_bc_prop_2022--percentage of banks per 1000 people, and proportion of village BC bank representatives to total banking outlets (this is not adjusted for rural/urban splits in that region; rural areas may naturally have a higher proportion); Business Correspondents (BCs) are bank representatives who provide banking services, especially in rural areas, acting as an extended arm of bank branches to facilitate financial inclusion}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab acc_per_per_2019\tab acc_per_per_2022--number scheduled commercial bank accounts (deposit and credit) per person}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab atm_per_000_2019\tab atm_per_000_2022--number of atms per 1000 people}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab Pop_2015\tab Pop_2019\tab Pop_2021\tab Pop_2022--estimated population counts for given years, in 1000s}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab gini_rur_hh_2022\tab gini_urb_hh_2022--Gini by household expenditure, rural / urban}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab }{\rtlch\afs20\ab \ltrch\fs20\b\loch
+from https://www.npci.org.in/what-we-do/nfs/district-wise-statistics (2023):}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab fields:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab nfs_app_vol--2023, approved ATM & card+PIN transactions on micro-ATMs (financial and non-financial) routed through NFS; it does not include NFS cash deposit transactions; (in millions)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab }{\rtlch\afs20\ab \ltrch\fs20\b\loch
+from https://digipay.gov.in/dashboard/default.aspx (2025):}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab fields:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab digital_payment_per_capita--from digidhan site, pulled from map--digital payments per capita, ca early 2025}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab }{\rtlch\afs20\ab \ltrch\fs20\b\loch
+from https://niua.in/intranet/sites/default/files/2802.pdf (various years):}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab fields:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab urb_pct_2011\tab urb_pct_2021\tab urb_pct_2031--percentage urban population in each state, various years (projected)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab }{\rtlch\afs20\ab \ltrch\fs20\b\loch
+from Household Consumer Expenditure Survey (HCES) (2022):}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab data: https://microdata.gov.in/NADA/index.php/catalog/226 (for 2022-2023, it was  https://microdata.gov.in/NADA/index.php/catalog/224)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab source / cite: Household Consumption Expenditure Survey of 2023-2024, Ministry of Statistics and Programme Implementation, Government of India, 2024}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab fields:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab exp_hh--total estimated expenses of the household per month}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab exp_onl_hh--online estimated expenses of the household per month}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab exp_onl_pct_hh--online estimated expenses of the household per month percentage}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab internet_has--has access to the internet}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab op_fuel--online purchases in category}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab op_cons--online purchases in category}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab op_educ--online purchases in category}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab op_meds--online purchases in category}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab op_other--online purchases in category}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab educ_mem--member of household currently getting an education}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab educ_free_book--of those members getting an education how many received free \{item\}}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab educ_free_book_num--of those members who received \{item\} how many \{items\} did they receive}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab educ_free_pap--of those members getting an education how many received free \{item\}}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab educ_free_pap_num--of those members who received \{item\} how many \{items\} did they receive}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab educ_free_bag--of those members getting an education how many received free \{item\}}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab educ_free_bag_num--of those members who received \{item\} how many \{items\} did they receive}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab educ_free_other--of those members getting an education how many received free \{item\}}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab educ_free_other_num--of those members who received \{item\} how many \{items\} did they receive}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab educ_free_tuit--of those members getting an education how many received free \{item\}}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab educ_free_tuit_num--of those members who received \{item\} how many \{items\} did they receive}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab educ_att_mean--highest education attained mean}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab educ_att_med--highest education attained median}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab educ_att_std--highest education achieved standard deviation}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab has_tv--has a \{item\}}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab has_radio--has a \{item\}}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab has_laptop--has a \{item\}}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab has_mobile_dev--has a \{item\}}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab has_bicycle--has a \{item\}}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab has_scooter--has a \{item\}}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab has_motorcar--has a \{item\}}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab has_truck--has a \{item\}}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab has_animalcar--has a \{item\}}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab has_fridge--has a \{item\}}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab has_washmach--has a \{item\}}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab has_aircon--has a \{item\}}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab land_owns--whether owns land}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab land_agr_owns--whether owns agricultural land}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab }{\rtlch\afs20\ab \ltrch\fs20\b\loch
+from All India Debt and Investment Survey (AIDIS) (2019):}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab data: https://microdata.gov.in/NADA/index.php/catalog/156}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab source / cite: Debt and Investment 77th Round: JANUARY 2019 \u8211\'96 DECEMBER 2019-Visit 1 and Visit 2, , Ministry of Statistics and Programme Implementation, Government of India, 2019}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab fields:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab pay_cd_used--whether has used a credit or debit card in the last 365 days}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab pay_ewal--whether has an ewallet}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab pay_ewal_used--whether has used ewallet in the last 365 days}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab acct_comm--whether has deposit account in a commerical institution}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab acct_post--whether has deposit account in a post office}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab acct_nbfc--whether has deposit account in a nonbanking financial institution}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab acct_nia--whether has deposit account in a non institutional agency}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab reg_loan_val_sd--regular loan value on date of survey}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab reg_loan_val_acq--regular loan value of acquisition}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab reg_loan_val_disp--regular loan disposable value}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab reg_loan_val_aa--regular loan all above}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab reg_loan_year_borr--regular loan year borrowed}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab reg_loan_amt_borr--regular loan amount borrowed}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab reg_loan_ten--regular loan tenure}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab reg_loan_aroi--regular loan annual rate of interest}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab reg_loan_amt_out--regular loan amount outstanding}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab kind_loan_per--kind loan period}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab kind_loan_amt_out--kind loan amount outstanding}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab kind_loan_src_pro--kind loan source: doctors lawyers and professionals}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab kind_loan_src_supp--kind loan source: input suppliers}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab kind_loan_src_other--kind loan source: other}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab kind_loan_src_f&f--kind loan source: friends & family}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab }{\rtlch\afs20\ab \ltrch\fs20\b\loch
+from Kaggle dataset (<=2021):}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab https://www.kaggle.com/code/aganguly/social-media-analysis-in-india}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab this would be data from 2021 or earlier (source does not specify the year, but source post was 4 years old as of 2025)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab fields:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab dig_soc_fb--social media use, facebook minutes per user per week}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab dig_soc_ig--social media use, instagram minutes per user per week}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab dig_soc_wa--social media use, whatsapp minutes per user per week}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab }{\rtlch\afs20\ab \ltrch\fs20\b\loch
+from India startups dataset (2025):}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab https://dataful.in/datasets/15737/}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab created March, 2025, "state and industry wise number of startups that gained DPIIT's recognition since inception in 2016"}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab fields:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_arvr--Startups in AR VR (Augmented + Virtual Reality)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_adv--Startups in Advertising}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_space--Startups in Aeronautics Aerospace & Defence}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_agri--Startups in Agriculture}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_air--Startups in Airport Operations}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_meas--Startups in Analytics}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_anim--Startups in Animation}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_arch--Startups in Architecture Interior Design}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_art--Startups in Art & Photography}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_auto--Startups in Automotive}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_biotech--Startups in Biotechnology}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_chem--Startups in Chemicals}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_cv--Startups in Computer Vision}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_cons--Startups in Construction}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_dating--Startups in Dating Matrimonial}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_design--Startups in Design}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_educ--Startups in Education}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_saas--Startups in Enterprise Software}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_events--Startups in Events}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_fashion--Startups in Fashion}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_fintech--Startups in Finance Technology}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_f&b--Startups in Food & Beverages}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_greentech--Startups in Green Technology}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_healthcare--Startups in Healthcare & Lifesciences}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_hhs--Startups in House-Hold Services}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_hr--Startups in Human Resources}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_it--Startups in IT Services}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_inlang--Startups in Indic Language Startups}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_iot--Startups in Internet of Things}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_log--Startups in Logistics}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_mark--Startups in Marketing}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_media--Startups in Media & Entertainment}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_nanotech--Startups in Nanotechnology}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_nre--Startups in Non- Renewable Energy}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_or--Startups in Other Specialty Retailers}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_others--Startups in Others}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_pass--Startups in Passenger Experience}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_pets--Startups in Pets & Animals}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_pcs--Startups in Professional & Commercial Services}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_realestate--Startups in Real Estate}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_energy--Startups in Renewable Energy}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_retail--Startups in Retail}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_robot--Startups in Robotics}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_safety--Startups in Safety}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_sec--Startups in Security Solutions}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_socimp--Startups in Social Impact}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_socnet--Startups in Social Network}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_sports--Startups in Sports}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_hard--Startups in Technology Hardware}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_telecom--Startups in Telecommunication & Networking}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_text--Startups in Textiles & Apparel}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_toys--Startups in Toys and Games}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_storage--Startups in Transportation & Storage}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_travel--Startups in Travel & Tourism}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab su_wm--Startups in Waste Management]}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab }
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab }{\rtlch\afs20\ab \ltrch\fs20\b\loch
+from Unified District Information System for Education (UDISE+) School Data Capture (2021):}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab data: https://ndap.niti.gov.in/dataset/8978\tab (may require sign-in)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab https://www.education.gov.in/udise-report-2021-22\tab (an associated report)}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab cite/source: UDISE+ 2021-22 data, Dept of School Education, Ministry of Education, Government of India; National Infomatics Centre, Government of India}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab stud_marks_median--average student marks median}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab stud_marks_std--standard deviation of student marks}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_bwr--school has Boys Toilet}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_comp--school has Computers used for pedagogical purposes}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_med--school has Conducting Medical Checkup of Students in Last Academic Year}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_digilib--school has Digital Library}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_water--school has Drinking Water}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_elec--school has Electricity}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_func_bwr--school has Functional Boys Toilet}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_func_water--school has Functional Drinking Water}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_func_elec--school has Functional Electricity}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_func_gwr--school has Functional Girls Toilet}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_gwr--school has Girls Toilet}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_wash--school has Hand wash facility}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab schoool_internet--school has Internet Facility}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_kg--school has Kitchen Garden}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_lib--school has Library/ Book Bank/ Reading Corner}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_play--school has Playground}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_ptr--school has Pupil Teacher Ratio}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_rwhs--school has Rainwater Harvesting System}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_ramp--school has Ramp}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_r&h--school has Ramp and Handrails}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_cwsn--school has Schools with CWSN Toilet facilities}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_solar--school has Solar Panel}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab school_func_comp--school has functional Computers used for pedagogical purposes}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab }{\rtlch\afs20\ab \ltrch\fs20\b\loch
+SPEI and general climate measures:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab 'num_3mo_dgt_00_22', 'num_12mo_dgt_00_22', 'num_24mo_dgt_00_22', 'num_3mo_fld_00_22', 'num_12mo_fld_00_22', 'num_24mo_fld_00_22'--drought (dgt) and flood (fld) occurrence frequency within set time period, per state, taken cumulatively over time frame 2000-2022}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab 'temp_avg_2020'--temperature average for that state, taking years 2018-2022 inclusive}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab }{\rtlch\afs20\ab \ltrch\fs20\b\loch
+from https://www.data.gov.in/resource/stateut-wise-details-internet-penetration-internet-subscribers-100-population-urbanrural}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab fields:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab teledensity_pct--percent coverage of internet--internet subscribers per 100 population, ca 2024}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab }{\rtlch\afs20\ab \ltrch\fs20\b\loch
+from msc / to-be-cited sources (various years / specifics unknown):}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab }
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab fields:}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab ut_num_districts--total number of districts in the state}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab ut_rolledout_districts--total number of districts in the state, where eservices have been rolled out}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab num_launched_eservices--number of launched eservices}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab eservices_per_district--eservices per total number of districts in the state}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab ut_rolledout_districts_pct--total number of districts in the state, where eservices have been rolled out, %}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab total_population--total population in the state; note this is probably ca 2023 or later, and note the population for Dadra & Nagar Haveli and Daman & Diu may be underestimated for this time period}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab pop_on_Aadhaar--total population on aadhaar}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1{\rtlch\afs20 \ltrch\fs20\loch
+\tab pop_on_Aadhaar_pct--total population on aadhaar, %}
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\rtlch\afs20 \ltrch\fs20\loch
+
+\par \pard\plain \s0\dbch\af6\langfe1081\dbch\af6\afs24\alang1081\ql\widctlpar\hyphpar0\ltrpar\cf0\loch\f3\fs24\lang1033\kerning1\loch
+
+\par }
