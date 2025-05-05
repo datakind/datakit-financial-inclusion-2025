@@ -1,0 +1,2470 @@
+ENTIDAD,NOM_ENT,MUN,NOM_MUN,LOC,NOM_LOC,P_5YMAS,P_12YMAS,P_15YMAS,P_18YMAS
+01,Aguascalientes,001,Aguascalientes,0000,Total del Municipio,871193,756970,707473,657539
+01,Aguascalientes,002,Asientos,0000,Total del Municipio,46095,38399,35250,32032
+01,Aguascalientes,003,Calvillo,0000,Total del Municipio,52691,44778,41495,38275
+01,Aguascalientes,004,Cosío,0000,Total del Municipio,15254,12820,11817,10772
+01,Aguascalientes,005,Jesús María,0000,Total del Municipio,117571,99250,91487,83807
+01,Aguascalientes,006,Pabellón de Arteaga,0000,Total del Municipio,42881,36250,33468,30596
+01,Aguascalientes,007,Rincón de Romos,0000,Total del Municipio,51232,42927,39505,36034
+01,Aguascalientes,008,San José de Gracia,0000,Total del Municipio,8484,7068,6519,5961
+01,Aguascalientes,009,Tepezalá,0000,Total del Municipio,20212,16877,15573,14200
+01,Aguascalientes,010,El Llano,0000,Total del Municipio,18740,15851,14603,13378
+01,Aguascalientes,011,San Francisco de los Romo,0000,Total del Municipio,55316,45529,41714,38170
+02,Baja California,001,Ensenada,0000,Total del Municipio,410359,361229,339720,318838
+02,Baja California,002,Mexicali,0000,Total del Municipio,981769,866472,814668,763343
+02,Baja California,003,Tecate,0000,Total del Municipio,99900,87982,82545,77367
+02,Baja California,004,Tijuana,0000,Total del Municipio,1779843,1562395,1467282,1374132
+02,Baja California,005,Playas de Rosarito,0000,Total del Municipio,118069,103540,96931,90397
+02,Baja California,006,San Quintín,0000,Total del Municipio,104560,88002,81352,74831
+03,Baja California Sur,001,Comondú,0000,Total del Municipio,67639,59034,55168,51078
+03,Baja California Sur,002,Mulegé,0000,Total del Municipio,58230,50215,46913,43631
+03,Baja California Sur,003,La Paz,0000,Total del Municipio,272072,240687,227140,213135
+03,Baja California Sur,008,Los Cabos,0000,Total del Municipio,317532,272917,254833,237564
+03,Baja California Sur,009,Loreto,0000,Total del Municipio,16677,14443,13498,12568
+04,Campeche,001,Calkiní,0000,Total del Municipio,54114,46750,43717,40831
+04,Campeche,002,Campeche,0000,Total del Municipio,271903,239859,226479,212959
+04,Campeche,003,Carmen,0000,Total del Municipio,225092,196474,184437,172802
+04,Campeche,004,Champotón,0000,Total del Municipio,70951,60026,55767,51500
+04,Campeche,005,Hecelchakán,0000,Total del Municipio,29208,25104,23366,21736
+04,Campeche,006,Hopelchén,0000,Total del Municipio,37661,31631,29013,26588
+04,Campeche,007,Palizada,0000,Total del Municipio,7903,6759,6241,5791
+04,Campeche,008,Tenabo,0000,Total del Municipio,10506,8997,8332,7778
+04,Campeche,009,Escárcega,0000,Total del Municipio,54229,45321,41839,38614
+04,Campeche,010,Calakmul,0000,Total del Municipio,27663,22485,20425,18531
+04,Campeche,011,Candelaria,0000,Total del Municipio,41812,34640,31792,29212
+04,Campeche,012,Seybaplaya,0000,Total del Municipio,14092,12289,11543,10847
+05,Coahuila de Zaragoza,001,Abasolo,0000,Total del Municipio,947,852,814,780
+05,Coahuila de Zaragoza,002,Acuña,0000,Total del Municipio,147375,125920,117214,108327
+05,Coahuila de Zaragoza,003,Allende,0000,Total del Municipio,20877,17925,16746,15653
+05,Coahuila de Zaragoza,004,Arteaga,0000,Total del Municipio,26691,22910,21494,20095
+05,Coahuila de Zaragoza,005,Candela,0000,Total del Municipio,1496,1280,1186,1093
+05,Coahuila de Zaragoza,006,Castaños,0000,Total del Municipio,26396,22594,21100,19656
+05,Coahuila de Zaragoza,007,Cuatro Ciénegas,0000,Total del Municipio,11434,9739,9037,8412
+05,Coahuila de Zaragoza,008,Escobedo,0000,Total del Municipio,2783,2335,2187,2044
+05,Coahuila de Zaragoza,009,Francisco I. Madero,0000,Total del Municipio,53049,45439,42221,39099
+05,Coahuila de Zaragoza,010,Frontera,0000,Total del Municipio,74687,64518,60250,56139
+05,Coahuila de Zaragoza,011,General Cepeda,0000,Total del Municipio,10785,9175,8530,7933
+05,Coahuila de Zaragoza,012,Guerrero,0000,Total del Municipio,1524,1318,1230,1147
+05,Coahuila de Zaragoza,013,Hidalgo,0000,Total del Municipio,1529,1266,1142,1034
+05,Coahuila de Zaragoza,014,Jiménez,0000,Total del Municipio,8622,7379,6893,6388
+05,Coahuila de Zaragoza,015,Juárez,0000,Total del Municipio,1436,1237,1151,1081
+05,Coahuila de Zaragoza,016,Lamadrid,0000,Total del Municipio,1625,1437,1352,1277
+05,Coahuila de Zaragoza,017,Matamoros,0000,Total del Municipio,107553,92761,86195,79477
+05,Coahuila de Zaragoza,018,Monclova,0000,Total del Municipio,217289,189023,177572,166199
+05,Coahuila de Zaragoza,019,Morelos,0000,Total del Municipio,7223,6219,5781,5352
+05,Coahuila de Zaragoza,020,Múzquiz,0000,Total del Municipio,64134,55005,51328,47760
+05,Coahuila de Zaragoza,021,Nadadores,0000,Total del Municipio,6048,5312,4946,4662
+05,Coahuila de Zaragoza,022,Nava,0000,Total del Municipio,29949,25425,23558,21804
+05,Coahuila de Zaragoza,023,Ocampo,0000,Total del Municipio,8793,7430,6857,6345
+05,Coahuila de Zaragoza,024,Parras,0000,Total del Municipio,40272,34924,32659,30320
+05,Coahuila de Zaragoza,025,Piedras Negras,0000,Total del Municipio,160444,138116,128865,119747
+05,Coahuila de Zaragoza,026,Progreso,0000,Total del Municipio,2910,2522,2357,2208
+05,Coahuila de Zaragoza,027,Ramos Arizpe,0000,Total del Municipio,110656,94232,87996,82001
+05,Coahuila de Zaragoza,028,Sabinas,0000,Total del Municipio,59028,51260,48078,44883
+05,Coahuila de Zaragoza,029,Sacramento,0000,Total del Municipio,2246,1942,1818,1697
+05,Coahuila de Zaragoza,030,Saltillo,0000,Total del Municipio,797381,691325,648009,604373
+05,Coahuila de Zaragoza,031,San Buenaventura,0000,Total del Municipio,22554,19635,18431,17282
+05,Coahuila de Zaragoza,032,San Juan de Sabinas,0000,Total del Municipio,38745,34011,32046,30061
+05,Coahuila de Zaragoza,033,San Pedro,0000,Total del Municipio,91558,78170,72410,66858
+05,Coahuila de Zaragoza,034,Sierra Mojada,0000,Total del Municipio,6017,5071,4733,4428
+05,Coahuila de Zaragoza,035,Torreón,0000,Total del Municipio,660788,577017,541716,505944
+05,Coahuila de Zaragoza,036,Viesca,0000,Total del Municipio,18396,15777,14551,13306
+05,Coahuila de Zaragoza,037,Villa Unión,0000,Total del Municipio,5535,4755,4429,4100
+05,Coahuila de Zaragoza,038,Zaragoza,0000,Total del Municipio,11925,10185,9450,8806
+06,Colima,001,Armería,0000,Total del Municipio,25478,21911,20454,19045
+06,Colima,002,Colima,0000,Total del Municipio,146939,130585,123399,115978
+06,Colima,003,Comala,0000,Total del Municipio,20124,17676,16597,15449
+06,Colima,004,Coquimatlán,0000,Total del Municipio,19257,16820,15756,14679
+06,Colima,005,Cuauhtémoc,0000,Total del Municipio,29109,25651,24120,22456
+06,Colima,006,Ixtlahuacán,0000,Total del Municipio,5258,4603,4352,4083
+06,Colima,007,Manzanillo,0000,Total del Municipio,175889,153659,143996,134542
+06,Colima,008,Minatitlán,0000,Total del Municipio,9202,7844,7315,6821
+06,Colima,009,Tecomán,0000,Total del Municipio,106808,91243,84877,78759
+06,Colima,010,Villa de Álvarez,0000,Total del Municipio,139058,122416,115406,108221
+07,Chiapas,001,Acacoyagua,0000,Total del Municipio,15931,13015,11882,10832
+07,Chiapas,002,Acala,0000,Total del Municipio,19145,16066,14783,13572
+07,Chiapas,003,Acapetahua,0000,Total del Municipio,24235,20388,18919,17566
+07,Chiapas,004,Altamirano,0000,Total del Municipio,31273,25188,22649,20278
+07,Chiapas,005,Amatán,0000,Total del Municipio,21625,17315,15684,14190
+07,Chiapas,006,Amatenango de la Frontera,0000,Total del Municipio,28498,23199,21132,19347
+07,Chiapas,007,Amatenango del Valle,0000,Total del Municipio,9996,8108,7294,6558
+07,Chiapas,008,Angel Albino Corzo,0000,Total del Municipio,28476,23353,21285,19376
+07,Chiapas,009,Arriaga,0000,Total del Municipio,37964,32882,30573,28333
+07,Chiapas,010,Bejucal de Ocampo,0000,Total del Municipio,6590,5321,4783,4304
+07,Chiapas,011,Bella Vista,0000,Total del Municipio,18145,14798,13371,12109
+07,Chiapas,012,Berriozábal,0000,Total del Municipio,58146,48130,44252,40588
+07,Chiapas,013,Bochil,0000,Total del Municipio,30049,23988,21522,19263
+07,Chiapas,014,El Bosque,0000,Total del Municipio,21064,16591,14821,13275
+07,Chiapas,015,Cacahoatán,0000,Total del Municipio,45023,37677,34574,31616
+07,Chiapas,016,Catazajá,0000,Total del Municipio,16118,13949,13042,12192
+07,Chiapas,017,Cintalapa,0000,Total del Municipio,79637,67137,62177,57360
+07,Chiapas,018,Coapilla,0000,Total del Municipio,8774,7137,6537,5964
+07,Chiapas,019,Comitán de Domínguez,0000,Total del Municipio,151469,128831,119571,110447
+07,Chiapas,020,La Concordia,0000,Total del Municipio,45020,37270,34232,31455
+07,Chiapas,021,Copainalá,0000,Total del Municipio,19988,16833,15516,14182
+07,Chiapas,022,Chalchihuitán,0000,Total del Municipio,18338,13621,11947,10474
+07,Chiapas,023,Chamula,0000,Total del Municipio,88094,68246,60966,54163
+07,Chiapas,024,Chanal,0000,Total del Municipio,11358,8201,7060,6063
+07,Chiapas,025,Chapultenango,0000,Total del Municipio,6672,5532,5031,4502
+07,Chiapas,026,Chenalhó,0000,Total del Municipio,40905,31429,27952,24769
+07,Chiapas,027,Chiapa de Corzo,0000,Total del Municipio,101770,86184,79957,73950
+07,Chiapas,028,Chiapilla,0000,Total del Municipio,5650,4842,4500,4166
+07,Chiapas,029,Chicoasén,0000,Total del Municipio,4846,4066,3745,3421
+07,Chiapas,030,Chicomuselo,0000,Total del Municipio,33042,27078,24683,22471
+07,Chiapas,031,Chilón,0000,Total del Municipio,119628,91671,80490,71082
+07,Chiapas,032,Escuintla,0000,Total del Municipio,27651,22981,21020,19209
+07,Chiapas,033,Francisco León,0000,Total del Municipio,6438,5251,4716,4252
+07,Chiapas,034,Frontera Comalapa,0000,Total del Municipio,72653,60447,55506,50868
+07,Chiapas,035,Frontera Hidalgo,0000,Total del Municipio,12944,10859,10021,9224
+07,Chiapas,036,La Grandeza,0000,Total del Municipio,6800,5460,4875,4313
+07,Chiapas,037,Huehuetán,0000,Total del Municipio,32830,27760,25696,23733
+07,Chiapas,038,Huixtán,0000,Total del Municipio,20202,16147,14475,12987
+07,Chiapas,039,Huitiupán,0000,Total del Municipio,24516,19497,17619,15835
+07,Chiapas,040,Huixtla,0000,Total del Municipio,48613,41225,38034,35026
+07,Chiapas,041,La Independencia,0000,Total del Municipio,41808,34810,32233,29649
+07,Chiapas,042,Ixhuatán,0000,Total del Municipio,9960,8002,7210,6541
+07,Chiapas,043,Ixtacomitán,0000,Total del Municipio,9838,8124,7444,6795
+07,Chiapas,044,Ixtapa,0000,Total del Municipio,25807,21276,19440,17661
+07,Chiapas,045,Ixtapangajoya,0000,Total del Municipio,5584,4677,4340,3947
+07,Chiapas,046,Jiquipilas,0000,Total del Municipio,37362,31901,29544,27349
+07,Chiapas,047,Jitotol,0000,Total del Municipio,20558,15964,14223,12694
+07,Chiapas,048,Juárez,0000,Total del Municipio,19700,16790,15536,14409
+07,Chiapas,049,Larráinzar,0000,Total del Municipio,26234,19474,17111,15011
+07,Chiapas,050,La Libertad,0000,Total del Municipio,4800,4176,3901,3652
+07,Chiapas,051,Mapastepec,0000,Total del Municipio,41762,34891,32233,29720
+07,Chiapas,052,Las Margaritas,0000,Total del Municipio,123187,99946,90750,81774
+07,Chiapas,053,Mazapa de Madero,0000,Total del Municipio,7102,5758,5172,4668
+07,Chiapas,054,Mazatán,0000,Total del Municipio,25574,21716,20095,18614
+07,Chiapas,055,Metapa,0000,Total del Municipio,5258,4426,4132,3813
+07,Chiapas,056,Mitontic,0000,Total del Municipio,11416,8430,7453,6510
+07,Chiapas,057,Motozintla,0000,Total del Municipio,68000,55364,50088,45143
+07,Chiapas,058,Nicolás Ruíz,0000,Total del Municipio,4262,3499,3131,2756
+07,Chiapas,059,Ocosingo,0000,Total del Municipio,204655,160281,142803,126929
+07,Chiapas,060,Ocotepec,0000,Total del Municipio,12019,9282,8082,6981
+07,Chiapas,061,Ocozocoautla de Espinosa,0000,Total del Municipio,87499,72241,66136,60275
+07,Chiapas,062,Ostuacán,0000,Total del Municipio,16400,13352,12195,11160
+07,Chiapas,063,Osumacinta,0000,Total del Municipio,3538,2991,2737,2486
+07,Chiapas,064,Oxchuc,0000,Total del Municipio,47339,35767,31466,27769
+07,Chiapas,065,Palenque,0000,Total del Municipio,117901,97016,88739,80791
+07,Chiapas,066,Pantelhó,0000,Total del Municipio,22887,17366,15282,13427
+07,Chiapas,067,Pantepec,0000,Total del Municipio,10873,8855,7947,7102
+07,Chiapas,068,Pichucalco,0000,Total del Municipio,29048,24729,22918,21176
+07,Chiapas,069,Pijijiapan,0000,Total del Municipio,46885,39559,36671,33968
+07,Chiapas,070,El Porvenir,0000,Total del Municipio,10920,8775,7814,7009
+07,Chiapas,071,Villa Comaltitlán,0000,Total del Municipio,27424,22971,21247,19613
+07,Chiapas,072,Pueblo Nuevo Solistahuacán,0000,Total del Municipio,25662,20356,18198,16234
+07,Chiapas,073,Rayón,0000,Total del Municipio,9624,7832,7051,6311
+07,Chiapas,074,Reforma,0000,Total del Municipio,40154,33519,30829,28413
+07,Chiapas,075,Las Rosas,0000,Total del Municipio,26061,21680,19853,18182
+07,Chiapas,076,Sabanilla,0000,Total del Municipio,26185,21126,19278,17421
+07,Chiapas,077,Salto de Agua,0000,Total del Municipio,57660,46923,42521,38461
+07,Chiapas,078,San Cristóbal de las Casas,0000,Total del Municipio,196086,166063,153740,141275
+07,Chiapas,079,San Fernando,0000,Total del Municipio,37856,31741,29225,26865
+07,Chiapas,080,Siltepec,0000,Total del Municipio,22828,18370,16480,14749
+07,Chiapas,081,Simojovel,0000,Total del Municipio,45366,35098,31230,27771
+07,Chiapas,082,Sitalá,0000,Total del Municipio,13564,10292,9044,7966
+07,Chiapas,083,Socoltenango,0000,Total del Municipio,17187,14421,13390,12424
+07,Chiapas,084,Solosuchiapa,0000,Total del Municipio,7647,6266,5644,5138
+07,Chiapas,085,Soyaló,0000,Total del Municipio,9625,7990,7295,6651
+07,Chiapas,086,Suchiapa,0000,Total del Municipio,23255,19486,18004,16609
+07,Chiapas,087,Suchiate,0000,Total del Municipio,37231,30808,28274,25862
+07,Chiapas,088,Sunuapa,0000,Total del Municipio,2055,1695,1554,1439
+07,Chiapas,089,Tapachula,0000,Total del Municipio,317155,272327,253411,234735
+07,Chiapas,090,Tapalapa,0000,Total del Municipio,4038,3284,2947,2667
+07,Chiapas,091,Tapilula,0000,Total del Municipio,12238,10181,9290,8464
+07,Chiapas,092,Tecpatán,0000,Total del Municipio,19088,16060,14757,13453
+07,Chiapas,093,Tenejapa,0000,Total del Municipio,41556,31859,28225,25111
+07,Chiapas,094,Teopisca,0000,Total del Municipio,43782,35070,31591,28408
+07,Chiapas,096,Tila,0000,Total del Municipio,63896,51134,46206,41594
+07,Chiapas,097,Tonalá,0000,Total del Municipio,83861,71634,66597,61444
+07,Chiapas,098,Totolapa,0000,Total del Municipio,6379,5235,4837,4406
+07,Chiapas,099,La Trinitaria,0000,Total del Municipio,74855,62332,57597,53100
+07,Chiapas,100,Tumbalá,0000,Total del Municipio,33626,26865,24324,21951
+07,Chiapas,101,Tuxtla Gutiérrez,0000,Total del Municipio,553313,484613,456012,426558
+07,Chiapas,102,Tuxtla Chico,0000,Total del Municipio,37123,31689,29279,26975
+07,Chiapas,103,Tuzantán,0000,Total del Municipio,27389,22724,20825,19054
+07,Chiapas,104,Tzimol,0000,Total del Municipio,15147,12837,11963,11077
+07,Chiapas,105,Unión Juárez,0000,Total del Municipio,14542,12319,11343,10407
+07,Chiapas,106,Venustiano Carranza,0000,Total del Municipio,61275,51413,47309,43485
+07,Chiapas,107,Villa Corzo,0000,Total del Municipio,58709,49206,45500,42062
+07,Chiapas,108,Villaflores,0000,Total del Municipio,99700,84522,78389,72463
+07,Chiapas,109,Yajalón,0000,Total del Municipio,35617,29044,26412,23936
+07,Chiapas,110,San Lucas,0000,Total del Municipio,6679,5371,4844,4406
+07,Chiapas,111,Zinacantán,0000,Total del Municipio,40267,32123,28892,25814
+07,Chiapas,112,San Juan Cancuc,0000,Total del Municipio,32206,24018,20926,18360
+07,Chiapas,113,Aldama,0000,Total del Municipio,7302,5421,4722,4116
+07,Chiapas,114,Benemérito de las Américas,0000,Total del Municipio,20454,16297,14713,13290
+07,Chiapas,115,Maravilla Tenejapa,0000,Total del Municipio,12668,9884,8830,7868
+07,Chiapas,116,Marqués de Comillas,0000,Total del Municipio,11249,8861,7989,7130
+07,Chiapas,117,Montecristo de Guerrero,0000,Total del Municipio,7416,5906,5343,4867
+07,Chiapas,118,San Andrés Duraznal,0000,Total del Municipio,5249,3985,3512,3162
+07,Chiapas,119,Santiago el Pinar,0000,Total del Municipio,4205,3174,2785,2461
+07,Chiapas,120,Capitán Luis Ángel Vidal,0000,Total del Municipio,3851,3122,2801,2511
+07,Chiapas,121,Rincón Chamula San Pedro,0000,Total del Municipio,7517,5728,5100,4506
+07,Chiapas,122,El Parral,0000,Total del Municipio,14223,12024,11146,10294
+07,Chiapas,123,Emiliano Zapata,0000,Total del Municipio,9916,8407,7800,7194
+07,Chiapas,124,Mezcalapa,0000,Total del Municipio,21215,17172,15658,14032
+07,Chiapas,125,Honduras de la Sierra,0000,Total del Municipio,10364,8335,7458,6719
+08,Chihuahua,001,Ahumada,0000,Total del Municipio,12984,10823,9942,9210
+08,Chihuahua,002,Aldama,0000,Total del Municipio,23875,20621,19182,17875
+08,Chihuahua,003,Allende,0000,Total del Municipio,7829,6971,6543,6138
+08,Chihuahua,004,Aquiles Serdán,0000,Total del Municipio,22284,19128,17886,16706
+08,Chihuahua,005,Ascensión,0000,Total del Municipio,23573,19807,18078,16505
+08,Chihuahua,006,Bachíniva,0000,Total del Municipio,5377,4727,4429,4215
+08,Chihuahua,007,Balleza,0000,Total del Municipio,14664,11968,10888,9947
+08,Chihuahua,008,Batopilas de Manuel Gómez Morín,0000,Total del Municipio,9849,7696,6916,6316
+08,Chihuahua,009,Bocoyna,0000,Total del Municipio,21030,17921,16489,15160
+08,Chihuahua,010,Buenaventura,0000,Total del Municipio,22800,19368,17805,16358
+08,Chihuahua,011,Camargo,0000,Total del Municipio,45298,39752,37232,34646
+08,Chihuahua,012,Carichí,0000,Total del Municipio,7192,5945,5445,4999
+08,Chihuahua,013,Casas Grandes,0000,Total del Municipio,10755,9226,8547,7884
+08,Chihuahua,014,Coronado,0000,Total del Municipio,1855,1637,1541,1455
+08,Chihuahua,015,Coyame del Sotol,0000,Total del Municipio,1109,985,938,886
+08,Chihuahua,016,La Cruz,0000,Total del Municipio,3437,3009,2802,2595
+08,Chihuahua,017,Cuauhtémoc,0000,Total del Municipio,165752,142881,132984,123276
+08,Chihuahua,018,Cusihuiriachi,0000,Total del Municipio,4706,4138,3885,3623
+08,Chihuahua,019,Chihuahua,0000,Total del Municipio,869210,769164,725805,681445
+08,Chihuahua,020,Chínipas,0000,Total del Municipio,5620,4733,4339,3949
+08,Chihuahua,021,Delicias,0000,Total del Municipio,138484,120758,112956,105585
+08,Chihuahua,022,Dr. Belisario Domínguez,0000,Total del Municipio,2338,2143,2042,1943
+08,Chihuahua,023,Galeana,0000,Total del Municipio,5865,4787,4309,3913
+08,Chihuahua,024,Santa Isabel,0000,Total del Municipio,3560,3195,3017,2860
+08,Chihuahua,025,Gómez Farías,0000,Total del Municipio,6508,5731,5343,4990
+08,Chihuahua,026,Gran Morelos,0000,Total del Municipio,2312,2102,2005,1930
+08,Chihuahua,027,Guachochi,0000,Total del Municipio,45048,37024,33408,30424
+08,Chihuahua,028,Guadalupe,0000,Total del Municipio,3930,3410,3151,2852
+08,Chihuahua,029,Guadalupe y Calvo,0000,Total del Municipio,44298,35377,31783,28674
+08,Chihuahua,030,Guazapares,0000,Total del Municipio,7210,5825,5277,4851
+08,Chihuahua,031,Guerrero,0000,Total del Municipio,32490,28216,26280,24398
+08,Chihuahua,032,Hidalgo del Parral,0000,Total del Municipio,107106,93257,87407,81592
+08,Chihuahua,033,Huejotitán,0000,Total del Municipio,752,657,621,589
+08,Chihuahua,034,Ignacio Zaragoza,0000,Total del Municipio,4860,4351,4090,3866
+08,Chihuahua,035,Janos,0000,Total del Municipio,9838,8216,7553,6913
+08,Chihuahua,036,Jiménez,0000,Total del Municipio,37091,31806,29548,27361
+08,Chihuahua,037,Juárez,0000,Total del Municipio,1396238,1212522,1127670,1044895
+08,Chihuahua,038,Julimes,0000,Total del Municipio,4558,3982,3743,3512
+08,Chihuahua,039,López,0000,Total del Municipio,3818,3328,3095,2881
+08,Chihuahua,040,Madera,0000,Total del Municipio,22832,19740,18283,16941
+08,Chihuahua,041,Maguarichi,0000,Total del Municipio,1164,998,915,862
+08,Chihuahua,042,Manuel Benavides,0000,Total del Municipio,1110,1013,979,925
+08,Chihuahua,043,Matachí,0000,Total del Municipio,2544,2258,2135,2012
+08,Chihuahua,044,Matamoros,0000,Total del Municipio,3978,3461,3245,3051
+08,Chihuahua,045,Meoqui,0000,Total del Municipio,41143,35554,33077,30646
+08,Chihuahua,046,Morelos,0000,Total del Municipio,6333,5095,4639,4221
+08,Chihuahua,047,Moris,0000,Total del Municipio,3948,3359,3092,2843
+08,Chihuahua,048,Namiquipa,0000,Total del Municipio,20891,18215,17003,15958
+08,Chihuahua,049,Nonoava,0000,Total del Municipio,2536,2180,2011,1865
+08,Chihuahua,050,Nuevo Casas Grandes,0000,Total del Municipio,60370,52200,48589,45074
+08,Chihuahua,051,Ocampo,0000,Total del Municipio,7216,5921,5399,4994
+08,Chihuahua,052,Ojinaga,0000,Total del Municipio,22341,19479,18257,17102
+08,Chihuahua,053,Praxedis G. Guerrero,0000,Total del Municipio,4665,4083,3786,3484
+08,Chihuahua,054,Riva Palacio,0000,Total del Municipio,6893,5853,5414,4951
+08,Chihuahua,055,Rosales,0000,Total del Municipio,15557,13655,12795,11880
+08,Chihuahua,056,Rosario,0000,Total del Municipio,1949,1756,1666,1565
+08,Chihuahua,057,San Francisco de Borja,0000,Total del Municipio,2073,1856,1748,1657
+08,Chihuahua,058,San Francisco de Conchos,0000,Total del Municipio,2503,2239,2115,1985
+08,Chihuahua,059,San Francisco del Oro,0000,Total del Municipio,4591,3943,3694,3456
+08,Chihuahua,060,Santa Bárbara,0000,Total del Municipio,10469,9037,8468,7950
+08,Chihuahua,061,Satevó,0000,Total del Municipio,3229,2925,2760,2624
+08,Chihuahua,062,Saucillo,0000,Total del Municipio,27497,24056,22396,20818
+08,Chihuahua,063,Temósachic,0000,Total del Municipio,4900,4277,4003,3743
+08,Chihuahua,064,El Tule,0000,Total del Municipio,1347,1188,1125,1061
+08,Chihuahua,065,Urique,0000,Total del Municipio,15082,12354,11182,10249
+08,Chihuahua,066,Uruachi,0000,Total del Municipio,5873,4907,4519,4134
+08,Chihuahua,067,Valle de Zaragoza,0000,Total del Municipio,4407,3878,3638,3425
+09,Ciudad de México,002,Azcapotzalco,0000,Total del Municipio,410780,377144,361474,345123
+09,Ciudad de México,003,Coyoacán,0000,Total del Municipio,587692,543990,522992,500374
+09,Ciudad de México,004,Cuajimalpa de Morelos,0000,Total del Municipio,203315,181693,172263,162395
+09,Ciudad de México,005,Gustavo A. Madero,0000,Total del Municipio,1109855,1007795,960772,911482
+09,Ciudad de México,006,Iztacalco,0000,Total del Municipio,384051,350684,335205,319021
+09,Ciudad de México,007,Iztapalapa,0000,Total del Municipio,1731943,1550672,1468256,1383459
+09,Ciudad de México,008,La Magdalena Contreras,0000,Total del Municipio,234567,211148,200201,189047
+09,Ciudad de México,009,Milpa Alta,0000,Total del Municipio,142323,124381,116360,108278
+09,Ciudad de México,010,Álvaro Obregón,0000,Total del Municipio,719830,653085,622262,590251
+09,Ciudad de México,011,Tláhuac,0000,Total del Municipio,368453,326890,308117,288877
+09,Ciudad de México,012,Tlalpan,0000,Total del Municipio,664540,599895,570245,539464
+09,Ciudad de México,013,Xochimilco,0000,Total del Municipio,417099,373104,352920,332325
+09,Ciudad de México,014,Benito Juárez,0000,Total del Municipio,417473,393387,382872,372085
+09,Ciudad de México,015,Cuauhtémoc,0000,Total del Municipio,519786,480461,462349,444024
+09,Ciudad de México,016,Miguel Hidalgo,0000,Total del Municipio,388565,359069,346049,332956
+09,Ciudad de México,017,Venustiano Carranza,0000,Total del Municipio,420142,382101,365208,347576
+10,Durango,001,Canatlán,0000,Total del Municipio,28756,24706,23070,21461
+10,Durango,002,Canelas,0000,Total del Municipio,3816,3141,2885,2646
+10,Durango,003,Coneto de Comonfort,0000,Total del Municipio,3668,3076,2818,2575
+10,Durango,004,Cuencamé,0000,Total del Municipio,31636,26811,24805,22926
+10,Durango,005,Durango,0000,Total del Municipio,629696,541021,505256,469120
+10,Durango,006,General Simón Bolívar,0000,Total del Municipio,9022,7613,7010,6436
+10,Durango,007,Gómez Palacio,0000,Total del Municipio,337790,290021,270289,250675
+10,Durango,008,Guadalupe Victoria,0000,Total del Municipio,33671,28946,26984,25047
+10,Durango,009,Guanaceví,0000,Total del Municipio,8800,7492,6962,6514
+10,Durango,010,Hidalgo,0000,Total del Municipio,3542,3085,2874,2701
+10,Durango,011,Indé,0000,Total del Municipio,4322,3750,3517,3310
+10,Durango,012,Lerdo,0000,Total del Municipio,148747,127848,119126,110137
+10,Durango,013,Mapimí,0000,Total del Municipio,23857,19797,18187,16623
+10,Durango,014,Mezquital,0000,Total del Municipio,41201,31172,27142,23694
+10,Durango,015,Nazas,0000,Total del Municipio,11749,9908,9182,8517
+10,Durango,016,Nombre de Dios,0000,Total del Municipio,17359,14771,13723,12684
+10,Durango,017,Ocampo,0000,Total del Municipio,7370,6484,6073,5694
+10,Durango,018,El Oro,0000,Total del Municipio,9503,8308,7793,7319
+10,Durango,019,Otáez,0000,Total del Municipio,4355,3597,3281,2996
+10,Durango,020,Pánuco de Coronado,0000,Total del Municipio,11573,10048,9382,8741
+10,Durango,021,Peñón Blanco,0000,Total del Municipio,10097,8499,7872,7278
+10,Durango,022,Poanas,0000,Total del Municipio,23365,20094,18626,17254
+10,Durango,023,Pueblo Nuevo,0000,Total del Municipio,45396,36957,33473,30271
+10,Durango,024,Rodeo,0000,Total del Municipio,11589,9793,9041,8379
+10,Durango,025,San Bernardo,0000,Total del Municipio,2633,2347,2209,2090
+10,Durango,026,San Dimas,0000,Total del Municipio,15463,12838,11702,10703
+10,Durango,027,San Juan de Guadalupe,0000,Total del Municipio,4777,4075,3775,3465
+10,Durango,028,San Juan del Río,0000,Total del Municipio,10867,9118,8471,7933
+10,Durango,029,San Luis del Cordero,0000,Total del Municipio,1891,1613,1508,1392
+10,Durango,030,San Pedro del Gallo,0000,Total del Municipio,1491,1294,1228,1138
+10,Durango,031,Santa Clara,0000,Total del Municipio,6061,5151,4776,4450
+10,Durango,032,Santiago Papasquiaro,0000,Total del Municipio,44515,37803,35124,32594
+10,Durango,033,Súchil,0000,Total del Municipio,6250,5270,4871,4519
+10,Durango,034,Tamazula,0000,Total del Municipio,23083,18860,17101,15501
+10,Durango,035,Tepehuanes,0000,Total del Municipio,10398,8917,8330,7772
+10,Durango,036,Tlahualilo,0000,Total del Municipio,19040,16109,14888,13712
+10,Durango,037,Topia,0000,Total del Municipio,8245,6830,6252,5756
+10,Durango,038,Vicente Guerrero,0000,Total del Municipio,21174,18093,16872,15642
+10,Durango,039,Nuevo Ideal,0000,Total del Municipio,25107,20865,19093,17464
+11,Guanajuato,001,Abasolo,0000,Total del Municipio,83655,71592,66565,61603
+11,Guanajuato,002,Acámbaro,0000,Total del Municipio,100184,87626,82330,76891
+11,Guanajuato,003,San Miguel de Allende,0000,Total del Municipio,158168,136485,126897,117311
+11,Guanajuato,004,Apaseo el Alto,0000,Total del Municipio,57713,49438,45885,42387
+11,Guanajuato,005,Apaseo el Grande,0000,Total del Municipio,102682,88009,81652,75734
+11,Guanajuato,006,Atarjea,0000,Total del Municipio,4828,4136,3802,3493
+11,Guanajuato,007,Celaya,0000,Total del Municipio,479437,418215,392140,365309
+11,Guanajuato,008,Manuel Doblado,0000,Total del Municipio,37396,31674,29423,27261
+11,Guanajuato,009,Comonfort,0000,Total del Municipio,74076,63027,58343,53561
+11,Guanajuato,010,Coroneo,0000,Total del Municipio,10113,8609,7980,7345
+11,Guanajuato,011,Cortazar,0000,Total del Municipio,89978,78512,73444,68329
+11,Guanajuato,012,Cuerámaro,0000,Total del Municipio,28134,24029,22371,20691
+11,Guanajuato,013,Doctor Mora,0000,Total del Municipio,24537,20624,18997,17302
+11,Guanajuato,014,Dolores Hidalgo Cuna de la Independencia Nacional,0000,Total del Municipio,145968,122384,112618,102896
+11,Guanajuato,015,Guanajuato,0000,Total del Municipio,177925,155454,145735,136247
+11,Guanajuato,016,Huanímaro,0000,Total del Municipio,19271,16553,15416,14272
+11,Guanajuato,017,Irapuato,0000,Total del Municipio,541668,469377,439479,409113
+11,Guanajuato,018,Jaral del Progreso,0000,Total del Municipio,35509,30743,28664,26666
+11,Guanajuato,019,Jerécuaro,0000,Total del Municipio,44870,38370,35654,33101
+11,Guanajuato,020,León,0000,Total del Municipio,1569818,1359560,1269313,1177073
+11,Guanajuato,021,Moroleón,0000,Total del Municipio,44366,39729,37544,35309
+11,Guanajuato,022,Ocampo,0000,Total del Municipio,23724,20181,18743,17149
+11,Guanajuato,023,Pénjamo,0000,Total del Municipio,141101,121451,113198,105043
+11,Guanajuato,024,Pueblo Nuevo,0000,Total del Municipio,11335,9757,9112,8480
+11,Guanajuato,025,Purísima del Rincón,0000,Total del Municipio,75531,63671,58825,53941
+11,Guanajuato,026,Romita,0000,Total del Municipio,59031,50022,46431,42824
+11,Guanajuato,027,Salamanca,0000,Total del Municipio,252149,221707,208256,194601
+11,Guanajuato,028,Salvatierra,0000,Total del Municipio,87267,76387,71844,67301
+11,Guanajuato,029,San Diego de la Unión,0000,Total del Municipio,36944,31308,28848,26285
+11,Guanajuato,030,San Felipe,0000,Total del Municipio,106716,88904,81787,74571
+11,Guanajuato,031,San Francisco del Rincón,0000,Total del Municipio,118149,100893,93779,86566
+11,Guanajuato,032,San José Iturbide,0000,Total del Municipio,80839,68135,62738,57476
+11,Guanajuato,033,San Luis de la Paz,0000,Total del Municipio,115566,97298,89300,81306
+11,Guanajuato,034,Santa Catarina,0000,Total del Municipio,5147,4367,4033,3674
+11,Guanajuato,035,Santa Cruz de Juventino Rosas,0000,Total del Municipio,74889,63501,58877,54345
+11,Guanajuato,036,Santiago Maravatío,0000,Total del Municipio,6207,5496,5205,4884
+11,Guanajuato,037,Silao de la Victoria,0000,Total del Municipio,183437,155929,143976,132270
+11,Guanajuato,038,Tarandacuao,0000,Total del Municipio,10392,9045,8464,7858
+11,Guanajuato,039,Tarimoro,0000,Total del Municipio,33140,28825,27103,25443
+11,Guanajuato,040,Tierra Blanca,0000,Total del Municipio,17907,15090,13796,12514
+11,Guanajuato,041,Uriangato,0000,Total del Municipio,57077,50688,47751,44660
+11,Guanajuato,042,Valle de Santiago,0000,Total del Municipio,137412,119432,111522,103620
+11,Guanajuato,043,Victoria,0000,Total del Municipio,19098,16042,14765,13404
+11,Guanajuato,044,Villagrán,0000,Total del Municipio,59875,51293,47652,44088
+11,Guanajuato,045,Xichú,0000,Total del Municipio,10028,8385,7672,6947
+11,Guanajuato,046,Yuriria,0000,Total del Municipio,62782,54759,51264,47798
+12,Guerrero,001,Acapulco de Juárez,0000,Total del Municipio,712707,622553,583294,543597
+12,Guerrero,002,Ahuacuotzingo,0000,Total del Municipio,22195,17794,16154,14507
+12,Guerrero,003,Ajuchitlán del Progreso,0000,Total del Municipio,33470,27873,25647,23558
+12,Guerrero,004,Alcozauca de Guerrero,0000,Total del Municipio,18184,14056,12459,11108
+12,Guerrero,005,Alpoyeca,0000,Total del Municipio,7032,5871,5302,4826
+12,Guerrero,006,Apaxtla,0000,Total del Municipio,9971,8344,7711,7062
+12,Guerrero,007,Arcelia,0000,Total del Municipio,29804,25136,23338,21612
+12,Guerrero,008,Atenango del Río,0000,Total del Municipio,8223,6918,6424,5947
+12,Guerrero,009,Atlamajalcingo del Monte,0000,Total del Municipio,5042,4042,3627,3228
+12,Guerrero,010,Atlixtac,0000,Total del Municipio,24945,19544,17259,15276
+12,Guerrero,011,Atoyac de Álvarez,0000,Total del Municipio,55648,47431,44018,40507
+12,Guerrero,012,Ayutla de los Libres,0000,Total del Municipio,61259,49759,44912,40002
+12,Guerrero,013,Azoyú,0000,Total del Municipio,13752,11627,10716,9845
+12,Guerrero,014,Benito Juárez,0000,Total del Municipio,14440,12729,11973,11138
+12,Guerrero,015,Buenavista de Cuéllar,0000,Total del Municipio,11925,10423,9746,8998
+12,Guerrero,016,Coahuayutla de José María Izazaga,0000,Total del Municipio,11035,9310,8610,7952
+12,Guerrero,017,Cocula,0000,Total del Municipio,14037,11866,11018,10280
+12,Guerrero,018,Copala,0000,Total del Municipio,13098,11070,10189,9335
+12,Guerrero,019,Copalillo,0000,Total del Municipio,13728,11205,10195,9162
+12,Guerrero,020,Copanatoyac,0000,Total del Municipio,18725,14867,13254,11641
+12,Guerrero,021,Coyuca de Benítez,0000,Total del Municipio,66998,57085,52940,48595
+12,Guerrero,022,Coyuca de Catalán,0000,Total del Municipio,33610,28593,26517,24770
+12,Guerrero,023,Cuajinicuilapa,0000,Total del Municipio,23889,19794,18075,16522
+12,Guerrero,024,Cualác,0000,Total del Municipio,6865,5682,5101,4603
+12,Guerrero,025,Cuautepec,0000,Total del Municipio,15230,12536,11364,10267
+12,Guerrero,026,Cuetzala del Progreso,0000,Total del Municipio,7528,6448,6014,5589
+12,Guerrero,027,Cutzamala de Pinzón,0000,Total del Municipio,18566,15872,14905,13930
+12,Guerrero,028,Chilapa de Álvarez,0000,Total del Municipio,109654,89538,81158,73134
+12,Guerrero,029,Chilpancingo de los Bravo,0000,Total del Municipio,257275,221160,205892,190420
+12,Guerrero,030,Florencio Villarreal,0000,Total del Municipio,19974,16592,15178,13938
+12,Guerrero,031,General Canuto A. Neri,0000,Total del Municipio,5607,4663,4297,3974
+12,Guerrero,032,General Heliodoro Castillo,0000,Total del Municipio,32420,25706,22967,20393
+12,Guerrero,033,Huamuxtitlán,0000,Total del Municipio,15649,13125,12110,11116
+12,Guerrero,034,Huitzuco de los Figueroa,0000,Total del Municipio,33029,28356,26534,24650
+12,Guerrero,035,Iguala de la Independencia,0000,Total del Municipio,140934,121727,113827,105749
+12,Guerrero,036,Igualapa,0000,Total del Municipio,10592,8735,7897,7118
+12,Guerrero,037,Ixcateopan de Cuauhtémoc,0000,Total del Municipio,5595,4834,4553,4244
+12,Guerrero,038,Zihuatanejo de Azueta,0000,Total del Municipio,113304,97818,91425,85168
+12,Guerrero,039,Juan R. Escudero,0000,Total del Municipio,23834,20274,18783,17288
+12,Guerrero,040,Leonardo Bravo,0000,Total del Municipio,23324,19029,17437,16032
+12,Guerrero,041,Malinaltepec,0000,Total del Municipio,26230,20933,18439,16157
+12,Guerrero,042,Mártir de Cuilapan,0000,Total del Municipio,16508,13332,12094,11045
+12,Guerrero,043,Metlatónoc,0000,Total del Municipio,16134,12324,10686,9368
+12,Guerrero,044,Mochitlán,0000,Total del Municipio,11300,9596,8905,8193
+12,Guerrero,045,Olinalá,0000,Total del Municipio,25047,20415,18574,16856
+12,Guerrero,046,Ometepec,0000,Total del Municipio,61484,51457,46936,42347
+12,Guerrero,047,Pedro Ascencio Alquisiras,0000,Total del Municipio,6265,5141,4729,4314
+12,Guerrero,048,Petatlán,0000,Total del Municipio,40203,34315,31743,29384
+12,Guerrero,049,Pilcaya,0000,Total del Municipio,11562,9785,9027,8370
+12,Guerrero,050,Pungarabato,0000,Total del Municipio,34846,29794,27690,25750
+12,Guerrero,051,Quechultenango,0000,Total del Municipio,32193,26325,24014,21579
+12,Guerrero,052,San Luis Acatlán,0000,Total del Municipio,41193,33576,30064,26570
+12,Guerrero,053,San Marcos,0000,Total del Municipio,45537,38194,35162,32108
+12,Guerrero,054,San Miguel Totolapan,0000,Total del Municipio,21155,17133,15613,14253
+12,Guerrero,055,Taxco de Alarcón,0000,Total del Municipio,96972,84582,79003,73213
+12,Guerrero,056,Tecoanapa,0000,Total del Municipio,41498,34649,31682,28456
+12,Guerrero,057,Técpan de Galeana,0000,Total del Municipio,59523,51354,47983,44551
+12,Guerrero,058,Teloloapan,0000,Total del Municipio,48228,40463,37493,34580
+12,Guerrero,059,Tepecoacuilco de Trujano,0000,Total del Municipio,27924,23949,22338,20891
+12,Guerrero,060,Tetipac,0000,Total del Municipio,12226,10306,9517,8750
+12,Guerrero,061,Tixtla de Guerrero,0000,Total del Municipio,39442,33657,31111,28610
+12,Guerrero,062,Tlacoachistlahuaca,0000,Total del Municipio,20175,16053,14134,12493
+12,Guerrero,063,Tlacoapa,0000,Total del Municipio,9101,7378,6568,5850
+12,Guerrero,064,Tlalchapa,0000,Total del Municipio,10595,9018,8441,7889
+12,Guerrero,065,Tlalixtaquilla de Maldonado,0000,Total del Municipio,6729,5567,5112,4724
+12,Guerrero,066,Tlapa de Comonfort,0000,Total del Municipio,84801,69553,63049,56967
+12,Guerrero,067,Tlapehuala,0000,Total del Municipio,20067,16951,15708,14563
+12,Guerrero,068,La Unión de Isidoro Montes de Oca,0000,Total del Municipio,23865,20343,19065,17723
+12,Guerrero,069,Xalpatláhuac,0000,Total del Municipio,10388,8404,7488,6746
+12,Guerrero,070,Xochihuehuetlán,0000,Total del Municipio,7064,6092,5678,5239
+12,Guerrero,071,Xochistlahuaca,0000,Total del Municipio,26894,22480,20302,18134
+12,Guerrero,072,Zapotitlán Tablas,0000,Total del Municipio,10572,8458,7556,6781
+12,Guerrero,073,Zirándaro,0000,Total del Municipio,15334,12998,11978,11065
+12,Guerrero,074,Zitlala,0000,Total del Municipio,19615,15926,14399,12857
+12,Guerrero,075,Eduardo Neri,0000,Total del Municipio,47647,39851,36882,34055
+12,Guerrero,076,Acatepec,0000,Total del Municipio,35084,27278,23798,20544
+12,Guerrero,077,Marquelia,0000,Total del Municipio,12952,10850,9979,9117
+12,Guerrero,078,Cochoapa el Grande,0000,Total del Municipio,17959,13234,11399,9988
+12,Guerrero,079,José Joaquín de Herrera,0000,Total del Municipio,16189,12728,11212,9772
+12,Guerrero,080,Juchitán,0000,Total del Municipio,6859,5739,5305,4864
+12,Guerrero,081,Iliatenco,0000,Total del Municipio,10353,8576,7631,6628
+13,Hidalgo,001,Acatlán,0000,Total del Municipio,20207,17090,15766,14467
+13,Hidalgo,002,Acaxochitlán,0000,Total del Municipio,40996,33767,30649,27787
+13,Hidalgo,003,Actopan,0000,Total del Municipio,56396,48750,45450,42294
+13,Hidalgo,004,Agua Blanca de Iturbide,0000,Total del Municipio,9421,8018,7386,6768
+13,Hidalgo,005,Ajacuba,0000,Total del Municipio,17530,15241,14311,13346
+13,Hidalgo,006,Alfajayucan,0000,Total del Municipio,17761,15261,14145,13138
+13,Hidalgo,007,Almoloya,0000,Total del Municipio,11576,9888,9180,8508
+13,Hidalgo,008,Apan,0000,Total del Municipio,43129,37517,35154,32633
+13,Hidalgo,009,El Arenal,0000,Total del Municipio,18319,15650,14594,13435
+13,Hidalgo,010,Atitalaquia,0000,Total del Municipio,29243,25645,24062,22407
+13,Hidalgo,011,Atlapexco,0000,Total del Municipio,18345,15854,14568,13367
+13,Hidalgo,012,Atotonilco el Grande,0000,Total del Municipio,27741,23796,22097,20456
+13,Hidalgo,013,Atotonilco de Tula,0000,Total del Municipio,57417,48840,45138,41688
+13,Hidalgo,014,Calnali,0000,Total del Municipio,14997,12985,11964,10938
+13,Hidalgo,015,Cardonal,0000,Total del Municipio,17898,15375,14302,13279
+13,Hidalgo,016,Cuautepec de Hinojosa,0000,Total del Municipio,55221,47190,43584,40182
+13,Hidalgo,017,Chapantongo,0000,Total del Municipio,11970,10334,9639,9007
+13,Hidalgo,018,Chapulhuacán,0000,Total del Municipio,20731,17480,16072,14775
+13,Hidalgo,019,Chilcuautla,0000,Total del Municipio,17425,14923,13921,12879
+13,Hidalgo,020,Eloxochitlán,0000,Total del Municipio,2436,2145,2015,1911
+13,Hidalgo,021,Emiliano Zapata,0000,Total del Municipio,14064,12268,11422,10610
+13,Hidalgo,022,Epazoyucan,0000,Total del Municipio,15200,13316,12411,11483
+13,Hidalgo,023,Francisco I. Madero,0000,Total del Municipio,33877,29542,27591,25728
+13,Hidalgo,024,Huasca de Ocampo,0000,Total del Municipio,16026,13509,12488,11555
+13,Hidalgo,025,Huautla,0000,Total del Municipio,19198,16671,15425,14229
+13,Hidalgo,026,Huazalingo,0000,Total del Municipio,11697,9890,8980,8115
+13,Hidalgo,027,Huehuetla,0000,Total del Municipio,20849,17771,16318,14861
+13,Hidalgo,028,Huejutla de Reyes,0000,Total del Municipio,115229,97198,89154,81829
+13,Hidalgo,029,Huichapan,0000,Total del Municipio,43682,37784,35326,32792
+13,Hidalgo,030,Ixmiquilpan,0000,Total del Municipio,90445,77697,72117,66974
+13,Hidalgo,031,Jacala de Ledezma,0000,Total del Municipio,11418,9923,9264,8671
+13,Hidalgo,032,Jaltocán,0000,Total del Municipio,9695,8306,7662,7063
+13,Hidalgo,033,Juárez Hidalgo,0000,Total del Municipio,2711,2369,2194,2033
+13,Hidalgo,034,Lolotla,0000,Total del Municipio,8603,7298,6733,6179
+13,Hidalgo,035,Metepec,0000,Total del Municipio,11900,10066,9235,8489
+13,Hidalgo,036,San Agustín Metzquititlán,0000,Total del Municipio,8858,7814,7309,6789
+13,Hidalgo,037,Metztitlán,0000,Total del Municipio,19491,17021,15888,14819
+13,Hidalgo,038,Mineral del Chico,0000,Total del Municipio,8134,6962,6459,5983
+13,Hidalgo,039,Mineral del Monte,0000,Total del Municipio,13393,11823,11031,10304
+13,Hidalgo,040,La Misión,0000,Total del Municipio,9056,7789,7220,6697
+13,Hidalgo,041,Mixquiahuala de Juárez,0000,Total del Municipio,43993,38160,35684,33241
+13,Hidalgo,042,Molango de Escamilla,0000,Total del Municipio,10711,9169,8519,7831
+13,Hidalgo,043,Nicolás Flores,0000,Total del Municipio,5776,4922,4514,4144
+13,Hidalgo,044,Nopala de Villagrán,0000,Total del Municipio,15574,13694,12878,12028
+13,Hidalgo,045,Omitlán de Juárez,0000,Total del Municipio,8611,7371,6814,6295
+13,Hidalgo,046,San Felipe Orizatlán,0000,Total del Municipio,35093,29776,27223,24958
+13,Hidalgo,047,Pacula,0000,Total del Municipio,4380,3758,3512,3291
+13,Hidalgo,048,Pachuca de Soto,0000,Total del Municipio,292136,261324,247140,231928
+13,Hidalgo,049,Pisaflores,0000,Total del Municipio,16424,13372,12070,10960
+13,Hidalgo,050,Progreso de Obregón,0000,Total del Municipio,21946,19135,18007,16794
+13,Hidalgo,051,Mineral de la Reforma,0000,Total del Municipio,189188,166337,156086,145587
+13,Hidalgo,052,San Agustín Tlaxiaca,0000,Total del Municipio,36225,31500,29383,27244
+13,Hidalgo,053,San Bartolo Tutotepec,0000,Total del Municipio,16393,14006,12817,11619
+13,Hidalgo,054,San Salvador,0000,Total del Municipio,34258,29465,27507,25479
+13,Hidalgo,055,Santiago de Anaya,0000,Total del Municipio,16879,14495,13530,12547
+13,Hidalgo,056,Santiago Tulantepec de Lugo Guerrero,0000,Total del Municipio,36550,31619,29436,27224
+13,Hidalgo,057,Singuilucan,0000,Total del Municipio,13918,11935,11030,10183
+13,Hidalgo,058,Tasquillo,0000,Total del Municipio,16166,14047,13130,12192
+13,Hidalgo,059,Tecozautla,0000,Total del Municipio,34859,29852,27795,25621
+13,Hidalgo,060,Tenango de Doria,0000,Total del Municipio,15959,13464,12370,11396
+13,Hidalgo,061,Tepeapulco,0000,Total del Municipio,52573,46542,43835,40959
+13,Hidalgo,062,Tepehuacán de Guerrero,0000,Total del Municipio,27701,22490,20445,18618
+13,Hidalgo,063,Tepeji del Río de Ocampo,0000,Total del Municipio,83126,72070,67316,62603
+13,Hidalgo,064,Tepetitlán,0000,Total del Municipio,10076,8795,8258,7731
+13,Hidalgo,065,Tetepango,0000,Total del Municipio,10848,9448,8862,8247
+13,Hidalgo,066,Villa de Tezontepec,0000,Total del Municipio,11947,10391,9697,9001
+13,Hidalgo,067,Tezontepec de Aldama,0000,Total del Municipio,50778,43612,40557,37414
+13,Hidalgo,068,Tianguistengo,0000,Total del Municipio,13173,11088,10155,9385
+13,Hidalgo,069,Tizayuca,0000,Total del Municipio,154564,132443,122076,112367
+13,Hidalgo,070,Tlahuelilpan,0000,Total del Municipio,17609,15218,14245,13124
+13,Hidalgo,071,Tlahuiltepa,0000,Total del Municipio,8423,7286,6774,6285
+13,Hidalgo,072,Tlanalapa,0000,Total del Municipio,10431,9173,8630,8109
+13,Hidalgo,073,Tlanchinol,0000,Total del Municipio,34033,28341,25853,23481
+13,Hidalgo,074,Tlaxcoapan,0000,Total del Municipio,26506,23150,21709,20182
+13,Hidalgo,075,Tolcayuca,0000,Total del Municipio,19755,17001,15831,14718
+13,Hidalgo,076,Tula de Allende,0000,Total del Municipio,106729,93834,88186,82498
+13,Hidalgo,077,Tulancingo de Bravo,0000,Total del Municipio,154712,134469,125514,116362
+13,Hidalgo,078,Xochiatipan,0000,Total del Municipio,16773,14091,12628,11368
+13,Hidalgo,079,Xochicoatlán,0000,Total del Municipio,6535,5758,5398,4982
+13,Hidalgo,080,Yahualica,0000,Total del Municipio,22481,19065,17297,15544
+13,Hidalgo,081,Zacualtipán de Ángeles,0000,Total del Municipio,34628,29883,27800,25619
+13,Hidalgo,082,Zapotlán de Juárez,0000,Total del Municipio,19916,17452,16221,15023
+13,Hidalgo,083,Zempoala,0000,Total del Municipio,54044,47045,43955,40988
+13,Hidalgo,084,Zimapán,0000,Total del Municipio,36761,31588,29306,27122
+14,Jalisco,001,Acatic,0000,Total del Municipio,20983,17781,16442,15170
+14,Jalisco,002,Acatlán de Juárez,0000,Total del Municipio,23146,20096,17759,16031
+14,Jalisco,003,Ahualulco de Mercado,0000,Total del Municipio,21775,18889,17602,16375
+14,Jalisco,004,Amacueca,0000,Total del Municipio,5236,4461,4132,3852
+14,Jalisco,005,Amatitán,0000,Total del Municipio,14951,12717,11744,10764
+14,Jalisco,006,Ameca,0000,Total del Municipio,55950,48634,45529,42363
+14,Jalisco,007,San Juanito de Escobedo,0000,Total del Municipio,8615,7402,6855,6325
+14,Jalisco,008,Arandas,0000,Total del Municipio,73504,63102,58742,54084
+14,Jalisco,009,El Arenal,0000,Total del Municipio,19113,16173,14958,13766
+14,Jalisco,010,Atemajac de Brizuela,0000,Total del Municipio,6942,5728,5229,4738
+14,Jalisco,011,Atengo,0000,Total del Municipio,5104,4364,4075,3766
+14,Jalisco,012,Atenguillo,0000,Total del Municipio,3878,3407,3203,3003
+14,Jalisco,013,Atotonilco el Alto,0000,Total del Municipio,57920,49535,46168,42764
+14,Jalisco,014,Atoyac,0000,Total del Municipio,8024,6941,6494,6046
+14,Jalisco,015,Autlán de Navarro,0000,Total del Municipio,59891,51888,48415,45107
+14,Jalisco,016,Ayotlán,0000,Total del Municipio,37489,31521,29001,26655
+14,Jalisco,017,Ayutla,0000,Total del Municipio,11825,10017,9357,8718
+14,Jalisco,018,La Barca,0000,Total del Municipio,61936,52948,49223,45544
+14,Jalisco,019,Bolaños,0000,Total del Municipio,6216,4685,4238,3805
+14,Jalisco,020,Cabo Corrientes,0000,Total del Municipio,10006,8504,7829,7222
+14,Jalisco,021,Casimiro Castillo,0000,Total del Municipio,18737,16120,15023,13968
+14,Jalisco,022,Cihuatlán,0000,Total del Municipio,36282,31076,28747,26523
+14,Jalisco,023,Zapotlán el Grande,0000,Total del Municipio,106547,93900,88429,82854
+14,Jalisco,024,Cocula,0000,Total del Municipio,26965,23190,21637,20112
+14,Jalisco,025,Colotlán,0000,Total del Municipio,18018,15707,14718,13746
+14,Jalisco,026,Concepción de Buenos Aires,0000,Total del Municipio,5833,5031,4712,4386
+14,Jalisco,027,Cuautitlán de García Barragán,0000,Total del Municipio,16638,14006,12913,11838
+14,Jalisco,028,Cuautla,0000,Total del Municipio,1990,1750,1640,1541
+14,Jalisco,029,Cuquío,0000,Total del Municipio,16284,14006,13035,12077
+14,Jalisco,030,Chapala,0000,Total del Municipio,50744,44513,41749,39103
+14,Jalisco,031,Chimaltitán,0000,Total del Municipio,2917,2387,2148,1965
+14,Jalisco,032,Chiquilistlán,0000,Total del Municipio,5327,4422,4067,3743
+14,Jalisco,033,Degollado,0000,Total del Municipio,19148,16319,15142,14068
+14,Jalisco,034,Ejutla,0000,Total del Municipio,1845,1630,1538,1451
+14,Jalisco,035,Encarnación de Díaz,0000,Total del Municipio,48198,41099,38070,35232
+14,Jalisco,036,Etzatlán,0000,Total del Municipio,18311,15710,14558,13432
+14,Jalisco,037,El Grullo,0000,Total del Municipio,23786,20477,19091,17841
+14,Jalisco,038,Guachinango,0000,Total del Municipio,3829,3336,3136,2940
+14,Jalisco,039,Guadalajara,0000,Total del Municipio,1295876,1166391,1109168,1048048
+14,Jalisco,040,Hostotipaquillo,0000,Total del Municipio,7993,6724,6212,5704
+14,Jalisco,041,Huejúcar,0000,Total del Municipio,5465,4798,4502,4212
+14,Jalisco,042,Huejuquilla el Alto,0000,Total del Municipio,8922,7445,6895,6370
+14,Jalisco,043,La Huerta,0000,Total del Municipio,21155,18079,16768,15537
+14,Jalisco,044,Ixtlahuacán de los Membrillos,0000,Total del Municipio,61613,51461,47277,43456
+14,Jalisco,045,Ixtlahuacán del Río,0000,Total del Municipio,18586,15801,14621,13562
+14,Jalisco,046,Jalostotitlán,0000,Total del Municipio,29654,25273,23434,21462
+14,Jalisco,047,Jamay,0000,Total del Municipio,22567,19244,17891,16536
+14,Jalisco,048,Jesús María,0000,Total del Municipio,17180,14714,13672,12598
+14,Jalisco,049,Jilotlán de los Dolores,0000,Total del Municipio,8545,7320,6812,6349
+14,Jalisco,050,Jocotepec,0000,Total del Municipio,42369,35889,33258,30584
+14,Jalisco,051,Juanacatlán,0000,Total del Municipio,27655,22793,21018,19469
+14,Jalisco,052,Juchitlán,0000,Total del Municipio,5051,4264,3965,3683
+14,Jalisco,053,Lagos de Moreno,0000,Total del Municipio,156074,133119,123465,113886
+14,Jalisco,054,El Limón,0000,Total del Municipio,4999,4474,4223,3991
+14,Jalisco,055,Magdalena,0000,Total del Municipio,19673,16604,15340,14143
+14,Jalisco,056,Santa María del Oro,0000,Total del Municipio,1695,1506,1410,1304
+14,Jalisco,057,La Manzanilla de la Paz,0000,Total del Municipio,3745,3270,3103,2921
+14,Jalisco,058,Mascota,0000,Total del Municipio,13350,11606,10839,10106
+14,Jalisco,059,Mazamitla,0000,Total del Municipio,12754,10856,10095,9346
+14,Jalisco,060,Mexticacán,0000,Total del Municipio,4854,4191,3911,3663
+14,Jalisco,061,Mezquitic,0000,Total del Municipio,19251,14294,12628,11155
+14,Jalisco,062,Mixtlán,0000,Total del Municipio,3349,2925,2733,2553
+14,Jalisco,063,Ocotlán,0000,Total del Municipio,97022,83864,78187,72598
+14,Jalisco,064,Ojuelos de Jalisco,0000,Total del Municipio,30022,25001,22874,20805
+14,Jalisco,065,Pihuamo,0000,Total del Municipio,10444,9045,8461,7900
+14,Jalisco,066,Poncitlán,0000,Total del Municipio,47630,39201,35995,32874
+14,Jalisco,067,Puerto Vallarta,0000,Total del Municipio,268563,234277,219691,205495
+14,Jalisco,068,Villa Purificación,0000,Total del Municipio,10280,8749,8144,7586
+14,Jalisco,069,Quitupan,0000,Total del Municipio,7107,6216,5875,5525
+14,Jalisco,070,El Salto,0000,Total del Municipio,211957,180202,167117,154224
+14,Jalisco,071,San Cristóbal de la Barranca,0000,Total del Municipio,2634,2249,2083,1946
+14,Jalisco,072,San Diego de Alejandría,0000,Total del Municipio,6871,5767,5320,4872
+14,Jalisco,073,San Juan de los Lagos,0000,Total del Municipio,65289,55416,51206,47152
+14,Jalisco,074,San Julián,0000,Total del Municipio,15265,13047,12204,11438
+14,Jalisco,075,San Marcos,0000,Total del Municipio,3438,2964,2763,2561
+14,Jalisco,076,San Martín de Bolaños,0000,Total del Municipio,2749,2322,2151,2002
+14,Jalisco,077,San Martín Hidalgo,0000,Total del Municipio,26052,22581,21194,19786
+14,Jalisco,078,San Miguel el Alto,0000,Total del Municipio,29081,24845,23118,21350
+14,Jalisco,079,Gómez Farías,0000,Total del Municipio,14927,12786,11913,11043
+14,Jalisco,080,San Sebastián del Oeste,0000,Total del Municipio,4636,4051,3794,3546
+14,Jalisco,081,Santa María de los Ángeles,0000,Total del Municipio,3262,2842,2672,2504
+14,Jalisco,082,Sayula,0000,Total del Municipio,34118,29316,27240,25337
+14,Jalisco,083,Tala,0000,Total del Municipio,80256,68602,63495,58461
+14,Jalisco,084,Talpa de Allende,0000,Total del Municipio,13763,11877,11031,10251
+14,Jalisco,085,Tamazula de Gordiano,0000,Total del Municipio,35851,31101,29291,27464
+14,Jalisco,086,Tapalpa,0000,Total del Municipio,18946,15676,14430,13226
+14,Jalisco,087,Tecalitlán,0000,Total del Municipio,15356,13208,12408,11587
+14,Jalisco,088,Tecolotlán,0000,Total del Municipio,15281,13191,12323,11471
+14,Jalisco,089,Techaluta de Montenegro,0000,Total del Municipio,3702,3177,2952,2749
+14,Jalisco,090,Tenamaxtlán,0000,Total del Municipio,6783,5910,5542,5143
+14,Jalisco,091,Teocaltiche,0000,Total del Municipio,36258,30964,28698,26452
+14,Jalisco,092,Teocuitatlán de Corona,0000,Total del Municipio,10290,9012,8484,7943
+14,Jalisco,093,Tepatitlán de Morelos,0000,Total del Municipio,136840,117863,109795,101650
+14,Jalisco,094,Tequila,0000,Total del Municipio,40037,34088,31585,28824
+14,Jalisco,095,Teuchitlán,0000,Total del Municipio,8880,7763,7265,6740
+14,Jalisco,096,Tizapán el Alto,0000,Total del Municipio,20559,17428,16235,15046
+14,Jalisco,097,Tlajomulco de Zúñiga,0000,Total del Municipio,661491,555906,511639,469619
+14,Jalisco,098,San Pedro Tlaquepaque,0000,Total del Municipio,624931,542724,507240,471063
+14,Jalisco,099,Tolimán,0000,Total del Municipio,10114,8447,7849,7269
+14,Jalisco,100,Tomatlán,0000,Total del Municipio,32935,27870,25717,23737
+14,Jalisco,101,Tonalá,0000,Total del Municipio,519869,444591,412861,381144
+14,Jalisco,102,Tonaya,0000,Total del Municipio,5561,4875,4588,4303
+14,Jalisco,103,Tonila,0000,Total del Municipio,7007,6110,5717,5336
+14,Jalisco,104,Totatiche,0000,Total del Municipio,3826,3348,3145,2977
+14,Jalisco,105,Tototlán,0000,Total del Municipio,21473,18295,16932,15602
+14,Jalisco,106,Tuxcacuesco,0000,Total del Municipio,4964,4206,3945,3698
+14,Jalisco,107,Tuxcueca,0000,Total del Municipio,6036,5079,4678,4331
+14,Jalisco,108,Tuxpan,0000,Total del Municipio,34552,29663,27558,25579
+14,Jalisco,109,Unión de San Antonio,0000,Total del Municipio,17200,14710,13602,12498
+14,Jalisco,110,Unión de Tula,0000,Total del Municipio,12725,11017,10230,9544
+14,Jalisco,111,Valle de Guadalupe,0000,Total del Municipio,6034,5160,4797,4454
+14,Jalisco,112,Valle de Juárez,0000,Total del Municipio,5655,4911,4608,4312
+14,Jalisco,113,San Gabriel,0000,Total del Municipio,15039,12753,11872,11082
+14,Jalisco,114,Villa Corona,0000,Total del Municipio,17465,14955,13870,12728
+14,Jalisco,115,Villa Guerrero,0000,Total del Municipio,4975,4188,3896,3591
+14,Jalisco,116,Villa Hidalgo,0000,Total del Municipio,18210,15463,14265,13054
+14,Jalisco,117,Cañadas de Obregón,0000,Total del Municipio,4042,3520,3290,3074
+14,Jalisco,118,Yahualica de González Gallo,0000,Total del Municipio,20750,18131,16975,15847
+14,Jalisco,119,Zacoalco de Torres,0000,Total del Municipio,27873,23939,22287,20694
+14,Jalisco,120,Zapopan,0000,Total del Municipio,1332270,1178319,1111849,1043452
+14,Jalisco,121,Zapotiltic,0000,Total del Municipio,31028,26827,25182,23502
+14,Jalisco,122,Zapotitlán de Vadillo,0000,Total del Municipio,6772,5752,5328,4926
+14,Jalisco,123,Zapotlán del Rey,0000,Total del Municipio,17616,14963,13920,12881
+14,Jalisco,124,Zapotlanejo,0000,Total del Municipio,58727,49999,46389,42843
+14,Jalisco,125,San Ignacio Cerro Gordo,0000,Total del Municipio,16550,13855,12758,11708
+15,México,001,Acambay de Ruíz Castañeda,0000,Total del Municipio,61441,51859,47683,43522
+15,México,002,Acolman,0000,Total del Municipio,160402,140742,131464,121839
+15,México,003,Aculco,0000,Total del Municipio,44656,38043,35108,32158
+15,México,004,Almoloya de Alquisiras,0000,Total del Municipio,13826,11727,10789,9846
+15,México,005,Almoloya de Juárez,0000,Total del Municipio,158411,135076,124932,114982
+15,México,006,Almoloya del Río,0000,Total del Municipio,11575,9917,9230,8541
+15,México,007,Amanalco,0000,Total del Municipio,21185,17669,16283,14920
+15,México,008,Amatepec,0000,Total del Municipio,22859,19334,17964,16644
+15,México,009,Amecameca,0000,Total del Municipio,49226,43140,40472,37583
+15,México,010,Apaxco,0000,Total del Municipio,29237,25300,23595,21988
+15,México,011,Atenco,0000,Total del Municipio,69812,60238,55811,51406
+15,México,012,Atizapán,0000,Total del Municipio,11859,10034,9247,8497
+15,México,013,Atizapán de Zaragoza,0000,Total del Municipio,488656,436687,413825,390028
+15,México,014,Atlacomulco,0000,Total del Municipio,99434,84634,78059,71580
+15,México,015,Atlautla,0000,Total del Municipio,29031,24908,23182,21422
+15,México,016,Axapusco,0000,Total del Municipio,26777,23175,21430,19760
+15,México,017,Ayapango,0000,Total del Municipio,9262,7997,7430,6951
+15,México,018,Calimaya,0000,Total del Municipio,63000,54215,50552,46773
+15,México,019,Capulhuac,0000,Total del Municipio,33716,29203,27219,25250
+15,México,020,Coacalco de Berriozábal,0000,Total del Municipio,276199,248903,236153,222663
+15,México,021,Coatepec Harinas,0000,Total del Municipio,34326,28417,25945,23598
+15,México,022,Cocotitlán,0000,Total del Municipio,13997,12208,11387,10589
+15,México,023,Coyotepec,0000,Total del Municipio,37291,32184,29844,27491
+15,México,024,Cuautitlán,0000,Total del Municipio,168082,148775,139787,130607
+15,México,025,Chalco,0000,Total del Municipio,367237,317940,293820,270975
+15,México,026,Chapa de Mota,0000,Total del Municipio,28785,24310,22400,20462
+15,México,027,Chapultepec,0000,Total del Municipio,11806,10185,9413,8660
+15,México,028,Chiautla,0000,Total del Municipio,27728,24303,22650,21007
+15,México,029,Chicoloapan,0000,Total del Municipio,185426,161552,150579,139066
+15,México,030,Chiconcuac,0000,Total del Municipio,25417,22075,20614,19180
+15,México,031,Chimalhuacán,0000,Total del Municipio,643248,552046,512876,473650
+15,México,032,Donato Guerra,0000,Total del Municipio,33266,27169,24684,22239
+15,México,033,Ecatepec de Morelos,0000,Total del Municipio,1532662,1362028,1285180,1206713
+15,México,034,Ecatzingo,0000,Total del Municipio,9692,8182,7545,6921
+15,México,035,Huehuetoca,0000,Total del Municipio,150385,127562,117140,107567
+15,México,036,Hueypoxtla,0000,Total del Municipio,42980,36977,34163,31544
+15,México,037,Huixquilucan,0000,Total del Municipio,264685,234738,221509,207940
+15,México,038,Isidro Fabela,0000,Total del Municipio,10937,9423,8761,8051
+15,México,039,Ixtapaluca,0000,Total del Municipio,501735,439889,411266,381624
+15,México,040,Ixtapan de la Sal,0000,Total del Municipio,33431,28510,26357,24265
+15,México,041,Ixtapan del Oro,0000,Total del Municipio,5794,4816,4377,3984
+15,México,042,Ixtlahuaca,0000,Total del Municipio,146118,125038,115576,106245
+15,México,043,Xalatlaco,0000,Total del Municipio,27817,23694,21969,20218
+15,México,044,Jaltenco,0000,Total del Municipio,26266,23074,21570,20127
+15,México,045,Jilotepec,0000,Total del Municipio,80266,69649,64768,59814
+15,México,046,Jilotzingo,0000,Total del Municipio,18230,15791,14715,13596
+15,México,047,Jiquipilco,0000,Total del Municipio,69386,58401,53556,48823
+15,México,048,Jocotitlán,0000,Total del Municipio,63563,54712,50741,46857
+15,México,049,Joquicingo,0000,Total del Municipio,13989,11734,10849,10008
+15,México,050,Juchitepec,0000,Total del Municipio,24538,21049,19601,18117
+15,México,051,Lerma,0000,Total del Municipio,156924,135525,126367,116989
+15,México,052,Malinalco,0000,Total del Municipio,25549,21824,20193,18597
+15,México,053,Melchor Ocampo,0000,Total del Municipio,56293,48874,45505,42115
+15,México,054,Metepec,0000,Total del Municipio,226926,203078,191846,180245
+15,México,055,Mexicaltzingo,0000,Total del Municipio,12689,11014,10242,9481
+15,México,056,Morelos,0000,Total del Municipio,29829,25157,23066,21132
+15,México,057,Naucalpan de Juárez,0000,Total del Municipio,780385,697959,660141,621318
+15,México,058,Nezahualcóyotl,0000,Total del Municipio,1011728,907850,860754,811531
+15,México,059,Nextlalpan,0000,Total del Municipio,52339,44002,40509,37438
+15,México,060,Nicolás Romero,0000,Total del Municipio,398963,348089,325334,302132
+15,México,061,Nopaltepec,0000,Total del Municipio,9511,8308,7711,7121
+15,México,062,Ocoyoacac,0000,Total del Municipio,66486,58103,54294,50495
+15,México,063,Ocuilan,0000,Total del Municipio,32642,27256,25047,22852
+15,México,064,El Oro,0000,Total del Municipio,33729,28595,26363,24095
+15,México,065,Otumba,0000,Total del Municipio,33397,29076,27080,25135
+15,México,066,Otzoloapan,0000,Total del Municipio,4423,3624,3301,3033
+15,México,067,Otzolotepec,0000,Total del Municipio,81047,69624,64257,58871
+15,México,068,Ozumba,0000,Total del Municipio,28023,24089,22505,20861
+15,México,069,Papalotla,0000,Total del Municipio,4492,3931,3686,3423
+15,México,070,La Paz,0000,Total del Municipio,278595,241446,225407,209101
+15,México,071,Polotitlán,0000,Total del Municipio,13660,11728,10966,10200
+15,México,072,Rayón,0000,Total del Municipio,14766,12693,11732,10822
+15,México,073,San Antonio la Isla,0000,Total del Municipio,29515,25241,23303,21447
+15,México,074,San Felipe del Progreso,0000,Total del Municipio,129040,107172,97548,88023
+15,México,075,San Martín de las Pirámides,0000,Total del Municipio,26893,23586,22107,20420
+15,México,076,San Mateo Atenco,0000,Total del Municipio,88734,76709,71509,66096
+15,México,077,San Simón de Guerrero,0000,Total del Municipio,6009,5053,4632,4217
+15,México,078,Santo Tomás,0000,Total del Municipio,8699,7340,6820,6286
+15,México,079,Soyaniquilpan de Juárez,0000,Total del Municipio,13089,11229,10434,9688
+15,México,080,Sultepec,0000,Total del Municipio,21738,17982,16395,14988
+15,México,081,Tecámac,0000,Total del Municipio,512901,446872,416310,385968
+15,México,082,Tejupilco,0000,Total del Municipio,70885,58823,53966,49192
+15,México,083,Temamatla,0000,Total del Municipio,12855,10968,10143,9402
+15,México,084,Temascalapa,0000,Total del Municipio,39939,34402,31902,29361
+15,México,085,Temascalcingo,0000,Total del Municipio,60272,51413,47496,43457
+15,México,086,Temascaltepec,0000,Total del Municipio,31392,26118,23891,21820
+15,México,087,Temoaya,0000,Total del Municipio,95767,80557,73588,67158
+15,México,088,Tenancingo,0000,Total del Municipio,95217,80924,74947,68987
+15,México,089,Tenango del Aire,0000,Total del Municipio,10483,9053,8434,7853
+15,México,090,Tenango del Valle,0000,Total del Municipio,82023,69845,64815,59770
+15,México,091,Teoloyucan,0000,Total del Municipio,59985,51922,48310,44773
+15,México,092,Teotihuacán,0000,Total del Municipio,54084,47397,44184,41099
+15,México,093,Tepetlaoxtoc,0000,Total del Municipio,29839,25832,24061,22297
+15,México,094,Tepetlixpa,0000,Total del Municipio,18727,16223,15119,14036
+15,México,095,Tepotzotlán,0000,Total del Municipio,96508,84386,78674,73110
+15,México,096,Tequixquiac,0000,Total del Municipio,36556,31786,29569,27450
+15,México,097,Texcaltitlán,0000,Total del Municipio,16549,13597,12405,11311
+15,México,098,Texcalyacac,0000,Total del Municipio,5241,4546,4237,3898
+15,México,099,Texcoco,0000,Total del Municipio,257612,226744,212794,197493
+15,México,100,Tezoyuca,0000,Total del Municipio,43420,37731,35065,32290
+15,México,101,Tianguistenco,0000,Total del Municipio,76656,65765,61127,56333
+15,México,102,Timilpan,0000,Total del Municipio,15138,13065,12154,11221
+15,México,103,Tlalmanalco,0000,Total del Municipio,45497,40140,37792,35414
+15,México,104,Tlalnepantla de Baz,0000,Total del Municipio,632688,572703,545225,516271
+15,México,105,Tlatlaya,0000,Total del Municipio,28639,24186,22418,20620
+15,México,106,Toluca,0000,Total del Municipio,841874,738484,692006,645476
+15,México,107,Tonatico,0000,Total del Municipio,11847,10280,9647,8987
+15,México,108,Tultepec,0000,Total del Municipio,145751,127498,119319,111227
+15,México,109,Tultitlán,0000,Total del Municipio,480306,426013,401508,376352
+15,México,110,Valle de Bravo,0000,Total del Municipio,55846,47934,44550,41313
+15,México,111,Villa de Allende,0000,Total del Municipio,47568,39579,35991,32522
+15,México,112,Villa del Carbón,0000,Total del Municipio,46251,39367,36208,33082
+15,México,113,Villa Guerrero,0000,Total del Municipio,61495,51187,46951,42951
+15,México,114,Villa Victoria,0000,Total del Municipio,95793,79115,71721,64519
+15,México,115,Xonacatlán,0000,Total del Municipio,50066,43035,39933,36805
+15,México,116,Zacazonapan,0000,Total del Municipio,4561,3774,3458,3155
+15,México,117,Zacualpan,0000,Total del Municipio,12218,10246,9440,8719
+15,México,118,Zinacantepec,0000,Total del Municipio,187149,160887,149379,138052
+15,México,119,Zumpahuacán,0000,Total del Municipio,16722,13841,12674,11521
+15,México,120,Zumpango,0000,Total del Municipio,259054,220285,202751,186736
+15,México,121,Cuautitlán Izcalli,0000,Total del Municipio,521508,467192,441969,415998
+15,México,122,Valle de Chalco Solidaridad,0000,Total del Municipio,357703,308547,287132,266184
+15,México,123,Luvianos,0000,Total del Municipio,25608,21151,19409,17622
+15,México,124,San José del Rincón,0000,Total del Municipio,88152,72286,65418,58502
+15,México,125,Tonanitla,0000,Total del Municipio,13700,11759,10910,10182
+16,Michoacán de Ocampo,001,Acuitzio,0000,Total del Municipio,10316,8801,8177,7569
+16,Michoacán de Ocampo,002,Aguililla,0000,Total del Municipio,12893,10794,9944,9180
+16,Michoacán de Ocampo,003,Álvaro Obregón,0000,Total del Municipio,20839,17691,16363,15167
+16,Michoacán de Ocampo,004,Angamacutiro,0000,Total del Municipio,13767,11878,11154,10433
+16,Michoacán de Ocampo,005,Angangueo,0000,Total del Municipio,9815,8277,7575,6910
+16,Michoacán de Ocampo,006,Apatzingán,0000,Total del Municipio,113787,96061,89046,82292
+16,Michoacán de Ocampo,007,Aporo,0000,Total del Municipio,3183,2688,2490,2295
+16,Michoacán de Ocampo,008,Aquila,0000,Total del Municipio,21797,17705,15984,14414
+16,Michoacán de Ocampo,009,Ario,0000,Total del Municipio,32264,27399,25267,23356
+16,Michoacán de Ocampo,010,Arteaga,0000,Total del Municipio,18515,15718,14489,13294
+16,Michoacán de Ocampo,011,Briseñas,0000,Total del Municipio,10548,8999,8380,7758
+16,Michoacán de Ocampo,012,Buenavista,0000,Total del Municipio,40779,34257,31747,29447
+16,Michoacán de Ocampo,013,Carácuaro,0000,Total del Municipio,8173,6742,6143,5638
+16,Michoacán de Ocampo,014,Coahuayana,0000,Total del Municipio,15158,12896,11885,11010
+16,Michoacán de Ocampo,015,Coalcomán de Vázquez Pallares,0000,Total del Municipio,17516,14754,13639,12642
+16,Michoacán de Ocampo,016,Coeneo,0000,Total del Municipio,19394,16909,15942,15000
+16,Michoacán de Ocampo,017,Contepec,0000,Total del Municipio,31337,26095,24029,22003
+16,Michoacán de Ocampo,018,Copándaro,0000,Total del Municipio,8697,7417,6905,6420
+16,Michoacán de Ocampo,019,Cotija,0000,Total del Municipio,18369,15801,14729,13707
+16,Michoacán de Ocampo,020,Cuitzeo,0000,Total del Municipio,27295,23456,21844,20190
+16,Michoacán de Ocampo,021,Charapan,0000,Total del Municipio,12185,10349,9656,9013
+16,Michoacán de Ocampo,022,Charo,0000,Total del Municipio,23185,20176,18803,17572
+16,Michoacán de Ocampo,023,Chavinda,0000,Total del Municipio,9575,8312,7780,7265
+16,Michoacán de Ocampo,024,Cherán,0000,Total del Municipio,18251,15244,14036,12981
+16,Michoacán de Ocampo,025,Chilchota,0000,Total del Municipio,36392,30835,28647,26467
+16,Michoacán de Ocampo,026,Chinicuila,0000,Total del Municipio,4297,3615,3284,3056
+16,Michoacán de Ocampo,027,Chucándiro,0000,Total del Municipio,4603,4067,3864,3633
+16,Michoacán de Ocampo,028,Churintzio,0000,Total del Municipio,4872,4326,4096,3858
+16,Michoacán de Ocampo,029,Churumuco,0000,Total del Municipio,11028,9114,8401,7684
+16,Michoacán de Ocampo,030,Ecuandureo,0000,Total del Municipio,11065,9827,9303,8803
+16,Michoacán de Ocampo,031,Epitacio Huerta,0000,Total del Municipio,14642,12288,11274,10430
+16,Michoacán de Ocampo,032,Erongarícuaro,0000,Total del Municipio,14258,12133,11329,10593
+16,Michoacán de Ocampo,033,Gabriel Zamora,0000,Total del Municipio,19295,16360,15228,14139
+16,Michoacán de Ocampo,034,Hidalgo,0000,Total del Municipio,113525,96539,89344,82302
+16,Michoacán de Ocampo,035,La Huacana,0000,Total del Municipio,27378,22954,21218,19545
+16,Michoacán de Ocampo,036,Huandacareo,0000,Total del Municipio,10763,9335,8770,8250
+16,Michoacán de Ocampo,037,Huaniqueo,0000,Total del Municipio,7429,6619,6263,5958
+16,Michoacán de Ocampo,038,Huetamo,0000,Total del Municipio,38176,32895,30732,28626
+16,Michoacán de Ocampo,039,Huiramba,0000,Total del Municipio,8114,6696,6200,5688
+16,Michoacán de Ocampo,040,Indaparapeo,0000,Total del Municipio,16706,14253,13240,12225
+16,Michoacán de Ocampo,041,Irimbo,0000,Total del Municipio,14430,12204,11329,10442
+16,Michoacán de Ocampo,042,Ixtlán,0000,Total del Municipio,12967,11124,10429,9773
+16,Michoacán de Ocampo,043,Jacona,0000,Total del Municipio,62029,52659,48803,45116
+16,Michoacán de Ocampo,044,Jiménez,0000,Total del Municipio,11948,10487,9933,9314
+16,Michoacán de Ocampo,045,Jiquilpan,0000,Total del Municipio,33085,28861,27179,25471
+16,Michoacán de Ocampo,046,Juárez,0000,Total del Municipio,13584,11401,10527,9689
+16,Michoacán de Ocampo,047,Jungapeo,0000,Total del Municipio,17868,14969,13727,12582
+16,Michoacán de Ocampo,048,Lagunillas,0000,Total del Municipio,5182,4436,4125,3801
+16,Michoacán de Ocampo,049,Madero,0000,Total del Municipio,16901,13958,12754,11642
+16,Michoacán de Ocampo,050,Maravatío,0000,Total del Municipio,80030,67370,62372,57519
+16,Michoacán de Ocampo,051,Marcos Castellanos,0000,Total del Municipio,12791,11102,10378,9697
+16,Michoacán de Ocampo,052,Lázaro Cárdenas,0000,Total del Municipio,179045,153181,142807,132769
+16,Michoacán de Ocampo,053,Morelia,0000,Total del Municipio,783698,690305,650115,609376
+16,Michoacán de Ocampo,054,Morelos,0000,Total del Municipio,7422,6452,6078,5658
+16,Michoacán de Ocampo,055,Múgica,0000,Total del Municipio,40710,34161,31701,29326
+16,Michoacán de Ocampo,056,Nahuatzen,0000,Total del Municipio,29225,24326,22399,20592
+16,Michoacán de Ocampo,057,Nocupétaro,0000,Total del Municipio,7240,5926,5405,5004
+16,Michoacán de Ocampo,058,Nuevo Parangaricutiro,0000,Total del Municipio,18874,15823,14617,13578
+16,Michoacán de Ocampo,059,Nuevo Urecho,0000,Total del Municipio,8157,6910,6449,6010
+16,Michoacán de Ocampo,060,Numarán,0000,Total del Municipio,8595,7484,7018,6579
+16,Michoacán de Ocampo,061,Ocampo,0000,Total del Municipio,21667,17668,16111,14573
+16,Michoacán de Ocampo,062,Pajacuarán,0000,Total del Municipio,19041,15843,14652,13530
+16,Michoacán de Ocampo,063,Panindícuaro,0000,Total del Municipio,13556,11860,11134,10414
+16,Michoacán de Ocampo,064,Parácuaro,0000,Total del Municipio,24124,20118,18585,17151
+16,Michoacán de Ocampo,065,Paracho,0000,Total del Municipio,35913,30541,28155,26130
+16,Michoacán de Ocampo,066,Pátzcuaro,0000,Total del Municipio,89029,75596,70243,64964
+16,Michoacán de Ocampo,067,Penjamillo,0000,Total del Municipio,15203,13324,12573,11818
+16,Michoacán de Ocampo,068,Peribán,0000,Total del Municipio,26409,22270,20612,19001
+16,Michoacán de Ocampo,069,La Piedad,0000,Total del Municipio,97376,84387,79121,73828
+16,Michoacán de Ocampo,070,Purépero,0000,Total del Municipio,14340,12567,11818,11094
+16,Michoacán de Ocampo,071,Puruándiro,0000,Total del Municipio,63401,54619,50767,47014
+16,Michoacán de Ocampo,072,Queréndaro,0000,Total del Municipio,12752,10948,10202,9461
+16,Michoacán de Ocampo,073,Quiroga,0000,Total del Municipio,24602,21234,19835,18474
+16,Michoacán de Ocampo,074,Cojumatlán de Régules,0000,Total del Municipio,9659,8229,7683,7163
+16,Michoacán de Ocampo,075,Los Reyes,0000,Total del Municipio,70905,60438,56111,51763
+16,Michoacán de Ocampo,076,Sahuayo,0000,Total del Municipio,71674,61696,57687,53468
+16,Michoacán de Ocampo,077,San Lucas,0000,Total del Municipio,16016,13724,12865,12037
+16,Michoacán de Ocampo,078,Santa Ana Maya,0000,Total del Municipio,11843,10462,9824,9161
+16,Michoacán de Ocampo,079,Salvador Escalante,0000,Total del Municipio,44601,37501,34722,32011
+16,Michoacán de Ocampo,080,Senguio,0000,Total del Municipio,17636,14697,13557,12469
+16,Michoacán de Ocampo,081,Susupuato,0000,Total del Municipio,8126,6722,6185,5699
+16,Michoacán de Ocampo,082,Tacámbaro,0000,Total del Municipio,70633,58942,54707,50383
+16,Michoacán de Ocampo,083,Tancítaro,0000,Total del Municipio,29723,24582,22682,20763
+16,Michoacán de Ocampo,084,Tangamandapio,0000,Total del Municipio,28416,23891,22028,20266
+16,Michoacán de Ocampo,085,Tangancícuaro,0000,Total del Municipio,31855,27303,25434,23766
+16,Michoacán de Ocampo,086,Tanhuato,0000,Total del Municipio,14224,12265,11406,10615
+16,Michoacán de Ocampo,087,Taretan,0000,Total del Municipio,14011,11924,11124,10327
+16,Michoacán de Ocampo,088,Tarímbaro,0000,Total del Municipio,105303,89978,83191,76724
+16,Michoacán de Ocampo,089,Tepalcatepec,0000,Total del Municipio,22016,18826,17572,16343
+16,Michoacán de Ocampo,090,Tingambato,0000,Total del Municipio,14696,12334,11399,10535
+16,Michoacán de Ocampo,091,Tingüindín,0000,Total del Municipio,13735,11756,10968,10198
+16,Michoacán de Ocampo,092,Tiquicheo de Nicolás Romero,0000,Total del Municipio,11500,9595,8804,8062
+16,Michoacán de Ocampo,093,Tlalpujahua,0000,Total del Municipio,25672,21439,19773,18154
+16,Michoacán de Ocampo,094,Tlazazalca,0000,Total del Municipio,5910,5207,4940,4673
+16,Michoacán de Ocampo,095,Tocumbo,0000,Total del Municipio,11307,9816,9204,8642
+16,Michoacán de Ocampo,096,Tumbiscatío,0000,Total del Municipio,5401,4567,4202,3882
+16,Michoacán de Ocampo,097,Turicato,0000,Total del Municipio,25959,21471,19765,18120
+16,Michoacán de Ocampo,098,Tuxpan,0000,Total del Municipio,23218,19936,18526,17151
+16,Michoacán de Ocampo,099,Tuzantla,0000,Total del Municipio,12834,10756,9962,9197
+16,Michoacán de Ocampo,100,Tzintzuntzan,0000,Total del Municipio,13505,11494,10715,9974
+16,Michoacán de Ocampo,101,Tzitzio,0000,Total del Municipio,7934,6579,5981,5444
+16,Michoacán de Ocampo,102,Uruapan,0000,Total del Municipio,323494,277835,259657,241418
+16,Michoacán de Ocampo,103,Venustiano Carranza,0000,Total del Municipio,21341,18343,17123,15938
+16,Michoacán de Ocampo,104,Villamar,0000,Total del Municipio,14588,12750,11963,11205
+16,Michoacán de Ocampo,105,Vista Hermosa,0000,Total del Municipio,18968,16261,15111,14023
+16,Michoacán de Ocampo,106,Yurécuaro,0000,Total del Municipio,29199,24885,23086,21360
+16,Michoacán de Ocampo,107,Zacapu,0000,Total del Municipio,70290,60983,57172,53134
+16,Michoacán de Ocampo,108,Zamora,0000,Total del Municipio,187521,160831,149614,138933
+16,Michoacán de Ocampo,109,Zináparo,0000,Total del Municipio,3046,2732,2602,2487
+16,Michoacán de Ocampo,110,Zinapécuaro,0000,Total del Municipio,44572,38280,35643,33166
+16,Michoacán de Ocampo,111,Ziracuaretiro,0000,Total del Municipio,16310,13568,12539,11526
+16,Michoacán de Ocampo,112,Zitácuaro,0000,Total del Municipio,142466,121823,112798,104056
+16,Michoacán de Ocampo,113,José Sixto Verduzco,0000,Total del Municipio,23997,20866,19514,18283
+17,Morelos,001,Amacuzac,0000,Total del Municipio,16071,13864,12922,11956
+17,Morelos,002,Atlatlahucan,0000,Total del Municipio,23160,20084,18653,17332
+17,Morelos,003,Axochiapan,0000,Total del Municipio,35461,30205,28073,25971
+17,Morelos,004,Ayala,0000,Total del Municipio,82482,71041,66083,61179
+17,Morelos,005,Coatlán del Río,0000,Total del Municipio,9715,8539,8036,7561
+17,Morelos,006,Cuautla,0000,Total del Municipio,173165,152361,143192,133675
+17,Morelos,007,Cuernavaca,0000,Total del Municipio,354287,318619,301961,284826
+17,Morelos,008,Emiliano Zapata,0000,Total del Municipio,99523,86652,80989,75426
+17,Morelos,009,Huitzilac,0000,Total del Municipio,22554,19557,18198,16937
+17,Morelos,010,Jantetelco,0000,Total del Municipio,16916,14530,13589,12632
+17,Morelos,011,Jiutepec,0000,Total del Municipio,200103,177086,166936,156558
+17,Morelos,012,Jojutla,0000,Total del Municipio,53644,47298,44581,41765
+17,Morelos,013,Jonacatepec de Leandro Valle,0000,Total del Municipio,15320,13375,12570,11706
+17,Morelos,014,Mazatepec,0000,Total del Municipio,8868,7746,7281,6803
+17,Morelos,015,Miacatlán,0000,Total del Municipio,14580,12693,11806,10955
+17,Morelos,016,Ocuituco,0000,Total del Municipio,17566,14991,13907,12807
+17,Morelos,017,Puente de Ixtla,0000,Total del Municipio,36658,31963,29867,27750
+17,Morelos,018,Temixco,0000,Total del Municipio,113311,98416,91830,85343
+17,Morelos,019,Tepalcingo,0000,Total del Municipio,25828,22408,20959,19543
+17,Morelos,020,Tepoztlán,0000,Total del Municipio,51052,44671,41839,39052
+17,Morelos,021,Tetecala,0000,Total del Municipio,7027,6153,5812,5429
+17,Morelos,022,Tetela del Volcán,0000,Total del Municipio,13512,11411,10470,9561
+17,Morelos,023,Tlalnepantla,0000,Total del Municipio,7210,6148,5655,5223
+17,Morelos,024,Tlaltizapán de Zapata,0000,Total del Municipio,48466,42199,39534,36800
+17,Morelos,025,Tlaquiltenango,0000,Total del Municipio,31384,27569,25935,24197
+17,Morelos,026,Tlayacapan,0000,Total del Municipio,17828,15469,14469,13436
+17,Morelos,027,Totolapan,0000,Total del Municipio,11678,9984,9226,8502
+17,Morelos,028,Xochitepec,0000,Total del Municipio,67626,58882,55181,51193
+17,Morelos,029,Yautepec,0000,Total del Municipio,97856,85209,79599,73958
+17,Morelos,030,Yecapixtla,0000,Total del Municipio,51312,43964,40860,37696
+17,Morelos,031,Zacatepec,0000,Total del Municipio,33681,29945,28261,26430
+17,Morelos,032,Zacualpan de Amilpas,0000,Total del Municipio,9211,8044,7508,6979
+17,Morelos,033,Temoac,0000,Total del Municipio,15141,13151,12305,11395
+17,Morelos,034,Coatetelco,0000,Total del Municipio,10318,8713,8061,7433
+17,Morelos,035,Xoxocotla,0000,Total del Municipio,25518,21906,20305,18710
+17,Morelos,036,Hueyapan,0000,Total del Municipio,7101,6004,5568,5110
+18,Nayarit,001,Acaponeta,0000,Total del Municipio,34125,29314,27292,25360
+18,Nayarit,002,Ahuacatlán,0000,Total del Municipio,14280,12398,11595,10891
+18,Nayarit,003,Amatlán de Cañas,0000,Total del Municipio,10619,9184,8630,8100
+18,Nayarit,004,Compostela,0000,Total del Municipio,70815,61148,56744,52994
+18,Nayarit,005,Huajicori,0000,Total del Municipio,10806,8569,7614,6870
+18,Nayarit,006,Ixtlán del Río,0000,Total del Municipio,26688,22913,21401,19866
+18,Nayarit,007,Jala,0000,Total del Municipio,17393,14394,13186,12088
+18,Nayarit,008,Xalisco,0000,Total del Municipio,59734,51245,47630,44165
+18,Nayarit,009,Del Nayar,0000,Total del Municipio,41339,31028,27070,23595
+18,Nayarit,010,Rosamorada,0000,Total del Municipio,30823,26431,24569,22852
+18,Nayarit,011,Ruíz,0000,Total del Municipio,21876,18419,17055,15783
+18,Nayarit,012,San Blas,0000,Total del Municipio,38323,32792,30598,28468
+18,Nayarit,013,San Pedro Lagunillas,0000,Total del Municipio,7165,6270,5885,5530
+18,Nayarit,014,Santa María del Oro,0000,Total del Municipio,22984,19651,18256,16927
+18,Nayarit,015,Santiago Ixcuintla,0000,Total del Municipio,86841,75146,70318,65706
+18,Nayarit,016,Tecuala,0000,Total del Municipio,34395,29920,28003,26211
+18,Nayarit,017,Tepic,0000,Total del Municipio,393593,343836,322296,300856
+18,Nayarit,018,Tuxpan,0000,Total del Municipio,27870,24502,22993,21538
+18,Nayarit,019,La Yesca,0000,Total del Municipio,12242,9912,8990,8073
+18,Nayarit,020,Bahía de Banderas,0000,Total del Municipio,168776,143624,133285,123958
+19,Nuevo León,001,Abasolo,0000,Total del Municipio,2697,2327,2175,2007
+19,Nuevo León,002,Agualeguas,0000,Total del Municipio,3174,2874,2722,2570
+19,Nuevo León,003,Los Aldamas,0000,Total del Municipio,1314,1152,1105,1061
+19,Nuevo León,004,Allende,0000,Total del Municipio,32389,28352,26664,24911
+19,Nuevo León,005,Anáhuac,0000,Total del Municipio,16362,14075,13094,12121
+19,Nuevo León,006,Apodaca,0000,Total del Municipio,603182,525105,490561,456365
+19,Nuevo León,007,Aramberri,0000,Total del Municipio,13945,11986,11075,10241
+19,Nuevo León,008,Bustamante,0000,Total del Municipio,3397,2925,2730,2543
+19,Nuevo León,009,Cadereyta Jiménez,0000,Total del Municipio,112526,97583,91244,85172
+19,Nuevo León,010,El Carmen,0000,Total del Municipio,91664,75432,69949,65396
+19,Nuevo León,011,Cerralvo,0000,Total del Municipio,6803,5936,5542,5192
+19,Nuevo León,012,Ciénega de Flores,0000,Total del Municipio,61085,51045,47340,44114
+19,Nuevo León,013,China,0000,Total del Municipio,9190,7979,7493,7074
+19,Nuevo León,014,Doctor Arroyo,0000,Total del Municipio,32600,27626,25322,23167
+19,Nuevo León,015,Doctor Coss,0000,Total del Municipio,1280,1128,1058,997
+19,Nuevo León,016,Doctor González,0000,Total del Municipio,2979,2596,2444,2293
+19,Nuevo León,017,Galeana,0000,Total del Municipio,37137,31749,29434,27198
+19,Nuevo León,018,García,0000,Total del Municipio,354817,294774,272340,252427
+19,Nuevo León,019,San Pedro Garza García,0000,Total del Municipio,119981,110304,106081,101279
+19,Nuevo León,020,General Bravo,0000,Total del Municipio,5044,4315,4038,3787
+19,Nuevo León,021,General Escobedo,0000,Total del Municipio,440581,379615,353768,327963
+19,Nuevo León,022,General Terán,0000,Total del Municipio,13129,11609,10869,10228
+19,Nuevo León,023,General Treviño,0000,Total del Municipio,1695,1541,1453,1392
+19,Nuevo León,024,General Zaragoza,0000,Total del Municipio,5718,4819,4430,4062
+19,Nuevo León,025,General Zuazua,0000,Total del Municipio,91765,77077,71122,65553
+19,Nuevo León,026,Guadalupe,0000,Total del Municipio,602274,542718,515407,486628
+19,Nuevo León,027,Los Herreras,0000,Total del Municipio,1866,1657,1573,1508
+19,Nuevo León,028,Higueras,0000,Total del Municipio,1281,1111,1040,976
+19,Nuevo León,029,Hualahuises,0000,Total del Municipio,6546,5720,5344,5009
+19,Nuevo León,030,Iturbide,0000,Total del Municipio,3046,2653,2472,2281
+19,Nuevo León,031,Juárez,0000,Total del Municipio,426047,359057,331951,306115
+19,Nuevo León,032,Lampazos de Naranjo,0000,Total del Municipio,4911,4172,3912,3640
+19,Nuevo León,033,Linares,0000,Total del Municipio,78570,68250,63716,59312
+19,Nuevo León,034,Marín,0000,Total del Municipio,4688,4077,3807,3533
+19,Nuevo León,035,Melchor Ocampo,0000,Total del Municipio,1385,1235,1185,1121
+19,Nuevo León,036,Mier y Noriega,0000,Total del Municipio,6807,5663,5119,4661
+19,Nuevo León,037,Mina,0000,Total del Municipio,5484,4690,4367,4051
+19,Nuevo León,038,Montemorelos,0000,Total del Municipio,62042,54500,51242,47871
+19,Nuevo León,039,Monterrey,0000,Total del Municipio,1060535,958770,913149,864482
+19,Nuevo León,040,Parás,0000,Total del Municipio,852,768,731,700
+19,Nuevo León,041,Pesquería,0000,Total del Municipio,130668,108873,101590,95312
+19,Nuevo León,042,Los Ramones,0000,Total del Municipio,5074,4542,4289,4056
+19,Nuevo León,043,Rayones,0000,Total del Municipio,2194,1905,1782,1679
+19,Nuevo León,044,Sabinas Hidalgo,0000,Total del Municipio,32394,28546,26844,25071
+19,Nuevo León,045,Salinas Victoria,0000,Total del Municipio,77447,65234,60856,56849
+19,Nuevo León,046,San Nicolás de los Garza,0000,Total del Municipio,390442,359518,345087,329257
+19,Nuevo León,047,Hidalgo,0000,Total del Municipio,14760,12938,12161,11361
+19,Nuevo León,048,Santa Catarina,0000,Total del Municipio,279774,246430,232804,218815
+19,Nuevo León,049,Santiago,0000,Total del Municipio,43078,38371,36318,34150
+19,Nuevo León,050,Vallecillo,0000,Total del Municipio,1452,1306,1224,1163
+19,Nuevo León,051,Villaldama,0000,Total del Municipio,3330,3008,2839,2667
+20,Oaxaca,001,Abejones,0000,Total del Municipio,782,678,610,553
+20,Oaxaca,002,Acatlán de Pérez Figueroa,0000,Total del Municipio,41010,35240,32800,30558
+20,Oaxaca,003,Asunción Cacalotepec,0000,Total del Municipio,2328,2021,1859,1757
+20,Oaxaca,004,Asunción Cuyotepeji,0000,Total del Municipio,1018,895,831,775
+20,Oaxaca,005,Asunción Ixtaltepec,0000,Total del Municipio,14293,12700,11999,11216
+20,Oaxaca,006,Asunción Nochixtlán,0000,Total del Municipio,18472,15633,14312,13219
+20,Oaxaca,007,Asunción Ocotlán,0000,Total del Municipio,2226,1980,1878,1782
+20,Oaxaca,008,Asunción Tlacolulita,0000,Total del Municipio,692,607,575,542
+20,Oaxaca,009,Ayotzintepec,0000,Total del Municipio,6203,5126,4722,4399
+20,Oaxaca,010,El Barrio de la Soledad,0000,Total del Municipio,12624,11170,10556,9891
+20,Oaxaca,011,Calihualá,0000,Total del Municipio,1219,1029,939,870
+20,Oaxaca,012,Candelaria Loxicha,0000,Total del Municipio,9701,7693,6911,6219
+20,Oaxaca,013,Ciénega de Zimatlán,0000,Total del Municipio,2829,2486,2345,2213
+20,Oaxaca,014,Ciudad Ixtepec,0000,Total del Municipio,26028,22827,21370,19978
+20,Oaxaca,015,Coatecas Altas,0000,Total del Municipio,4823,4095,3769,3429
+20,Oaxaca,016,Coicoyán de las Flores,0000,Total del Municipio,8392,6537,5678,4940
+20,Oaxaca,017,La Compañía,0000,Total del Municipio,3301,2827,2647,2456
+20,Oaxaca,018,Concepción Buenavista,0000,Total del Municipio,688,589,543,514
+20,Oaxaca,019,Concepción Pápalo,0000,Total del Municipio,2571,2231,2055,1914
+20,Oaxaca,020,Constancia del Rosario,0000,Total del Municipio,4327,3480,3028,2667
+20,Oaxaca,021,Cosolapa,0000,Total del Municipio,13200,11346,10542,9740
+20,Oaxaca,022,Cosoltepec,0000,Total del Municipio,763,683,629,599
+20,Oaxaca,023,Cuilápam de Guerrero,0000,Total del Municipio,24753,21188,19736,18223
+20,Oaxaca,024,Cuyamecalco Villa de Zaragoza,0000,Total del Municipio,3386,2832,2581,2371
+20,Oaxaca,025,Chahuites,0000,Total del Municipio,10437,8909,8289,7671
+20,Oaxaca,026,Chalcatongo de Hidalgo,0000,Total del Municipio,8191,7044,6483,5971
+20,Oaxaca,027,Chiquihuitlán de Benito Juárez,0000,Total del Municipio,2009,1760,1644,1517
+20,Oaxaca,028,Heroica Ciudad de Ejutla de Crespo,0000,Total del Municipio,20972,17836,16540,15325
+20,Oaxaca,029,Eloxochitlán de Flores Magón,0000,Total del Municipio,3836,3114,2786,2546
+20,Oaxaca,030,El Espinal,0000,Total del Municipio,8129,7225,6825,6469
+20,Oaxaca,031,Tamazulápam del Espíritu Santo,0000,Total del Municipio,6614,5618,5076,4729
+20,Oaxaca,032,Fresnillo de Trujano,0000,Total del Municipio,960,837,782,738
+20,Oaxaca,033,Guadalupe Etla,0000,Total del Municipio,2726,2430,2286,2132
+20,Oaxaca,034,Guadalupe de Ramírez,0000,Total del Municipio,1173,1009,936,874
+20,Oaxaca,035,Guelatao de Juárez,0000,Total del Municipio,621,468,434,410
+20,Oaxaca,036,Guevea de Humboldt,0000,Total del Municipio,4804,4042,3670,3370
+20,Oaxaca,037,Mesones Hidalgo,0000,Total del Municipio,4025,3366,3054,2772
+20,Oaxaca,038,Villa Hidalgo,0000,Total del Municipio,1737,1538,1457,1334
+20,Oaxaca,039,Heroica Ciudad de Huajuapan de León,0000,Total del Municipio,71189,60797,56497,52245
+20,Oaxaca,040,Huautepec,0000,Total del Municipio,5630,4548,4066,3646
+20,Oaxaca,041,Huautla de Jiménez,0000,Total del Municipio,28880,24246,22228,20538
+20,Oaxaca,042,Ixtlán de Juárez,0000,Total del Municipio,7591,6355,5857,5435
+20,Oaxaca,043,Juchitán de Zaragoza,0000,Total del Municipio,103598,89822,83768,77724
+20,Oaxaca,044,Loma Bonita,0000,Total del Municipio,37459,32323,30196,28093
+20,Oaxaca,045,Magdalena Apasco,0000,Total del Municipio,7351,6438,5981,5552
+20,Oaxaca,046,Magdalena Jaltepec,0000,Total del Municipio,2744,2419,2281,2119
+20,Oaxaca,047,Santa Magdalena Jicotlán,0000,Total del Municipio,77,72,70,67
+20,Oaxaca,048,Magdalena Mixtepec,0000,Total del Municipio,1254,991,877,777
+20,Oaxaca,049,Magdalena Ocotlán,0000,Total del Municipio,1078,918,854,794
+20,Oaxaca,050,Magdalena Peñasco,0000,Total del Municipio,3443,2840,2537,2257
+20,Oaxaca,051,Magdalena Teitipac,0000,Total del Municipio,4260,3487,3173,2925
+20,Oaxaca,052,Magdalena Tequisistlán,0000,Total del Municipio,5565,4850,4511,4210
+20,Oaxaca,053,Magdalena Tlacotepec,0000,Total del Municipio,1219,1098,1038,974
+20,Oaxaca,054,Magdalena Zahuatlán,0000,Total del Municipio,378,324,311,297
+20,Oaxaca,055,Mariscala de Juárez,0000,Total del Municipio,3356,2863,2660,2441
+20,Oaxaca,056,Mártires de Tacubaya,0000,Total del Municipio,1301,1114,1032,936
+20,Oaxaca,057,Matías Romero Avendaño,0000,Total del Municipio,34668,29904,27838,25920
+20,Oaxaca,058,Mazatlán Villa de Flores,0000,Total del Municipio,11617,9665,8709,7896
+20,Oaxaca,059,Miahuatlán de Porfirio Díaz,0000,Total del Municipio,45498,38756,35866,33109
+20,Oaxaca,060,Mixistlán de la Reforma,0000,Total del Municipio,2272,1940,1774,1646
+20,Oaxaca,061,Monjas,0000,Total del Municipio,2578,2155,1984,1835
+20,Oaxaca,062,Natividad,0000,Total del Municipio,463,413,393,376
+20,Oaxaca,063,Nazareno Etla,0000,Total del Municipio,4021,3604,3395,3178
+20,Oaxaca,064,Nejapa de Madero,0000,Total del Municipio,7819,6750,6323,5932
+20,Oaxaca,065,Ixpantepec Nieves,0000,Total del Municipio,998,885,841,807
+20,Oaxaca,066,Santiago Niltepec,0000,Total del Municipio,4960,4311,4014,3765
+20,Oaxaca,067,Oaxaca de Juárez,0000,Total del Municipio,249798,221664,209310,196618
+20,Oaxaca,068,Ocotlán de Morelos,0000,Total del Municipio,21802,18862,17573,16287
+20,Oaxaca,069,La Pe,0000,Total del Municipio,2687,2213,2013,1823
+20,Oaxaca,070,Pinotepa de Don Luis,0000,Total del Municipio,5790,4840,4452,4092
+20,Oaxaca,071,Pluma Hidalgo,0000,Total del Municipio,2955,2472,2270,2095
+20,Oaxaca,072,San José del Progreso,0000,Total del Municipio,7255,6057,5599,5139
+20,Oaxaca,073,Putla Villa de Guerrero,0000,Total del Municipio,31252,26496,24440,22446
+20,Oaxaca,074,Santa Catarina Quioquitani,0000,Total del Municipio,423,353,315,280
+20,Oaxaca,075,Reforma de Pineda,0000,Total del Municipio,2491,2218,2092,1986
+20,Oaxaca,076,La Reforma,0000,Total del Municipio,3087,2636,2434,2252
+20,Oaxaca,077,Reyes Etla,0000,Total del Municipio,4036,3521,3269,3059
+20,Oaxaca,078,Rojas de Cuauhtémoc,0000,Total del Municipio,1217,1073,1030,979
+20,Oaxaca,079,Salina Cruz,0000,Total del Municipio,78018,68531,64430,60266
+20,Oaxaca,080,San Agustín Amatengo,0000,Total del Municipio,1464,1290,1227,1170
+20,Oaxaca,081,San Agustín Atenango,0000,Total del Municipio,1733,1522,1433,1363
+20,Oaxaca,082,San Agustín Chayuco,0000,Total del Municipio,3772,3224,2980,2741
+20,Oaxaca,083,San Agustín de las Juntas,0000,Total del Municipio,10394,8941,8305,7663
+20,Oaxaca,084,San Agustín Etla,0000,Total del Municipio,3937,3486,3290,3091
+20,Oaxaca,085,San Agustín Loxicha,0000,Total del Municipio,22804,18040,16014,14190
+20,Oaxaca,086,San Agustín Tlacotepec,0000,Total del Municipio,947,835,759,669
+20,Oaxaca,087,San Agustín Yatareni,0000,Total del Municipio,5035,4341,4036,3750
+20,Oaxaca,088,San Andrés Cabecera Nueva,0000,Total del Municipio,2603,2196,2022,1871
+20,Oaxaca,089,San Andrés Dinicuiti,0000,Total del Municipio,2155,1862,1710,1598
+20,Oaxaca,090,San Andrés Huaxpaltepec,0000,Total del Municipio,5678,4798,4458,4140
+20,Oaxaca,091,San Andrés Huayápam,0000,Total del Municipio,5845,5222,4912,4633
+20,Oaxaca,092,San Andrés Ixtlahuaca,0000,Total del Municipio,1629,1419,1332,1279
+20,Oaxaca,093,San Andrés Lagunas,0000,Total del Municipio,474,426,394,371
+20,Oaxaca,094,San Andrés Nuxiño,0000,Total del Municipio,1706,1454,1337,1245
+20,Oaxaca,095,San Andrés Paxtlán,0000,Total del Municipio,4113,3474,3208,2860
+20,Oaxaca,096,San Andrés Sinaxtla,0000,Total del Municipio,702,620,562,524
+20,Oaxaca,097,San Andrés Solaga,0000,Total del Municipio,1650,1481,1389,1266
+20,Oaxaca,098,San Andrés Teotilálpam,0000,Total del Municipio,3840,3274,2945,2692
+20,Oaxaca,099,San Andrés Tepetlapa,0000,Total del Municipio,345,294,268,245
+20,Oaxaca,100,San Andrés Yaá,0000,Total del Municipio,366,332,324,318
+20,Oaxaca,101,San Andrés Zabache,0000,Total del Municipio,683,599,563,538
+20,Oaxaca,102,San Andrés Zautla,0000,Total del Municipio,4952,4295,4018,3733
+20,Oaxaca,103,San Antonino Castillo Velasco,0000,Total del Municipio,5571,4852,4527,4244
+20,Oaxaca,104,San Antonino el Alto,0000,Total del Municipio,2452,2085,1900,1712
+20,Oaxaca,105,San Antonino Monte Verde,0000,Total del Municipio,6917,5718,5185,4757
+20,Oaxaca,106,San Antonio Acutla,0000,Total del Municipio,235,214,197,179
+20,Oaxaca,107,San Antonio de la Cal,0000,Total del Municipio,23803,20418,19096,17734
+20,Oaxaca,108,San Antonio Huitepec,0000,Total del Municipio,2693,2233,2064,1894
+20,Oaxaca,109,San Antonio Nanahuatípam,0000,Total del Municipio,1118,979,919,858
+20,Oaxaca,110,San Antonio Sinicahua,0000,Total del Municipio,1502,1203,1042,930
+20,Oaxaca,111,San Antonio Tepetlapa,0000,Total del Municipio,4350,3594,3289,2990
+20,Oaxaca,112,San Baltazar Chichicápam,0000,Total del Municipio,2431,2209,2124,2028
+20,Oaxaca,113,San Baltazar Loxicha,0000,Total del Municipio,2839,2370,2204,2026
+20,Oaxaca,114,San Baltazar Yatzachi el Bajo,0000,Total del Municipio,628,561,536,515
+20,Oaxaca,115,San Bartolo Coyotepec,0000,Total del Municipio,9636,8523,7815,7238
+20,Oaxaca,116,San Bartolomé Ayautla,0000,Total del Municipio,3750,3076,2777,2536
+20,Oaxaca,117,San Bartolomé Loxicha,0000,Total del Municipio,2017,1682,1551,1402
+20,Oaxaca,118,San Bartolomé Quialana,0000,Total del Municipio,2242,1941,1817,1698
+20,Oaxaca,119,San Bartolomé Yucuañe,0000,Total del Municipio,695,635,609,590
+20,Oaxaca,120,San Bartolomé Zoogocho,0000,Total del Municipio,429,340,283,247
+20,Oaxaca,121,San Bartolo Soyaltepec,0000,Total del Municipio,562,510,482,458
+20,Oaxaca,122,San Bartolo Yautepec,0000,Total del Municipio,601,515,478,450
+20,Oaxaca,123,San Bernardo Mixtepec,0000,Total del Municipio,2515,2102,1945,1817
+20,Oaxaca,124,San Blas Atempa,0000,Total del Municipio,17994,15431,14282,13171
+20,Oaxaca,125,San Carlos Yautepec,0000,Total del Municipio,10605,8816,8020,7346
+20,Oaxaca,126,San Cristóbal Amatlán,0000,Total del Municipio,4875,4034,3654,3286
+20,Oaxaca,127,San Cristóbal Amoltepec,0000,Total del Municipio,1140,955,871,807
+20,Oaxaca,128,San Cristóbal Lachirioag,0000,Total del Municipio,1244,1115,1026,978
+20,Oaxaca,129,San Cristóbal Suchixtlahuaca,0000,Total del Municipio,325,280,258,241
+20,Oaxaca,130,San Dionisio del Mar,0000,Total del Municipio,4731,3992,3684,3402
+20,Oaxaca,131,San Dionisio Ocotepec,0000,Total del Municipio,10432,9027,8459,7912
+20,Oaxaca,132,San Dionisio Ocotlán,0000,Total del Municipio,1265,1119,1042,996
+20,Oaxaca,133,San Esteban Atatlahuca,0000,Total del Municipio,3557,3012,2768,2516
+20,Oaxaca,134,San Felipe Jalapa de Díaz,0000,Total del Municipio,25446,20855,18748,16929
+20,Oaxaca,135,San Felipe Tejalápam,0000,Total del Municipio,7403,6347,5913,5482
+20,Oaxaca,136,San Felipe Usila,0000,Total del Municipio,11045,9145,8290,7592
+20,Oaxaca,137,San Francisco Cahuacuá,0000,Total del Municipio,3125,2627,2398,2143
+20,Oaxaca,138,San Francisco Cajonos,0000,Total del Municipio,418,391,368,346
+20,Oaxaca,139,San Francisco Chapulapa,0000,Total del Municipio,1980,1629,1449,1286
+20,Oaxaca,140,San Francisco Chindúa,0000,Total del Municipio,745,651,603,549
+20,Oaxaca,141,San Francisco del Mar,0000,Total del Municipio,7796,6443,5904,5394
+20,Oaxaca,142,San Francisco Huehuetlán,0000,Total del Municipio,794,713,663,617
+20,Oaxaca,143,San Francisco Ixhuatán,0000,Total del Municipio,8695,7539,7041,6572
+20,Oaxaca,144,San Francisco Jaltepetongo,0000,Total del Municipio,990,850,796,743
+20,Oaxaca,145,San Francisco Lachigoló,0000,Total del Municipio,4808,4150,3868,3611
+20,Oaxaca,146,San Francisco Logueche,0000,Total del Municipio,2509,2134,1901,1665
+20,Oaxaca,147,San Francisco Nuxaño,0000,Total del Municipio,354,305,284,260
+20,Oaxaca,148,San Francisco Ozolotepec,0000,Total del Municipio,1931,1536,1382,1236
+20,Oaxaca,149,San Francisco Sola,0000,Total del Municipio,1810,1480,1370,1239
+20,Oaxaca,150,San Francisco Telixtlahuaca,0000,Total del Municipio,12580,10765,9985,9229
+20,Oaxaca,151,San Francisco Teopan,0000,Total del Municipio,288,263,242,223
+20,Oaxaca,152,San Francisco Tlapancingo,0000,Total del Municipio,2168,1775,1612,1417
+20,Oaxaca,153,San Gabriel Mixtepec,0000,Total del Municipio,4460,3636,3331,3042
+20,Oaxaca,154,San Ildefonso Amatlán,0000,Total del Municipio,2112,1781,1629,1461
+20,Oaxaca,155,San Ildefonso Sola,0000,Total del Municipio,959,805,730,641
+20,Oaxaca,156,San Ildefonso Villa Alta,0000,Total del Municipio,3358,2969,2798,2632
+20,Oaxaca,157,San Jacinto Amilpas,0000,Total del Municipio,15544,13652,12837,11996
+20,Oaxaca,158,San Jacinto Tlacotepec,0000,Total del Municipio,2017,1687,1555,1407
+20,Oaxaca,159,San Jerónimo Coatlán,0000,Total del Municipio,4951,4087,3673,3332
+20,Oaxaca,160,San Jerónimo Silacayoapilla,0000,Total del Municipio,1310,1134,1049,974
+20,Oaxaca,161,San Jerónimo Sosola,0000,Total del Municipio,2511,2211,2070,1925
+20,Oaxaca,162,San Jerónimo Taviche,0000,Total del Municipio,1864,1546,1409,1251
+20,Oaxaca,163,San Jerónimo Tecóatl,0000,Total del Municipio,1450,1214,1087,1001
+20,Oaxaca,164,San Jorge Nuchita,0000,Total del Municipio,2585,2195,2047,1883
+20,Oaxaca,165,San José Ayuquila,0000,Total del Municipio,1467,1241,1130,1037
+20,Oaxaca,166,San José Chiltepec,0000,Total del Municipio,10460,9020,8391,7781
+20,Oaxaca,167,San José del Peñasco,0000,Total del Municipio,1920,1614,1470,1345
+20,Oaxaca,168,San José Estancia Grande,0000,Total del Municipio,842,691,630,579
+20,Oaxaca,169,San José Independencia,0000,Total del Municipio,3911,3137,2766,2533
+20,Oaxaca,170,San José Lachiguiri,0000,Total del Municipio,3449,2981,2721,2458
+20,Oaxaca,171,San José Tenango,0000,Total del Municipio,16353,13197,11752,10657
+20,Oaxaca,172,San Juan Achiutla,0000,Total del Municipio,391,362,349,332
+20,Oaxaca,173,San Juan Atepec,0000,Total del Municipio,1362,1191,1119,1044
+20,Oaxaca,174,Ánimas Trujano,0000,Total del Municipio,4197,3707,3493,3259
+20,Oaxaca,175,San Juan Bautista Atatlahuca,0000,Total del Municipio,1308,1139,1067,979
+20,Oaxaca,176,San Juan Bautista Coixtlahuaca,0000,Total del Municipio,2544,2190,2004,1857
+20,Oaxaca,177,San Juan Bautista Cuicatlán,0000,Total del Municipio,9460,8184,7591,7075
+20,Oaxaca,178,San Juan Bautista Guelache,0000,Total del Municipio,6199,5383,5023,4641
+20,Oaxaca,179,San Juan Bautista Jayacatlán,0000,Total del Municipio,1354,1140,1054,965
+20,Oaxaca,180,San Juan Bautista Lo de Soto,0000,Total del Municipio,2139,1799,1683,1574
+20,Oaxaca,181,San Juan Bautista Suchitepec,0000,Total del Municipio,425,373,360,350
+20,Oaxaca,182,San Juan Bautista Tlacoatzintepec,0000,Total del Municipio,1982,1641,1456,1279
+20,Oaxaca,183,San Juan Bautista Tlachichilco,0000,Total del Municipio,1318,1108,1007,917
+20,Oaxaca,184,San Juan Bautista Tuxtepec,0000,Total del Municipio,146097,126797,118225,109533
+20,Oaxaca,185,San Juan Cacahuatepec,0000,Total del Municipio,8084,6863,6366,5846
+20,Oaxaca,186,San Juan Cieneguilla,0000,Total del Municipio,477,408,380,367
+20,Oaxaca,187,San Juan Coatzóspam,0000,Total del Municipio,1682,1486,1369,1253
+20,Oaxaca,188,San Juan Colorado,0000,Total del Municipio,8671,7147,6458,5885
+20,Oaxaca,189,San Juan Comaltepec,0000,Total del Municipio,2804,2328,2084,1877
+20,Oaxaca,190,San Juan Cotzocón,0000,Total del Municipio,20176,17183,15879,14656
+20,Oaxaca,191,San Juan Chicomezúchil,0000,Total del Municipio,279,246,232,224
+20,Oaxaca,192,San Juan Chilateca,0000,Total del Municipio,1439,1303,1238,1167
+20,Oaxaca,193,San Juan del Estado,0000,Total del Municipio,2548,2230,2094,1965
+20,Oaxaca,194,San Juan del Río,0000,Total del Municipio,1272,1158,1109,1047
+20,Oaxaca,195,San Juan Diuxi,0000,Total del Municipio,989,865,828,775
+20,Oaxaca,196,San Juan Evangelista Analco,0000,Total del Municipio,384,338,322,309
+20,Oaxaca,197,San Juan Guelavía,0000,Total del Municipio,3057,2666,2508,2374
+20,Oaxaca,198,San Juan Guichicovi,0000,Total del Municipio,27250,23590,21910,20267
+20,Oaxaca,199,San Juan Ihualtepec,0000,Total del Municipio,462,409,379,357
+20,Oaxaca,200,San Juan Juquila Mixes,0000,Total del Municipio,3439,2947,2706,2468
+20,Oaxaca,201,San Juan Juquila Vijanos,0000,Total del Municipio,1698,1422,1304,1192
+20,Oaxaca,202,San Juan Lachao,0000,Total del Municipio,4075,3301,2998,2736
+20,Oaxaca,203,San Juan Lachigalla,0000,Total del Municipio,3166,2636,2401,2157
+20,Oaxaca,204,San Juan Lajarcia,0000,Total del Municipio,589,519,490,467
+20,Oaxaca,205,San Juan Lalana,0000,Total del Municipio,15358,12957,11730,10741
+20,Oaxaca,206,San Juan de los Cués,0000,Total del Municipio,2226,1881,1758,1645
+20,Oaxaca,207,San Juan Mazatlán,0000,Total del Municipio,17160,14098,12779,11704
+20,Oaxaca,208,San Juan Mixtepec,0000,Total del Municipio,6427,5731,5445,5230
+20,Oaxaca,209,San Juan Mixtepec,0000,Total del Municipio,567,513,485,451
+20,Oaxaca,210,San Juan Ñumí,0000,Total del Municipio,5253,4469,4153,3899
+20,Oaxaca,211,San Juan Ozolotepec,0000,Total del Municipio,2960,2316,2067,1838
+20,Oaxaca,212,San Juan Petlapa,0000,Total del Municipio,2763,2173,1937,1769
+20,Oaxaca,213,San Juan Quiahije,0000,Total del Municipio,3644,2813,2517,2265
+20,Oaxaca,214,San Juan Quiotepec,0000,Total del Municipio,1865,1611,1521,1421
+20,Oaxaca,215,San Juan Sayultepec,0000,Total del Municipio,814,674,613,569
+20,Oaxaca,216,San Juan Tabaá,0000,Total del Municipio,1124,967,905,841
+20,Oaxaca,217,San Juan Tamazola,0000,Total del Municipio,3051,2489,2209,2023
+20,Oaxaca,218,San Juan Teita,0000,Total del Municipio,509,450,417,392
+20,Oaxaca,219,San Juan Teitipac,0000,Total del Municipio,2448,2120,2012,1913
+20,Oaxaca,220,San Juan Tepeuxila,0000,Total del Municipio,2459,2113,1942,1822
+20,Oaxaca,221,San Juan Teposcolula,0000,Total del Municipio,1388,1209,1124,1037
+20,Oaxaca,222,San Juan Yaeé,0000,Total del Municipio,1329,1137,1053,980
+20,Oaxaca,223,San Juan Yatzona,0000,Total del Municipio,405,345,312,301
+20,Oaxaca,224,San Juan Yucuita,0000,Total del Municipio,603,541,516,501
+20,Oaxaca,225,San Lorenzo,0000,Total del Municipio,5361,4511,4121,3733
+20,Oaxaca,226,San Lorenzo Albarradas,0000,Total del Municipio,2734,2377,2200,2078
+20,Oaxaca,227,San Lorenzo Cacaotepec,0000,Total del Municipio,17076,14918,13938,12927
+20,Oaxaca,228,San Lorenzo Cuaunecuiltitla,0000,Total del Municipio,763,607,534,459
+20,Oaxaca,229,San Lorenzo Texmelúcan,0000,Total del Municipio,8041,6224,5535,4757
+20,Oaxaca,230,San Lorenzo Victoria,0000,Total del Municipio,848,740,687,646
+20,Oaxaca,231,San Lucas Camotlán,0000,Total del Municipio,2900,2447,2246,2012
+20,Oaxaca,232,San Lucas Ojitlán,0000,Total del Municipio,19983,16676,15171,13785
+20,Oaxaca,233,San Lucas Quiaviní,0000,Total del Municipio,1606,1454,1385,1308
+20,Oaxaca,234,San Lucas Zoquiápam,0000,Total del Municipio,6460,5301,4744,4270
+20,Oaxaca,235,San Luis Amatlán,0000,Total del Municipio,3438,2952,2722,2510
+20,Oaxaca,236,San Marcial Ozolotepec,0000,Total del Municipio,1231,973,867,784
+20,Oaxaca,237,San Marcos Arteaga,0000,Total del Municipio,1436,1251,1169,1091
+20,Oaxaca,238,San Martín de los Cansecos,0000,Total del Municipio,907,768,722,674
+20,Oaxaca,239,San Martín Huamelúlpam,0000,Total del Municipio,943,834,770,717
+20,Oaxaca,240,San Martín Itunyoso,0000,Total del Municipio,2421,1980,1790,1602
+20,Oaxaca,241,San Martín Lachilá,0000,Total del Municipio,946,819,776,740
+20,Oaxaca,242,San Martín Peras,0000,Total del Municipio,11044,8691,7402,6397
+20,Oaxaca,243,San Martín Tilcajete,0000,Total del Municipio,1812,1578,1477,1402
+20,Oaxaca,244,San Martín Toxpalan,0000,Total del Municipio,3579,2985,2730,2479
+20,Oaxaca,245,San Martín Zacatepec,0000,Total del Municipio,1198,1016,937,873
+20,Oaxaca,246,San Mateo Cajonos,0000,Total del Municipio,558,473,440,420
+20,Oaxaca,247,Capulálpam de Méndez,0000,Total del Municipio,1515,1335,1251,1105
+20,Oaxaca,248,San Mateo del Mar,0000,Total del Municipio,13971,11496,10446,9474
+20,Oaxaca,249,San Mateo Yoloxochitlán,0000,Total del Municipio,3449,2864,2575,2334
+20,Oaxaca,250,San Mateo Etlatongo,0000,Total del Municipio,1143,991,941,863
+20,Oaxaca,251,San Mateo Nejápam,0000,Total del Municipio,1076,881,816,749
+20,Oaxaca,252,San Mateo Peñasco,0000,Total del Municipio,2177,1809,1638,1464
+20,Oaxaca,253,San Mateo Piñas,0000,Total del Municipio,1865,1610,1495,1413
+20,Oaxaca,254,San Mateo Río Hondo,0000,Total del Municipio,2930,2491,2292,2129
+20,Oaxaca,255,San Mateo Sindihui,0000,Total del Municipio,1779,1510,1395,1283
+20,Oaxaca,256,San Mateo Tlapiltepec,0000,Total del Municipio,216,189,180,163
+20,Oaxaca,257,San Melchor Betaza,0000,Total del Municipio,981,842,804,776
+20,Oaxaca,258,San Miguel Achiutla,0000,Total del Municipio,652,581,541,511
+20,Oaxaca,259,San Miguel Ahuehuetitlán,0000,Total del Municipio,1950,1621,1474,1338
+20,Oaxaca,260,San Miguel Aloápam,0000,Total del Municipio,1976,1695,1588,1475
+20,Oaxaca,261,San Miguel Amatitlán,0000,Total del Municipio,6164,5130,4640,4204
+20,Oaxaca,262,San Miguel Amatlán,0000,Total del Municipio,908,785,723,682
+20,Oaxaca,263,San Miguel Coatlán,0000,Total del Municipio,2891,2360,2092,1871
+20,Oaxaca,264,San Miguel Chicahua,0000,Total del Municipio,1996,1648,1452,1337
+20,Oaxaca,265,San Miguel Chimalapa,0000,Total del Municipio,5627,4810,4441,4078
+20,Oaxaca,266,San Miguel del Puerto,0000,Total del Municipio,7831,6648,6149,5642
+20,Oaxaca,267,San Miguel del Río,0000,Total del Municipio,236,210,193,184
+20,Oaxaca,268,San Miguel Ejutla,0000,Total del Municipio,1054,878,818,754
+20,Oaxaca,269,San Miguel el Grande,0000,Total del Municipio,3942,3409,3193,2975
+20,Oaxaca,270,San Miguel Huautla,0000,Total del Municipio,1201,978,868,793
+20,Oaxaca,271,San Miguel Mixtepec,0000,Total del Municipio,2851,2316,2057,1843
+20,Oaxaca,272,San Miguel Panixtlahuaca,0000,Total del Municipio,5525,4350,3861,3487
+20,Oaxaca,273,San Miguel Peras,0000,Total del Municipio,3412,2772,2487,2193
+20,Oaxaca,274,San Miguel Piedras,0000,Total del Municipio,1227,1028,933,849
+20,Oaxaca,275,San Miguel Quetzaltepec,0000,Total del Municipio,6630,5594,5173,4796
+20,Oaxaca,276,San Miguel Santa Flor,0000,Total del Municipio,648,568,528,508
+20,Oaxaca,277,Villa Sola de Vega,0000,Total del Municipio,11103,9351,8572,7857
+20,Oaxaca,278,San Miguel Soyaltepec,0000,Total del Municipio,34717,29061,26575,24383
+20,Oaxaca,279,San Miguel Suchixtepec,0000,Total del Municipio,2687,2335,2137,1960
+20,Oaxaca,280,Villa Talea de Castro,0000,Total del Municipio,1874,1654,1550,1438
+20,Oaxaca,281,San Miguel Tecomatlán,0000,Total del Municipio,288,261,252,240
+20,Oaxaca,282,San Miguel Tenango,0000,Total del Municipio,608,524,491,470
+20,Oaxaca,283,San Miguel Tequixtepec,0000,Total del Municipio,964,806,752,705
+20,Oaxaca,284,San Miguel Tilquiápam,0000,Total del Municipio,2825,2383,2116,1927
+20,Oaxaca,285,San Miguel Tlacamama,0000,Total del Municipio,3333,2801,2595,2418
+20,Oaxaca,286,San Miguel Tlacotepec,0000,Total del Municipio,2862,2453,2309,2156
+20,Oaxaca,287,San Miguel Tulancingo,0000,Total del Municipio,296,266,251,240
+20,Oaxaca,288,San Miguel Yotao,0000,Total del Municipio,546,467,430,401
+20,Oaxaca,289,San Nicolás,0000,Total del Municipio,1095,938,873,823
+20,Oaxaca,290,San Nicolás Hidalgo,0000,Total del Municipio,967,819,743,680
+20,Oaxaca,291,San Pablo Coatlán,0000,Total del Municipio,3915,3279,2977,2675
+20,Oaxaca,292,San Pablo Cuatro Venados,0000,Total del Municipio,1381,1129,1011,902
+20,Oaxaca,293,San Pablo Etla,0000,Total del Municipio,15986,13985,13032,12093
+20,Oaxaca,294,San Pablo Huitzo,0000,Total del Municipio,6501,5676,5328,5010
+20,Oaxaca,295,San Pablo Huixtepec,0000,Total del Municipio,9209,8021,7494,7000
+20,Oaxaca,296,San Pablo Macuiltianguis,0000,Total del Municipio,890,788,742,708
+20,Oaxaca,297,San Pablo Tijaltepec,0000,Total del Municipio,2525,2076,1844,1637
+20,Oaxaca,298,San Pablo Villa de Mitla,0000,Total del Municipio,12575,10914,10169,9486
+20,Oaxaca,299,San Pablo Yaganiza,0000,Total del Municipio,1041,884,821,767
+20,Oaxaca,300,San Pedro Amuzgos,0000,Total del Municipio,6098,5165,4728,4307
+20,Oaxaca,301,San Pedro Apóstol,0000,Total del Municipio,1455,1298,1213,1150
+20,Oaxaca,302,San Pedro Atoyac,0000,Total del Municipio,4078,3286,2975,2658
+20,Oaxaca,303,San Pedro Cajonos,0000,Total del Municipio,1000,873,810,775
+20,Oaxaca,304,San Pedro Coxcaltepec Cántaros,0000,Total del Municipio,667,572,537,510
+20,Oaxaca,305,San Pedro Comitancillo,0000,Total del Municipio,4075,3605,3381,3156
+20,Oaxaca,306,San Pedro el Alto,0000,Total del Municipio,4166,3342,2960,2627
+20,Oaxaca,307,San Pedro Huamelula,0000,Total del Municipio,8957,7707,7134,6619
+20,Oaxaca,308,San Pedro Huilotepec,0000,Total del Municipio,2997,2538,2363,2195
+20,Oaxaca,309,San Pedro Ixcatlán,0000,Total del Municipio,9247,7563,6825,6252
+20,Oaxaca,310,San Pedro Ixtlahuaca,0000,Total del Municipio,13157,10930,10028,9165
+20,Oaxaca,311,San Pedro Jaltepetongo,0000,Total del Municipio,443,383,357,338
+20,Oaxaca,312,San Pedro Jicayán,0000,Total del Municipio,10016,8193,7401,6634
+20,Oaxaca,313,San Pedro Jocotipac,0000,Total del Municipio,688,622,597,564
+20,Oaxaca,314,San Pedro Juchatengo,0000,Total del Municipio,1627,1416,1326,1233
+20,Oaxaca,315,San Pedro Mártir,0000,Total del Municipio,1730,1452,1353,1265
+20,Oaxaca,316,San Pedro Mártir Quiechapa,0000,Total del Municipio,689,618,575,521
+20,Oaxaca,317,San Pedro Mártir Yucuxaco,0000,Total del Municipio,1154,1017,949,863
+20,Oaxaca,318,San Pedro Mixtepec,0000,Total del Municipio,45193,38751,35968,33200
+20,Oaxaca,319,San Pedro Mixtepec,0000,Total del Municipio,902,782,716,665
+20,Oaxaca,320,San Pedro Molinos,0000,Total del Municipio,653,564,526,489
+20,Oaxaca,321,San Pedro Nopala,0000,Total del Municipio,678,581,525,485
+20,Oaxaca,322,San Pedro Ocopetatillo,0000,Total del Municipio,725,630,574,535
+20,Oaxaca,323,San Pedro Ocotepec,0000,Total del Municipio,2214,1863,1698,1574
+20,Oaxaca,324,San Pedro Pochutla,0000,Total del Municipio,43384,36709,33998,31357
+20,Oaxaca,325,San Pedro Quiatoni,0000,Total del Municipio,10749,9060,8426,7767
+20,Oaxaca,326,San Pedro Sochiápam,0000,Total del Municipio,4522,3603,3256,2950
+20,Oaxaca,327,San Pedro Tapanatepec,0000,Total del Municipio,14052,11960,11074,10282
+20,Oaxaca,328,San Pedro Taviche,0000,Total del Municipio,1285,1053,977,891
+20,Oaxaca,329,San Pedro Teozacoalco,0000,Total del Municipio,1059,908,845,789
+20,Oaxaca,330,San Pedro Teutila,0000,Total del Municipio,3920,3289,3034,2809
+20,Oaxaca,331,San Pedro Tidaá,0000,Total del Municipio,917,774,720,676
+20,Oaxaca,332,San Pedro Topiltepec,0000,Total del Municipio,347,317,303,281
+20,Oaxaca,333,San Pedro Totolápam,0000,Total del Municipio,2997,2635,2494,2351
+20,Oaxaca,334,Villa de Tututepec,0000,Total del Municipio,45990,38939,36175,33379
+20,Oaxaca,335,San Pedro Yaneri,0000,Total del Municipio,810,688,619,559
+20,Oaxaca,336,San Pedro Yólox,0000,Total del Municipio,1586,1386,1279,1186
+20,Oaxaca,337,San Pedro y San Pablo Ayutla,0000,Total del Municipio,5105,4312,3883,3529
+20,Oaxaca,338,Villa de Etla,0000,Total del Municipio,9537,8324,7798,7301
+20,Oaxaca,339,San Pedro y San Pablo Teposcolula,0000,Total del Municipio,3992,3447,3228,3011
+20,Oaxaca,340,San Pedro y San Pablo Tequixtepec,0000,Total del Municipio,1651,1479,1407,1326
+20,Oaxaca,341,San Pedro Yucunama,0000,Total del Municipio,224,199,188,174
+20,Oaxaca,342,San Raymundo Jalpan,0000,Total del Municipio,3802,3267,3061,2895
+20,Oaxaca,343,San Sebastián Abasolo,0000,Total del Municipio,1873,1658,1563,1491
+20,Oaxaca,344,San Sebastián Coatlán,0000,Total del Municipio,2503,2089,1919,1763
+20,Oaxaca,345,San Sebastián Ixcapa,0000,Total del Municipio,3803,3237,2990,2774
+20,Oaxaca,346,San Sebastián Nicananduta,0000,Total del Municipio,1411,1200,1119,1062
+20,Oaxaca,347,San Sebastián Río Hondo,0000,Total del Municipio,3822,3232,2976,2727
+20,Oaxaca,348,San Sebastián Tecomaxtlahuaca,0000,Total del Municipio,7496,6437,6019,5613
+20,Oaxaca,349,San Sebastián Teitipac,0000,Total del Municipio,2017,1767,1663,1557
+20,Oaxaca,350,San Sebastián Tutla,0000,Total del Municipio,15782,14149,13467,12801
+20,Oaxaca,351,San Simón Almolongas,0000,Total del Municipio,2547,2183,2035,1897
+20,Oaxaca,352,San Simón Zahuatlán,0000,Total del Municipio,4231,3369,2955,2587
+20,Oaxaca,353,Santa Ana,0000,Total del Municipio,2163,1813,1683,1555
+20,Oaxaca,354,Santa Ana Ateixtlahuaca,0000,Total del Municipio,443,385,359,330
+20,Oaxaca,355,Santa Ana Cuauhtémoc,0000,Total del Municipio,629,535,505,471
+20,Oaxaca,356,Santa Ana del Valle,0000,Total del Municipio,2012,1745,1649,1564
+20,Oaxaca,357,Santa Ana Tavela,0000,Total del Municipio,793,729,701,665
+20,Oaxaca,358,Santa Ana Tlapacoyan,0000,Total del Municipio,1814,1607,1497,1418
+20,Oaxaca,359,Santa Ana Yareni,0000,Total del Municipio,602,555,533,514
+20,Oaxaca,360,Santa Ana Zegache,0000,Total del Municipio,3651,3175,2988,2772
+20,Oaxaca,361,Santa Catalina Quierí,0000,Total del Municipio,772,666,616,577
+20,Oaxaca,362,Santa Catarina Cuixtla,0000,Total del Municipio,1401,1239,1153,1080
+20,Oaxaca,363,Santa Catarina Ixtepeji,0000,Total del Municipio,2450,2173,2049,1932
+20,Oaxaca,364,Santa Catarina Juquila,0000,Total del Municipio,16695,13804,12660,11535
+20,Oaxaca,365,Santa Catarina Lachatao,0000,Total del Municipio,993,873,815,773
+20,Oaxaca,366,Santa Catarina Loxicha,0000,Total del Municipio,3307,2648,2335,2104
+20,Oaxaca,367,Santa Catarina Mechoacán,0000,Total del Municipio,4175,3600,3337,3074
+20,Oaxaca,368,Santa Catarina Minas,0000,Total del Municipio,1882,1620,1523,1429
+20,Oaxaca,369,Santa Catarina Quiané,0000,Total del Municipio,2014,1731,1640,1547
+20,Oaxaca,370,Santa Catarina Tayata,0000,Total del Municipio,612,547,507,458
+20,Oaxaca,371,Santa Catarina Ticuá,0000,Total del Municipio,911,801,753,704
+20,Oaxaca,372,Santa Catarina Yosonotú,0000,Total del Municipio,1244,1093,1037,942
+20,Oaxaca,373,Santa Catarina Zapoquila,0000,Total del Municipio,371,329,307,281
+20,Oaxaca,374,Santa Cruz Acatepec,0000,Total del Municipio,1470,1185,1076,979
+20,Oaxaca,375,Santa Cruz Amilpas,0000,Total del Municipio,12090,10572,9934,9256
+20,Oaxaca,376,Santa Cruz de Bravo,0000,Total del Municipio,336,291,268,250
+20,Oaxaca,377,Santa Cruz Itundujia,0000,Total del Municipio,9842,8295,7507,6828
+20,Oaxaca,378,Santa Cruz Mixtepec,0000,Total del Municipio,3407,2879,2652,2444
+20,Oaxaca,379,Santa Cruz Nundaco,0000,Total del Municipio,2680,2223,2001,1808
+20,Oaxaca,380,Santa Cruz Papalutla,0000,Total del Municipio,2061,1790,1684,1565
+20,Oaxaca,381,Santa Cruz Tacache de Mina,0000,Total del Municipio,2648,2243,2058,1922
+20,Oaxaca,382,Santa Cruz Tacahua,0000,Total del Municipio,1104,955,882,818
+20,Oaxaca,383,Santa Cruz Tayata,0000,Total del Municipio,538,466,437,416
+20,Oaxaca,384,Santa Cruz Xitla,0000,Total del Municipio,4344,3627,3322,3068
+20,Oaxaca,385,Santa Cruz Xoxocotlán,0000,Total del Municipio,92557,80618,75447,70238
+20,Oaxaca,386,Santa Cruz Zenzontepec,0000,Total del Municipio,17113,13926,12472,11021
+20,Oaxaca,387,Santa Gertrudis,0000,Total del Municipio,2699,2343,2195,2062
+20,Oaxaca,388,Santa Inés del Monte,0000,Total del Municipio,2530,2062,1863,1670
+20,Oaxaca,389,Santa Inés Yatzeche,0000,Total del Municipio,845,769,749,720
+20,Oaxaca,390,Santa Lucía del Camino,0000,Total del Municipio,46428,41280,39083,36745
+20,Oaxaca,391,Santa Lucía Miahuatlán,0000,Total del Municipio,3048,2452,2160,1947
+20,Oaxaca,392,Santa Lucía Monteverde,0000,Total del Municipio,6151,5213,4754,4237
+20,Oaxaca,393,Santa Lucía Ocotlán,0000,Total del Municipio,3814,3280,3045,2842
+20,Oaxaca,394,Santa María Alotepec,0000,Total del Municipio,2587,2267,2112,1915
+20,Oaxaca,395,Santa María Apazco,0000,Total del Municipio,1547,1352,1214,1100
+20,Oaxaca,396,Santa María la Asunción,0000,Total del Municipio,2987,2480,2266,2071
+20,Oaxaca,397,Heroica Ciudad de Tlaxiaco,0000,Total del Municipio,36317,30960,28558,26188
+20,Oaxaca,398,Ayoquezco de Aldama,0000,Total del Municipio,4502,3923,3681,3428
+20,Oaxaca,399,Santa María Atzompa,0000,Total del Municipio,38203,32930,30685,28451
+20,Oaxaca,400,Santa María Camotlán,0000,Total del Municipio,1596,1367,1274,1204
+20,Oaxaca,401,Santa María Colotepec,0000,Total del Municipio,24280,20517,18874,17385
+20,Oaxaca,402,Santa María Cortijo,0000,Total del Municipio,963,810,740,688
+20,Oaxaca,403,Santa María Coyotepec,0000,Total del Municipio,3447,2973,2759,2564
+20,Oaxaca,404,Santa María Chachoápam,0000,Total del Municipio,719,645,612,571
+20,Oaxaca,405,Villa de Chilapa de Díaz,0000,Total del Municipio,1695,1453,1349,1254
+20,Oaxaca,406,Santa María Chilchotla,0000,Total del Municipio,19370,16012,14451,13153
+20,Oaxaca,407,Santa María Chimalapa,0000,Total del Municipio,6717,5526,5070,4659
+20,Oaxaca,408,Santa María del Rosario,0000,Total del Municipio,457,398,360,339
+20,Oaxaca,409,Santa María del Tule,0000,Total del Municipio,8296,7361,6957,6510
+20,Oaxaca,410,Santa María Ecatepec,0000,Total del Municipio,3110,2613,2354,2143
+20,Oaxaca,411,Santa María Guelacé,0000,Total del Municipio,844,756,710,674
+20,Oaxaca,412,Santa María Guienagati,0000,Total del Municipio,2860,2345,2145,1978
+20,Oaxaca,413,Santa María Huatulco,0000,Total del Municipio,46608,40101,37388,34733
+20,Oaxaca,414,Santa María Huazolotitlán,0000,Total del Municipio,10968,9321,8656,8071
+20,Oaxaca,415,Santa María Ipalapa,0000,Total del Municipio,4389,3643,3347,3084
+20,Oaxaca,416,Santa María Ixcatlán,0000,Total del Municipio,435,400,383,361
+20,Oaxaca,417,Santa María Jacatepec,0000,Total del Municipio,8785,7458,6891,6333
+20,Oaxaca,418,Santa María Jalapa del Marqués,0000,Total del Municipio,10859,9447,8798,8203
+20,Oaxaca,419,Santa María Jaltianguis,0000,Total del Municipio,542,482,446,413
+20,Oaxaca,420,Santa María Lachixío,0000,Total del Municipio,1513,1263,1148,1026
+20,Oaxaca,421,Santa María Mixtequilla,0000,Total del Municipio,4311,3769,3551,3347
+20,Oaxaca,422,Santa María Nativitas,0000,Total del Municipio,563,502,465,433
+20,Oaxaca,423,Santa María Nduayaco,0000,Total del Municipio,435,396,375,351
+20,Oaxaca,424,Santa María Ozolotepec,0000,Total del Municipio,3428,2848,2559,2277
+20,Oaxaca,425,Santa María Pápalo,0000,Total del Municipio,1907,1642,1518,1382
+20,Oaxaca,426,Santa María Peñoles,0000,Total del Municipio,8016,6523,5848,5215
+20,Oaxaca,427,Santa María Petapa,0000,Total del Municipio,13810,11892,11087,10265
+20,Oaxaca,428,Santa María Quiegolani,0000,Total del Municipio,1963,1591,1426,1280
+20,Oaxaca,429,Santa María Sola,0000,Total del Municipio,1403,1229,1128,1036
+20,Oaxaca,430,Santa María Tataltepec,0000,Total del Municipio,296,273,258,244
+20,Oaxaca,431,Santa María Tecomavaca,0000,Total del Municipio,1679,1452,1353,1259
+20,Oaxaca,432,Santa María Temaxcalapa,0000,Total del Municipio,848,765,729,694
+20,Oaxaca,433,Santa María Temaxcaltepec,0000,Total del Municipio,2408,1882,1628,1425
+20,Oaxaca,434,Santa María Teopoxco,0000,Total del Municipio,3605,2918,2588,2340
+20,Oaxaca,435,Santa María Tepantlali,0000,Total del Municipio,3236,2677,2438,2187
+20,Oaxaca,436,Santa María Texcatitlán,0000,Total del Municipio,818,694,645,605
+20,Oaxaca,437,Santa María Tlahuitoltepec,0000,Total del Municipio,8797,7424,6722,6092
+20,Oaxaca,438,Santa María Tlalixtac,0000,Total del Municipio,1654,1365,1219,1106
+20,Oaxaca,439,Santa María Tonameca,0000,Total del Municipio,22910,18978,17315,15813
+20,Oaxaca,440,Santa María Totolapilla,0000,Total del Municipio,765,676,641,595
+20,Oaxaca,441,Santa María Xadani,0000,Total del Municipio,8199,6704,6055,5452
+20,Oaxaca,442,Santa María Yalina,0000,Total del Municipio,228,202,194,181
+20,Oaxaca,443,Santa María Yavesía,0000,Total del Municipio,400,346,330,313
+20,Oaxaca,444,Santa María Yolotepec,0000,Total del Municipio,432,354,334,308
+20,Oaxaca,445,Santa María Yosoyúa,0000,Total del Municipio,1569,1363,1231,1125
+20,Oaxaca,446,Santa María Yucuhiti,0000,Total del Municipio,5540,4794,4440,4121
+20,Oaxaca,447,Santa María Zacatepec,0000,Total del Municipio,15367,12887,11848,10867
+20,Oaxaca,448,Santa María Zaniza,0000,Total del Municipio,2165,1648,1439,1267
+20,Oaxaca,449,Santa María Zoquitlán,0000,Total del Municipio,3021,2617,2441,2292
+20,Oaxaca,450,Santiago Amoltepec,0000,Total del Municipio,12187,9234,7950,6948
+20,Oaxaca,451,Santiago Apoala,0000,Total del Municipio,961,816,752,706
+20,Oaxaca,452,Santiago Apóstol,0000,Total del Municipio,4040,3550,3341,3111
+20,Oaxaca,453,Santiago Astata,0000,Total del Municipio,3614,3127,2888,2696
+20,Oaxaca,454,Santiago Atitlán,0000,Total del Municipio,3241,2798,2571,2350
+20,Oaxaca,455,Santiago Ayuquililla,0000,Total del Municipio,2590,2131,1947,1788
+20,Oaxaca,456,Santiago Cacaloxtepec,0000,Total del Municipio,1527,1321,1245,1161
+20,Oaxaca,457,Santiago Camotlán,0000,Total del Municipio,3080,2642,2458,2294
+20,Oaxaca,458,Santiago Comaltepec,0000,Total del Municipio,1055,923,865,815
+20,Oaxaca,459,Villa de Santiago Chazumba,0000,Total del Municipio,4566,4019,3729,3493
+20,Oaxaca,460,Santiago Choápam,0000,Total del Municipio,4726,3952,3620,3290
+20,Oaxaca,461,Santiago del Río,0000,Total del Municipio,487,430,414,400
+20,Oaxaca,462,Santiago Huajolotitlán,0000,Total del Municipio,4273,3696,3430,3196
+20,Oaxaca,463,Santiago Huauclilla,0000,Total del Municipio,500,462,439,419
+20,Oaxaca,464,Santiago Ihuitlán Plumas,0000,Total del Municipio,323,285,251,234
+20,Oaxaca,465,Santiago Ixcuintepec,0000,Total del Municipio,1475,1206,1082,961
+20,Oaxaca,466,Santiago Ixtayutla,0000,Total del Municipio,12327,9925,8932,7986
+20,Oaxaca,467,Santiago Jamiltepec,0000,Total del Municipio,17292,14592,13566,12508
+20,Oaxaca,468,Santiago Jocotepec,0000,Total del Municipio,12734,10281,9147,8243
+20,Oaxaca,469,Santiago Juxtlahuaca,0000,Total del Municipio,30906,25224,22787,20664
+20,Oaxaca,470,Santiago Lachiguiri,0000,Total del Municipio,4139,3644,3370,3165
+20,Oaxaca,471,Santiago Lalopa,0000,Total del Municipio,404,357,341,300
+20,Oaxaca,472,Santiago Laollaga,0000,Total del Municipio,3123,2758,2582,2418
+20,Oaxaca,473,Santiago Laxopa,0000,Total del Municipio,1193,1024,957,880
+20,Oaxaca,474,Santiago Llano Grande,0000,Total del Municipio,3106,2626,2451,2284
+20,Oaxaca,475,Santiago Matatlán,0000,Total del Municipio,9307,8018,7477,6915
+20,Oaxaca,476,Santiago Miltepec,0000,Total del Municipio,382,339,315,301
+20,Oaxaca,477,Santiago Minas,0000,Total del Municipio,1204,1039,978,920
+20,Oaxaca,478,Santiago Nacaltepec,0000,Total del Municipio,1512,1329,1241,1179
+20,Oaxaca,479,Santiago Nejapilla,0000,Total del Municipio,170,157,149,144
+20,Oaxaca,480,Santiago Nundiche,0000,Total del Municipio,1250,1097,1029,967
+20,Oaxaca,481,Santiago Nuyoó,0000,Total del Municipio,1755,1513,1398,1312
+20,Oaxaca,482,Santiago Pinotepa Nacional,0000,Total del Municipio,50469,42890,39705,36818
+20,Oaxaca,483,Santiago Suchilquitongo,0000,Total del Municipio,10071,8717,8132,7548
+20,Oaxaca,484,Santiago Tamazola,0000,Total del Municipio,3965,3317,3066,2841
+20,Oaxaca,485,Santiago Tapextla,0000,Total del Municipio,2746,2200,1982,1817
+20,Oaxaca,486,Villa Tejúpam de la Unión,0000,Total del Municipio,2245,1953,1806,1672
+20,Oaxaca,487,Santiago Tenango,0000,Total del Municipio,1778,1530,1426,1308
+20,Oaxaca,488,Santiago Tepetlapa,0000,Total del Municipio,118,107,98,93
+20,Oaxaca,489,Santiago Tetepec,0000,Total del Municipio,4447,3713,3382,3078
+20,Oaxaca,490,Santiago Texcalcingo,0000,Total del Municipio,2749,2246,2008,1773
+20,Oaxaca,491,Santiago Textitlán,0000,Total del Municipio,4375,3515,3080,2676
+20,Oaxaca,492,Santiago Tilantongo,0000,Total del Municipio,2590,2200,1990,1842
+20,Oaxaca,493,Santiago Tillo,0000,Total del Municipio,509,443,418,399
+20,Oaxaca,494,Santiago Tlazoyaltepec,0000,Total del Municipio,5688,4675,4170,3702
+20,Oaxaca,495,Santiago Xanica,0000,Total del Municipio,2688,2190,1992,1815
+20,Oaxaca,496,Santiago Xiacuí,0000,Total del Municipio,1756,1544,1421,1284
+20,Oaxaca,497,Santiago Yaitepec,0000,Total del Municipio,3810,3074,2721,2445
+20,Oaxaca,498,Santiago Yaveo,0000,Total del Municipio,6821,5732,5294,4886
+20,Oaxaca,499,Santiago Yolomécatl,0000,Total del Municipio,1789,1559,1450,1341
+20,Oaxaca,500,Santiago Yosondúa,0000,Total del Municipio,7246,6107,5607,5177
+20,Oaxaca,501,Santiago Yucuyachi,0000,Total del Municipio,928,828,773,733
+20,Oaxaca,502,Santiago Zacatepec,0000,Total del Municipio,4521,3797,3494,3221
+20,Oaxaca,503,Santiago Zoochila,0000,Total del Municipio,400,357,333,318
+20,Oaxaca,504,Nuevo Zoquiápam,0000,Total del Municipio,1441,1212,1120,1014
+20,Oaxaca,505,Santo Domingo Ingenio,0000,Total del Municipio,7212,6313,5930,5570
+20,Oaxaca,506,Santo Domingo Albarradas,0000,Total del Municipio,740,650,619,585
+20,Oaxaca,507,Santo Domingo Armenta,0000,Total del Municipio,2864,2342,2131,1955
+20,Oaxaca,508,Santo Domingo Chihuitán,0000,Total del Municipio,1491,1333,1260,1194
+20,Oaxaca,509,Santo Domingo de Morelos,0000,Total del Municipio,10004,7946,7130,6346
+20,Oaxaca,510,Santo Domingo Ixcatlán,0000,Total del Municipio,696,593,555,504
+20,Oaxaca,511,Santo Domingo Nuxaá,0000,Total del Municipio,3043,2487,2207,1990
+20,Oaxaca,512,Santo Domingo Ozolotepec,0000,Total del Municipio,964,789,729,664
+20,Oaxaca,513,Santo Domingo Petapa,0000,Total del Municipio,8155,6874,6339,5833
+20,Oaxaca,514,Santo Domingo Roayaga,0000,Total del Municipio,856,713,651,601
+20,Oaxaca,515,Santo Domingo Tehuantepec,0000,Total del Municipio,62610,54220,50445,46768
+20,Oaxaca,516,Santo Domingo Teojomulco,0000,Total del Municipio,4688,3840,3508,3172
+20,Oaxaca,517,Santo Domingo Tepuxtepec,0000,Total del Municipio,5407,4515,4069,3687
+20,Oaxaca,518,Santo Domingo Tlatayápam,0000,Total del Municipio,108,99,92,87
+20,Oaxaca,519,Santo Domingo Tomaltepec,0000,Total del Municipio,3142,2758,2602,2448
+20,Oaxaca,520,Santo Domingo Tonalá,0000,Total del Municipio,6794,5874,5418,5007
+20,Oaxaca,521,Santo Domingo Tonaltepec,0000,Total del Municipio,229,207,192,179
+20,Oaxaca,522,Santo Domingo Xagacía,0000,Total del Municipio,1080,894,812,758
+20,Oaxaca,523,Santo Domingo Yanhuitlán,0000,Total del Municipio,1526,1323,1197,1122
+20,Oaxaca,524,Santo Domingo Yodohino,0000,Total del Municipio,312,289,276,265
+20,Oaxaca,525,Santo Domingo Zanatepec,0000,Total del Municipio,11570,9974,9271,8622
+20,Oaxaca,526,Santos Reyes Nopala,0000,Total del Municipio,15135,12619,11491,10509
+20,Oaxaca,527,Santos Reyes Pápalo,0000,Total del Municipio,2262,1844,1635,1460
+20,Oaxaca,528,Santos Reyes Tepejillo,0000,Total del Municipio,840,728,677,651
+20,Oaxaca,529,Santos Reyes Yucuná,0000,Total del Municipio,1296,1073,925,780
+20,Oaxaca,530,Santo Tomás Jalieza,0000,Total del Municipio,3526,3016,2818,2598
+20,Oaxaca,531,Santo Tomás Mazaltepec,0000,Total del Municipio,2393,2069,1932,1810
+20,Oaxaca,532,Santo Tomás Ocotepec,0000,Total del Municipio,3692,3111,2839,2617
+20,Oaxaca,533,Santo Tomás Tamazulapan,0000,Total del Municipio,2495,2136,1954,1812
+20,Oaxaca,534,San Vicente Coatlán,0000,Total del Municipio,3156,2659,2406,2157
+20,Oaxaca,535,San Vicente Lachixío,0000,Total del Municipio,2894,2389,2133,1935
+20,Oaxaca,536,San Vicente Nuñú,0000,Total del Municipio,424,373,358,347
+20,Oaxaca,537,Silacayoápam,0000,Total del Municipio,6118,5291,4987,4639
+20,Oaxaca,538,Sitio de Xitlapehua,0000,Total del Municipio,643,552,512,475
+20,Oaxaca,539,Soledad Etla,0000,Total del Municipio,5889,5149,4828,4497
+20,Oaxaca,540,Villa de Tamazulápam del Progreso,0000,Total del Municipio,7677,6591,6126,5704
+20,Oaxaca,541,Tanetze de Zaragoza,0000,Total del Municipio,1475,1327,1257,1137
+20,Oaxaca,542,Taniche,0000,Total del Municipio,814,712,675,632
+20,Oaxaca,543,Tataltepec de Valdés,0000,Total del Municipio,5709,4743,4367,3977
+20,Oaxaca,544,Teococuilco de Marcos Pérez,0000,Total del Municipio,946,819,767,730
+20,Oaxaca,545,Teotitlán de Flores Magón,0000,Total del Municipio,9154,7757,7186,6596
+20,Oaxaca,546,Teotitlán del Valle,0000,Total del Municipio,6006,5337,5029,4724
+20,Oaxaca,547,Teotongo,0000,Total del Municipio,934,809,751,696
+20,Oaxaca,548,Tepelmeme Villa de Morelos,0000,Total del Municipio,1763,1490,1350,1240
+20,Oaxaca,549,Heroica Villa Tezoatlán de Segura y Luna; Cuna de la Independencia de Oaxaca,0000,Total del Municipio,10518,9036,8444,7899
+20,Oaxaca,550,San Jerónimo Tlacochahuaya,0000,Total del Municipio,5382,4709,4426,4114
+20,Oaxaca,551,Tlacolula de Matamoros,0000,Total del Municipio,27559,23783,22171,20643
+20,Oaxaca,552,Tlacotepec Plumas,0000,Total del Municipio,393,349,320,294
+20,Oaxaca,553,Tlalixtac de Cabrera,0000,Total del Municipio,11053,9637,9056,8434
+20,Oaxaca,554,Totontepec Villa de Morelos,0000,Total del Municipio,5319,4387,3991,3664
+20,Oaxaca,555,Trinidad Zaachila,0000,Total del Municipio,3152,2747,2592,2456
+20,Oaxaca,556,La Trinidad Vista Hermosa,0000,Total del Municipio,284,239,220,204
+20,Oaxaca,557,Unión Hidalgo,0000,Total del Municipio,13549,11913,11198,10462
+20,Oaxaca,558,Valerio Trujano,0000,Total del Municipio,1295,1142,1071,988
+20,Oaxaca,559,San Juan Bautista Valle Nacional,0000,Total del Municipio,20970,17997,16738,15506
+20,Oaxaca,560,Villa Díaz Ordaz,0000,Total del Municipio,5964,5238,4889,4609
+20,Oaxaca,561,Yaxe,0000,Total del Municipio,2708,2331,2157,1964
+20,Oaxaca,562,Magdalena Yodocono de Porfirio Díaz,0000,Total del Municipio,1532,1322,1226,1114
+20,Oaxaca,563,Yogana,0000,Total del Municipio,1143,1028,973,922
+20,Oaxaca,564,Yutanduchi de Guerrero,0000,Total del Municipio,1083,939,863,789
+20,Oaxaca,565,Villa de Zaachila,0000,Total del Municipio,42429,36067,33366,30815
+20,Oaxaca,566,San Mateo Yucutindoo,0000,Total del Municipio,2821,2390,2159,1965
+20,Oaxaca,567,Zapotitlán Lagunas,0000,Total del Municipio,3004,2515,2319,2144
+20,Oaxaca,568,Zapotitlán Palmas,0000,Total del Municipio,1527,1293,1217,1113
+20,Oaxaca,569,Santa Inés de Zaragoza,0000,Total del Municipio,1359,1140,1038,973
+20,Oaxaca,570,Zimatlán de Álvarez,0000,Total del Municipio,20205,17367,16275,15023
+21,Puebla,001,Acajete,0000,Total del Municipio,64539,53308,48763,44212
+21,Puebla,002,Acateno,0000,Total del Municipio,8383,7304,6804,6289
+21,Puebla,003,Acatlán,0000,Total del Municipio,34395,29325,27336,25416
+21,Puebla,004,Acatzingo,0000,Total del Municipio,56588,46766,42806,38785
+21,Puebla,005,Acteopan,0000,Total del Municipio,2827,2524,2387,2253
+21,Puebla,006,Ahuacatlán,0000,Total del Municipio,13107,11060,10115,9175
+21,Puebla,007,Ahuatlán,0000,Total del Municipio,2861,2375,2189,2034
+21,Puebla,008,Ahuazotepec,0000,Total del Municipio,10335,8694,8046,7322
+21,Puebla,009,Ahuehuetitla,0000,Total del Municipio,1989,1681,1583,1480
+21,Puebla,010,Ajalpan,0000,Total del Municipio,66731,55048,50131,45212
+21,Puebla,011,Albino Zertuche,0000,Total del Municipio,1698,1445,1319,1220
+21,Puebla,012,Aljojuca,0000,Total del Municipio,6056,5236,4893,4565
+21,Puebla,013,Altepexi,0000,Total del Municipio,20535,17337,16072,14864
+21,Puebla,014,Amixtlán,0000,Total del Municipio,4391,3796,3516,3177
+21,Puebla,015,Amozoc,0000,Total del Municipio,114453,97534,90035,82504
+21,Puebla,016,Aquixtla,0000,Total del Municipio,8112,6899,6383,5869
+21,Puebla,017,Atempan,0000,Total del Municipio,26482,21972,20010,17968
+21,Puebla,018,Atexcal,0000,Total del Municipio,3475,2950,2691,2463
+21,Puebla,019,Atlixco,0000,Total del Municipio,129216,112027,104716,97066
+21,Puebla,020,Atoyatempan,0000,Total del Municipio,6946,5809,5316,4863
+21,Puebla,021,Atzala,0000,Total del Municipio,1384,1173,1087,1001
+21,Puebla,022,Atzitzihuacán,0000,Total del Municipio,11572,9796,9122,8443
+21,Puebla,023,Atzitzintla,0000,Total del Municipio,8011,6541,6019,5455
+21,Puebla,024,Axutla,0000,Total del Municipio,907,807,766,716
+21,Puebla,025,Ayotoxco de Guerrero,0000,Total del Municipio,7435,6330,5871,5427
+21,Puebla,026,Calpan,0000,Total del Municipio,13925,12056,11186,10344
+21,Puebla,027,Caltepec,0000,Total del Municipio,3786,3311,3075,2839
+21,Puebla,028,Camocuautla,0000,Total del Municipio,2507,2120,1931,1720
+21,Puebla,029,Caxhuacan,0000,Total del Municipio,3503,3008,2803,2592
+21,Puebla,030,Coatepec,0000,Total del Municipio,707,605,566,527
+21,Puebla,031,Coatzingo,0000,Total del Municipio,2566,2162,1999,1841
+21,Puebla,032,Cohetzala,0000,Total del Municipio,1264,1093,1020,966
+21,Puebla,033,Cohuecan,0000,Total del Municipio,4884,4115,3843,3567
+21,Puebla,034,Coronango,0000,Total del Municipio,42193,36252,33875,31529
+21,Puebla,035,Coxcatlán,0000,Total del Municipio,18893,16206,15009,13769
+21,Puebla,036,Coyomeapan,0000,Total del Municipio,13144,10592,9432,8351
+21,Puebla,037,Coyotepec,0000,Total del Municipio,2184,1913,1809,1681
+21,Puebla,038,Cuapiaxtla de Madero,0000,Total del Municipio,9339,7677,7046,6456
+21,Puebla,039,Cuautempan,0000,Total del Municipio,8894,7476,6880,6324
+21,Puebla,040,Cuautinchán,0000,Total del Municipio,11031,9178,8430,7678
+21,Puebla,041,Cuautlancingo,0000,Total del Municipio,126718,110291,103377,96456
+21,Puebla,042,Cuayuca de Andrade,0000,Total del Municipio,2999,2570,2402,2214
+21,Puebla,043,Cuetzalan del Progreso,0000,Total del Municipio,45245,38185,35032,31894
+21,Puebla,044,Cuyoaco,0000,Total del Municipio,15514,13000,11921,10880
+21,Puebla,045,Chalchicomula de Sesma,0000,Total del Municipio,43003,36844,34187,31414
+21,Puebla,046,Chapulco,0000,Total del Municipio,7316,6064,5532,5015
+21,Puebla,047,Chiautla,0000,Total del Municipio,19730,16917,15738,14596
+21,Puebla,048,Chiautzingo,0000,Total del Municipio,19969,17111,15905,14640
+21,Puebla,049,Chiconcuautla,0000,Total del Municipio,15493,12626,11329,9971
+21,Puebla,050,Chichiquila,0000,Total del Municipio,23975,19705,17661,15592
+21,Puebla,051,Chietla,0000,Total del Municipio,33786,28892,26995,25083
+21,Puebla,052,Chigmecatitlán,0000,Total del Municipio,1152,1042,978,908
+21,Puebla,053,Chignahuapan,0000,Total del Municipio,59699,50583,46754,42906
+21,Puebla,054,Chignautla,0000,Total del Municipio,31404,26114,23830,21443
+21,Puebla,055,Chila,0000,Total del Municipio,4616,3937,3664,3372
+21,Puebla,056,Chila de la Sal,0000,Total del Municipio,1206,1062,996,949
+21,Puebla,057,Honey,0000,Total del Municipio,5944,4919,4530,4119
+21,Puebla,058,Chilchotla,0000,Total del Municipio,18485,14999,13430,12017
+21,Puebla,059,Chinantla,0000,Total del Municipio,2593,2183,2038,1894
+21,Puebla,060,Domingo Arenas,0000,Total del Municipio,7057,5945,5505,4994
+21,Puebla,061,Eloxochitlán,0000,Total del Municipio,12892,10604,9538,8473
+21,Puebla,062,Epatlán,0000,Total del Municipio,4492,3801,3515,3238
+21,Puebla,063,Esperanza,0000,Total del Municipio,13285,11208,10343,9493
+21,Puebla,064,Francisco Z. Mena,0000,Total del Municipio,16292,14079,13150,12186
+21,Puebla,065,General Felipe Ángeles,0000,Total del Municipio,20291,16912,15484,14063
+21,Puebla,066,Guadalupe,0000,Total del Municipio,5868,5036,4720,4417
+21,Puebla,067,Guadalupe Victoria,0000,Total del Municipio,16973,14287,13125,11878
+21,Puebla,068,Hermenegildo Galeana,0000,Total del Municipio,6387,5376,4873,4421
+21,Puebla,069,Huaquechula,0000,Total del Municipio,26219,22292,20459,18962
+21,Puebla,070,Huatlatlauca,0000,Total del Municipio,5655,4917,4547,4201
+21,Puebla,071,Huauchinango,0000,Total del Municipio,94465,80162,73925,67688
+21,Puebla,072,Huehuetla,0000,Total del Municipio,15648,13215,12060,11023
+21,Puebla,073,Huehuetlán el Chico,0000,Total del Municipio,8769,7440,6939,6461
+21,Puebla,074,Huejotzingo,0000,Total del Municipio,82503,70331,65275,60175
+21,Puebla,075,Hueyapan,0000,Total del Municipio,11760,9765,8831,7973
+21,Puebla,076,Hueytamalco,0000,Total del Municipio,25154,21586,20005,18364
+21,Puebla,077,Hueytlalpan,0000,Total del Municipio,5426,4674,4266,3833
+21,Puebla,078,Huitzilan de Serdán,0000,Total del Municipio,14222,11758,10606,9534
+21,Puebla,079,Huitziltepec,0000,Total del Municipio,5259,4439,4111,3760
+21,Puebla,080,Atlequizayan,0000,Total del Municipio,2437,2117,1939,1761
+21,Puebla,081,Ixcamilpa de Guerrero,0000,Total del Municipio,3629,3097,2879,2663
+21,Puebla,082,Ixcaquixtla,0000,Total del Municipio,8019,6823,6314,5811
+21,Puebla,083,Ixtacamaxtitlán,0000,Total del Municipio,22868,19372,17749,16215
+21,Puebla,084,Ixtepec,0000,Total del Municipio,6281,5347,4891,4437
+21,Puebla,085,Izúcar de Matamoros,0000,Total del Municipio,75043,63978,59647,55240
+21,Puebla,086,Jalpan,0000,Total del Municipio,10949,9214,8459,7743
+21,Puebla,087,Jolalpan,0000,Total del Municipio,12098,10172,9375,8638
+21,Puebla,088,Jonotla,0000,Total del Municipio,4078,3466,3230,2997
+21,Puebla,089,Jopala,0000,Total del Municipio,10959,9226,8441,7705
+21,Puebla,090,Juan C. Bonilla,0000,Total del Municipio,21423,18178,16939,15623
+21,Puebla,091,Juan Galindo,0000,Total del Municipio,9102,7835,7269,6789
+21,Puebla,092,Juan N. Méndez,0000,Total del Municipio,4776,3976,3677,3362
+21,Puebla,093,Lafragua,0000,Total del Municipio,6904,5850,5373,4921
+21,Puebla,094,Libres,0000,Total del Municipio,33580,28094,25699,23411
+21,Puebla,095,La Magdalena Tlatlauquitepec,0000,Total del Municipio,590,500,464,436
+21,Puebla,096,Mazapiltepec de Juárez,0000,Total del Municipio,2867,2428,2249,2072
+21,Puebla,097,Mixtla,0000,Total del Municipio,2401,2048,1908,1763
+21,Puebla,098,Molcaxac,0000,Total del Municipio,6022,5145,4771,4409
+21,Puebla,099,Cañada Morelos,0000,Total del Municipio,18353,15368,14190,12980
+21,Puebla,100,Naupan,0000,Total del Municipio,8425,7012,6386,5812
+21,Puebla,101,Nauzontla,0000,Total del Municipio,3058,2641,2461,2286
+21,Puebla,102,Nealtican,0000,Total del Municipio,12508,10511,9693,8820
+21,Puebla,103,Nicolás Bravo,0000,Total del Municipio,6005,5017,4614,4181
+21,Puebla,104,Nopalucan,0000,Total del Municipio,29120,24152,22172,20132
+21,Puebla,105,Ocotepec,0000,Total del Municipio,4654,3906,3611,3335
+21,Puebla,106,Ocoyucan,0000,Total del Municipio,38067,32363,30095,27757
+21,Puebla,107,Olintla,0000,Total del Municipio,10825,9007,8131,7319
+21,Puebla,108,Oriental,0000,Total del Municipio,17947,15058,13784,12648
+21,Puebla,109,Pahuatlán,0000,Total del Municipio,18177,15035,13811,12567
+21,Puebla,110,Palmar de Bravo,0000,Total del Municipio,44397,36897,33801,30578
+21,Puebla,111,Pantepec,0000,Total del Municipio,16927,14579,13527,12517
+21,Puebla,112,Petlalcingo,0000,Total del Municipio,8549,7318,6774,6216
+21,Puebla,113,Piaxtla,0000,Total del Municipio,4236,3694,3460,3244
+21,Puebla,114,Puebla,0000,Total del Municipio,1572247,1397468,1318435,1235600
+21,Puebla,115,Quecholac,0000,Total del Municipio,51173,42336,38685,34908
+21,Puebla,116,Quimixtlán,0000,Total del Municipio,20225,16429,14753,13143
+21,Puebla,117,Rafael Lara Grajales,0000,Total del Municipio,14456,12271,11279,10337
+21,Puebla,118,Los Reyes de Juárez,0000,Total del Municipio,26681,21978,20023,18091
+21,Puebla,119,San Andrés Cholula,0000,Total del Municipio,143283,128020,120802,113157
+21,Puebla,120,San Antonio Cañada,0000,Total del Municipio,5334,4412,4064,3707
+21,Puebla,121,San Diego la Mesa Tochimiltzingo,0000,Total del Municipio,1157,1003,920,853
+21,Puebla,122,San Felipe Teotlalcingo,0000,Total del Municipio,10034,8570,7938,7293
+21,Puebla,123,San Felipe Tepatlán,0000,Total del Municipio,3460,2897,2653,2438
+21,Puebla,124,San Gabriel Chilac,0000,Total del Municipio,14452,12430,11577,10724
+21,Puebla,125,San Gregorio Atzompa,0000,Total del Municipio,8815,7643,7174,6703
+21,Puebla,126,San Jerónimo Tecuanipan,0000,Total del Municipio,5873,4918,4549,4170
+21,Puebla,127,San Jerónimo Xayacatlán,0000,Total del Municipio,3365,2956,2770,2590
+21,Puebla,128,San José Chiapa,0000,Total del Municipio,9315,7749,7129,6541
+21,Puebla,129,San José Miahuatlán,0000,Total del Municipio,12831,10936,10184,9360
+21,Puebla,130,San Juan Atenco,0000,Total del Municipio,3290,2855,2665,2493
+21,Puebla,131,San Juan Atzompa,0000,Total del Municipio,890,756,703,641
+21,Puebla,132,San Martín Texmelucan,0000,Total del Municipio,142407,123088,114663,106124
+21,Puebla,133,San Martín Totoltepec,0000,Total del Municipio,638,544,518,478
+21,Puebla,134,San Matías Tlalancaleca,0000,Total del Municipio,19018,16349,15272,14202
+21,Puebla,135,San Miguel Ixitlán,0000,Total del Municipio,496,446,417,401
+21,Puebla,136,San Miguel Xoxtla,0000,Total del Municipio,11372,9835,9133,8387
+21,Puebla,137,San Nicolás Buenos Aires,0000,Total del Municipio,9306,7768,7162,6578
+21,Puebla,138,San Nicolás de los Ranchos,0000,Total del Municipio,10535,8885,8233,7585
+21,Puebla,139,San Pablo Anicano,0000,Total del Municipio,3414,2907,2723,2538
+21,Puebla,140,San Pedro Cholula,0000,Total del Municipio,127299,111980,105459,98550
+21,Puebla,141,San Pedro Yeloixtlahuaca,0000,Total del Municipio,3170,2729,2542,2387
+21,Puebla,142,San Salvador el Seco,0000,Total del Municipio,27841,23701,21898,20097
+21,Puebla,143,San Salvador el Verde,0000,Total del Municipio,31714,26999,25079,23015
+21,Puebla,144,San Salvador Huixcolotla,0000,Total del Municipio,14976,12548,11545,10600
+21,Puebla,145,San Sebastián Tlacotepec,0000,Total del Municipio,11909,9797,8808,7884
+21,Puebla,146,Santa Catarina Tlaltempan,0000,Total del Municipio,700,628,587,552
+21,Puebla,147,Santa Inés Ahuatempan,0000,Total del Municipio,5763,4933,4545,4205
+21,Puebla,148,Santa Isabel Cholula,0000,Total del Municipio,10160,8467,7812,7125
+21,Puebla,149,Santiago Miahuatlán,0000,Total del Municipio,27426,23210,21346,19363
+21,Puebla,150,Huehuetlán el Grande,0000,Total del Municipio,5517,4644,4305,3928
+21,Puebla,151,Santo Tomás Hueyotlipan,0000,Total del Municipio,8424,7157,6648,6097
+21,Puebla,152,Soltepec,0000,Total del Municipio,11457,9738,9036,8294
+21,Puebla,153,Tecali de Herrera,0000,Total del Municipio,21353,18003,16642,15242
+21,Puebla,154,Tecamachalco,0000,Total del Municipio,72645,61191,56511,51668
+21,Puebla,155,Tecomatlán,0000,Total del Municipio,6264,5499,5097,4571
+21,Puebla,156,Tehuacán,0000,Total del Municipio,299217,258433,240474,221729
+21,Puebla,157,Tehuitzingo,0000,Total del Municipio,11466,9771,9085,8474
+21,Puebla,158,Tenampulco,0000,Total del Municipio,6276,5501,5166,4760
+21,Puebla,159,Teopantlán,0000,Total del Municipio,3560,3199,3036,2831
+21,Puebla,160,Teotlalco,0000,Total del Municipio,3347,2834,2622,2464
+21,Puebla,161,Tepanco de López,0000,Total del Municipio,19996,17061,15711,14376
+21,Puebla,162,Tepango de Rodríguez,0000,Total del Municipio,3771,3181,2934,2688
+21,Puebla,163,Tepatlaxco de Hidalgo,0000,Total del Municipio,17020,14250,13068,11879
+21,Puebla,164,Tepeaca,0000,Total del Municipio,75354,63119,58156,53092
+21,Puebla,165,Tepemaxalco,0000,Total del Municipio,1094,889,800,734
+21,Puebla,166,Tepeojuma,0000,Total del Municipio,8059,6903,6421,5937
+21,Puebla,167,Tepetzintla,0000,Total del Municipio,9319,7740,6945,6247
+21,Puebla,168,Tepexco,0000,Total del Municipio,6707,5618,5199,4758
+21,Puebla,169,Tepexi de Rodríguez,0000,Total del Municipio,20390,17391,16121,14853
+21,Puebla,170,Tepeyahualco,0000,Total del Municipio,17253,14427,13271,12145
+21,Puebla,171,Tepeyahualco de Cuauhtémoc,0000,Total del Municipio,3470,2971,2773,2598
+21,Puebla,172,Tetela de Ocampo,0000,Total del Municipio,24854,21116,19509,18015
+21,Puebla,173,Teteles de Avila Castillo,0000,Total del Municipio,6156,5303,4963,4611
+21,Puebla,174,Teziutlán,0000,Total del Municipio,95399,82480,77026,71283
+21,Puebla,175,Tianguismanalco,0000,Total del Municipio,13009,11042,10273,9500
+21,Puebla,176,Tilapa,0000,Total del Municipio,8755,7463,6928,6376
+21,Puebla,177,Tlacotepec de Benito Juárez,0000,Total del Municipio,48148,39124,35496,32023
+21,Puebla,178,Tlacuilotepec,0000,Total del Municipio,14480,12199,11134,10146
+21,Puebla,179,Tlachichuca,0000,Total del Municipio,28487,24012,22141,20201
+21,Puebla,180,Tlahuapan,0000,Total del Municipio,37312,31623,29220,26937
+21,Puebla,181,Tlaltenango,0000,Total del Municipio,6688,5593,5144,4683
+21,Puebla,182,Tlanepantla,0000,Total del Municipio,4779,3998,3691,3363
+21,Puebla,183,Tlaola,0000,Total del Municipio,18241,14975,13626,12248
+21,Puebla,184,Tlapacoya,0000,Total del Municipio,5732,4714,4362,3998
+21,Puebla,185,Tlapanalá,0000,Total del Municipio,9154,7680,7142,6621
+21,Puebla,186,Tlatlauquitepec,0000,Total del Municipio,50628,42926,39546,36210
+21,Puebla,187,Tlaxco,0000,Total del Municipio,4516,3856,3545,3275
+21,Puebla,188,Tochimilco,0000,Total del Municipio,17130,14390,13372,12297
+21,Puebla,189,Tochtepec,0000,Total del Municipio,20098,16945,15619,14335
+21,Puebla,190,Totoltepec de Guerrero,0000,Total del Municipio,1106,970,909,861
+21,Puebla,191,Tulcingo,0000,Total del Municipio,8873,7618,7077,6557
+21,Puebla,192,Tuzamapan de Galeana,0000,Total del Municipio,5467,4799,4485,4167
+21,Puebla,193,Tzicatlacoyan,0000,Total del Municipio,5829,4974,4609,4231
+21,Puebla,194,Venustiano Carranza,0000,Total del Municipio,25711,21716,20115,18571
+21,Puebla,195,Vicente Guerrero,0000,Total del Municipio,23476,19105,17313,15536
+21,Puebla,196,Xayacatlán de Bravo,0000,Total del Municipio,1459,1259,1173,1095
+21,Puebla,197,Xicotepec,0000,Total del Municipio,73220,61912,57072,52191
+21,Puebla,198,Xicotlán,0000,Total del Municipio,1166,1010,944,869
+21,Puebla,199,Xiutetelco,0000,Total del Municipio,38279,31830,29037,26243
+21,Puebla,200,Xochiapulco,0000,Total del Municipio,3185,2749,2521,2308
+21,Puebla,201,Xochiltepec,0000,Total del Municipio,3040,2566,2368,2195
+21,Puebla,202,Xochitlán de Vicente Suárez,0000,Total del Municipio,11718,9878,9041,8260
+21,Puebla,203,Xochitlán Todos Santos,0000,Total del Municipio,6453,5399,4953,4499
+21,Puebla,204,Yaonáhuac,0000,Total del Municipio,7251,6183,5718,5265
+21,Puebla,205,Yehualtepec,0000,Total del Municipio,23293,19253,17703,16060
+21,Puebla,206,Zacapala,0000,Total del Municipio,4156,3442,3179,2957
+21,Puebla,207,Zacapoaxtla,0000,Total del Municipio,52360,44372,40784,37219
+21,Puebla,208,Zacatlán,0000,Total del Municipio,78995,67009,61666,56473
+21,Puebla,209,Zapotitlán,0000,Total del Municipio,7888,6802,6320,5802
+21,Puebla,210,Zapotitlán de Méndez,0000,Total del Municipio,5238,4505,4150,3820
+21,Puebla,211,Zaragoza,0000,Total del Municipio,15252,13038,12143,11208
+21,Puebla,212,Zautla,0000,Total del Municipio,18678,15624,14252,12891
+21,Puebla,213,Zihuateutla,0000,Total del Municipio,10720,9004,8299,7643
+21,Puebla,214,Zinacatepec,0000,Total del Municipio,16786,14443,13461,12428
+21,Puebla,215,Zongozotla,0000,Total del Municipio,4226,3739,3517,3295
+21,Puebla,216,Zoquiapan,0000,Total del Municipio,2287,1941,1795,1615
+21,Puebla,217,Zoquitlán,0000,Total del Municipio,18180,14860,13257,11855
+22,Querétaro,001,Amealco de Bonfil,0000,Total del Municipio,59804,49874,45763,41727
+22,Querétaro,002,Pinal de Amoles,0000,Total del Municipio,24538,20225,18368,16634
+22,Querétaro,003,Arroyo Seco,0000,Total del Municipio,11955,10184,9453,8745
+22,Querétaro,004,Cadereyta de Montes,0000,Total del Municipio,62937,52817,48652,44505
+22,Querétaro,005,Colón,0000,Total del Municipio,60561,50879,46783,42820
+22,Querétaro,006,Corregidora,0000,Total del Municipio,198301,175559,165321,154882
+22,Querétaro,007,Ezequiel Montes,0000,Total del Municipio,40931,34696,32112,29516
+22,Querétaro,008,Huimilpan,0000,Total del Municipio,33082,27680,25462,23373
+22,Querétaro,009,Jalpan de Serra,0000,Total del Municipio,24731,21022,19443,17921
+22,Querétaro,010,Landa de Matamoros,0000,Total del Municipio,17179,14569,13468,12358
+22,Querétaro,011,El Marqués,0000,Total del Municipio,211738,182609,171260,160583
+22,Querétaro,012,Pedro Escobedo,0000,Total del Municipio,70205,59647,55239,51118
+22,Querétaro,013,Peñamiller,0000,Total del Municipio,17371,14600,13386,12276
+22,Querétaro,014,Querétaro,0000,Total del Municipio,968494,860184,813429,765918
+22,Querétaro,015,San Joaquín,0000,Total del Municipio,7565,6256,5706,5141
+22,Querétaro,016,San Juan del Río,0000,Total del Municipio,272855,236809,221334,206075
+22,Querétaro,017,Tequisquiapan,0000,Total del Municipio,66309,57382,53600,49827
+22,Querétaro,018,Tolimán,0000,Total del Municipio,25194,21147,19401,17699
+23,Quintana Roo,001,Cozumel,0000,Total del Municipio,81608,71383,66851,62371
+23,Quintana Roo,002,Felipe Carrillo Puerto,0000,Total del Municipio,75918,63694,58345,53022
+23,Quintana Roo,003,Isla Mujeres,0000,Total del Municipio,20796,17933,16661,15554
+23,Quintana Roo,004,Othón P. Blanco,0000,Total del Municipio,216487,189549,177849,166207
+23,Quintana Roo,005,Benito Juárez,0000,Total del Municipio,835093,731884,688772,647914
+23,Quintana Roo,006,José María Morelos,0000,Total del Municipio,35112,29571,27070,24619
+23,Quintana Roo,007,Lázaro Cárdenas,0000,Total del Municipio,26363,22327,20503,18916
+23,Quintana Roo,008,Solidaridad,0000,Total del Municipio,293994,255166,240659,227411
+23,Quintana Roo,009,Tulum,0000,Total del Municipio,41656,35652,33388,31248
+23,Quintana Roo,010,Bacalar,0000,Total del Municipio,37554,31732,29189,26858
+23,Quintana Roo,011,Puerto Morelos,0000,Total del Municipio,24651,21520,20276,19115
+24,San Luis Potosí,001,Ahualulco,0000,Total del Municipio,17132,14502,13369,12238
+24,San Luis Potosí,002,Alaquines,0000,Total del Municipio,7089,6091,5642,5196
+24,San Luis Potosí,003,Aquismón,0000,Total del Municipio,43306,36443,33038,29539
+24,San Luis Potosí,004,Armadillo de los Infante,0000,Total del Municipio,3720,3286,3084,2899
+24,San Luis Potosí,005,Cárdenas,0000,Total del Municipio,16806,14544,13496,12568
+24,San Luis Potosí,006,Catorce,0000,Total del Municipio,8680,7398,6799,6257
+24,San Luis Potosí,007,Cedral,0000,Total del Municipio,18028,15353,14173,13002
+24,San Luis Potosí,008,Cerritos,0000,Total del Municipio,20324,17744,16502,15317
+24,San Luis Potosí,009,Cerro de San Pedro,0000,Total del Municipio,4660,4031,3757,3469
+24,San Luis Potosí,010,Ciudad del Maíz,0000,Total del Municipio,27241,23061,21272,19604
+24,San Luis Potosí,011,Ciudad Fernández,0000,Total del Municipio,43852,37628,34974,32464
+24,San Luis Potosí,012,Tancanhuitz,0000,Total del Municipio,18574,15909,14602,13226
+24,San Luis Potosí,013,Ciudad Valles,0000,Total del Municipio,165898,146005,136889,127365
+24,San Luis Potosí,014,Coxcatlán,0000,Total del Municipio,14418,12480,11559,10607
+24,San Luis Potosí,015,Charcas,0000,Total del Municipio,19917,17218,16029,14878
+24,San Luis Potosí,016,Ebano,0000,Total del Municipio,37362,32299,30071,27847
+24,San Luis Potosí,017,Guadalcázar,0000,Total del Municipio,22689,19281,17821,16416
+24,San Luis Potosí,018,Huehuetlán,0000,Total del Municipio,13955,11961,11021,10047
+24,San Luis Potosí,019,Lagunillas,0000,Total del Municipio,5078,4442,4173,3904
+24,San Luis Potosí,020,Matehuala,0000,Total del Municipio,93804,81030,75258,69639
+24,San Luis Potosí,021,Mexquitic de Carmona,0000,Total del Municipio,53048,45318,42095,38810
+24,San Luis Potosí,022,Moctezuma,0000,Total del Municipio,17237,14600,13480,12398
+24,San Luis Potosí,023,Rayón,0000,Total del Municipio,14007,12057,11227,10430
+24,San Luis Potosí,024,Rioverde,0000,Total del Municipio,89848,77594,72330,67177
+24,San Luis Potosí,025,Salinas,0000,Total del Municipio,28006,23336,21347,19532
+24,San Luis Potosí,026,San Antonio,0000,Total del Municipio,8594,7322,6722,6114
+24,San Luis Potosí,027,San Ciro de Acosta,0000,Total del Municipio,9376,8120,7580,7044
+24,San Luis Potosí,028,San Luis Potosí,0000,Total del Municipio,844297,747788,704983,660107
+24,San Luis Potosí,029,San Martín Chalchicuautla,0000,Total del Municipio,17115,14998,13913,12750
+24,San Luis Potosí,030,San Nicolás Tolentino,0000,Total del Municipio,4440,3994,3776,3561
+24,San Luis Potosí,031,Santa Catarina,0000,Total del Municipio,10927,9080,8218,7356
+24,San Luis Potosí,032,Santa María del Río,0000,Total del Municipio,36025,30865,28623,26368
+24,San Luis Potosí,033,Santo Domingo,0000,Total del Municipio,9711,8365,7746,7144
+24,San Luis Potosí,034,San Vicente Tancuayalab,0000,Total del Municipio,13816,11949,11140,10240
+24,San Luis Potosí,035,Soledad de Graciano Sánchez,0000,Total del Municipio,306266,264873,247253,229428
+24,San Luis Potosí,036,Tamasopo,0000,Total del Municipio,26721,22912,21233,19620
+24,San Luis Potosí,037,Tamazunchale,0000,Total del Municipio,86223,73549,67434,61684
+24,San Luis Potosí,038,Tampacán,0000,Total del Municipio,13222,11499,10660,9770
+24,San Luis Potosí,039,Tampamolón Corona,0000,Total del Municipio,12417,10599,9728,8881
+24,San Luis Potosí,040,Tamuín,0000,Total del Municipio,34008,29232,27189,25162
+24,San Luis Potosí,041,Tanlajás,0000,Total del Municipio,16729,14334,13060,11778
+24,San Luis Potosí,042,Tanquián de Escobedo,0000,Total del Municipio,12308,10680,9907,9101
+24,San Luis Potosí,043,Tierra Nueva,0000,Total del Municipio,7265,6224,5757,5330
+24,San Luis Potosí,044,Vanegas,0000,Total del Municipio,6863,5781,5307,4879
+24,San Luis Potosí,045,Venado,0000,Total del Municipio,13176,11472,10700,9847
+24,San Luis Potosí,046,Villa de Arriaga,0000,Total del Municipio,16413,13765,12632,11520
+24,San Luis Potosí,047,Villa de Guadalupe,0000,Total del Municipio,8520,7351,6811,6287
+24,San Luis Potosí,048,Villa de la Paz,0000,Total del Municipio,4839,4156,3854,3589
+24,San Luis Potosí,049,Villa de Ramos,0000,Total del Municipio,34406,28612,26123,23929
+24,San Luis Potosí,050,Villa de Reyes,0000,Total del Municipio,47299,39831,36686,33511
+24,San Luis Potosí,051,Villa Hidalgo,0000,Total del Municipio,14123,12301,11432,10642
+24,San Luis Potosí,052,Villa Juárez,0000,Total del Municipio,9397,8076,7550,7058
+24,San Luis Potosí,053,Axtla de Terrazas,0000,Total del Municipio,29767,25547,23555,21623
+24,San Luis Potosí,054,Xilitla,0000,Total del Municipio,45084,37843,34462,31186
+24,San Luis Potosí,055,Zaragoza,0000,Total del Municipio,24571,20711,19108,17489
+24,San Luis Potosí,056,Villa de Arista,0000,Total del Municipio,15516,12976,11898,10815
+24,San Luis Potosí,057,Matlapa,0000,Total del Municipio,26255,21754,19784,17812
+24,San Luis Potosí,058,El Naranjo,0000,Total del Municipio,19014,16250,15043,13936
+25,Sinaloa,001,Ahome,0000,Total del Municipio,424610,372641,349692,326336
+25,Sinaloa,002,Angostura,0000,Total del Municipio,41237,36592,34266,31970
+25,Sinaloa,003,Badiraguato,0000,Total del Municipio,23960,20152,18515,17056
+25,Sinaloa,004,Concordia,0000,Total del Municipio,22820,19697,18340,16991
+25,Sinaloa,005,Cosalá,0000,Total del Municipio,15306,12794,11703,10622
+25,Sinaloa,006,Culiacán,0000,Total del Municipio,922146,804768,753646,702800
+25,Sinaloa,007,Choix,0000,Total del Municipio,26751,22710,21009,19322
+25,Sinaloa,008,Elota,0000,Total del Municipio,49843,42451,39208,36213
+25,Sinaloa,009,Escuinapa,0000,Total del Municipio,54674,46946,43574,40095
+25,Sinaloa,010,El Fuerte,0000,Total del Municipio,88983,77514,72384,67312
+25,Sinaloa,011,Guasave,0000,Total del Municipio,267569,234313,219261,204163
+25,Sinaloa,012,Mazatlán,0000,Total del Municipio,465601,410401,385587,361087
+25,Sinaloa,013,Mocorito,0000,Total del Municipio,37345,32614,30614,28611
+25,Sinaloa,014,Rosario,0000,Total del Municipio,47866,41240,38379,35600
+25,Sinaloa,015,Salvador Alvarado,0000,Total del Municipio,73332,64145,59948,55698
+25,Sinaloa,016,San Ignacio,0000,Total del Municipio,17977,15597,14526,13455
+25,Sinaloa,017,Sinaloa,0000,Total del Municipio,72090,61804,57320,52973
+25,Sinaloa,018,Navolato,0000,Total del Municipio,136372,117879,109842,101834
+26,Sonora,001,Aconchi,0000,Total del Municipio,2389,2109,1974,1838
+26,Sonora,002,Agua Prieta,0000,Total del Municipio,84152,72058,66587,61265
+26,Sonora,003,Alamos,0000,Total del Municipio,23132,20007,18634,17269
+26,Sonora,004,Altar,0000,Total del Municipio,8661,7336,6736,6105
+26,Sonora,005,Arivechi,0000,Total del Municipio,1093,959,894,846
+26,Sonora,006,Arizpe,0000,Total del Municipio,2617,2315,2172,2046
+26,Sonora,007,Atil,0000,Total del Municipio,588,526,495,462
+26,Sonora,008,Bacadéhuachi,0000,Total del Municipio,928,837,783,735
+26,Sonora,009,Bacanora,0000,Total del Municipio,693,614,582,558
+26,Sonora,010,Bacerac,0000,Total del Municipio,1120,990,913,848
+26,Sonora,011,Bacoachi,0000,Total del Municipio,1391,1233,1163,1096
+26,Sonora,012,Bácum,0000,Total del Municipio,21372,18601,17457,16252
+26,Sonora,013,Banámichi,0000,Total del Municipio,1676,1474,1372,1278
+26,Sonora,014,Baviácora,0000,Total del Municipio,2998,2673,2484,2311
+26,Sonora,015,Bavispe,0000,Total del Municipio,1060,918,846,785
+26,Sonora,016,Benjamín Hill,0000,Total del Municipio,4584,3963,3696,3450
+26,Sonora,017,Caborca,0000,Total del Municipio,82001,70449,65380,60687
+26,Sonora,018,Cajeme,0000,Total del Municipio,406081,358212,336567,315076
+26,Sonora,019,Cananea,0000,Total del Municipio,35971,30811,28564,26592
+26,Sonora,020,Carbó,0000,Total del Municipio,4538,3876,3590,3324
+26,Sonora,021,La Colorada,0000,Total del Municipio,1739,1540,1463,1399
+26,Sonora,022,Cucurpe,0000,Total del Municipio,818,734,672,632
+26,Sonora,023,Cumpas,0000,Total del Municipio,5485,4832,4523,4221
+26,Sonora,024,Divisaderos,0000,Total del Municipio,706,609,573,539
+26,Sonora,025,Empalme,0000,Total del Municipio,47102,41109,38453,35864
+26,Sonora,026,Etchojoa,0000,Total del Municipio,56471,49301,45842,42262
+26,Sonora,027,Fronteras,0000,Total del Municipio,8268,6918,6351,5820
+26,Sonora,028,Granados,0000,Total del Municipio,954,840,788,724
+26,Sonora,029,Guaymas,0000,Total del Municipio,144573,126069,118202,110380
+26,Sonora,030,Hermosillo,0000,Total del Municipio,869786,761312,713519,667356
+26,Sonora,031,Huachinera,0000,Total del Municipio,1106,989,926,847
+26,Sonora,032,Huásabas,0000,Total del Municipio,846,763,710,653
+26,Sonora,033,Huatabampo,0000,Total del Municipio,71749,63365,59361,55168
+26,Sonora,034,Huépac,0000,Total del Municipio,879,787,739,690
+26,Sonora,035,Imuris,0000,Total del Municipio,11380,9810,9048,8380
+26,Sonora,036,Magdalena,0000,Total del Municipio,30490,26291,24413,22499
+26,Sonora,037,Mazatán,0000,Total del Municipio,1047,947,903,849
+26,Sonora,038,Moctezuma,0000,Total del Municipio,4777,4228,3985,3652
+26,Sonora,039,Naco,0000,Total del Municipio,5266,4429,4057,3699
+26,Sonora,040,Nácori Chico,0000,Total del Municipio,1415,1255,1167,1099
+26,Sonora,041,Nacozari de García,0000,Total del Municipio,13189,11236,10364,9560
+26,Sonora,042,Navojoa,0000,Total del Municipio,151987,133774,125054,116251
+26,Sonora,043,Nogales,0000,Total del Municipio,243883,209847,194383,179873
+26,Sonora,044,Onavas,0000,Total del Municipio,333,301,281,261
+26,Sonora,045,Opodepe,0000,Total del Municipio,2299,2009,1876,1768
+26,Sonora,046,Oquitoa,0000,Total del Municipio,465,420,398,384
+26,Sonora,047,Pitiquito,0000,Total del Municipio,8425,7363,6870,6413
+26,Sonora,048,Puerto Peñasco,0000,Total del Municipio,57697,49286,45488,42080
+26,Sonora,049,Quiriego,0000,Total del Municipio,2833,2445,2291,2103
+26,Sonora,050,Rayón,0000,Total del Municipio,1397,1251,1185,1120
+26,Sonora,051,Rosario,0000,Total del Municipio,4436,3842,3579,3347
+26,Sonora,052,Sahuaripa,0000,Total del Municipio,4921,4339,4071,3822
+26,Sonora,053,San Felipe de Jesús,0000,Total del Municipio,336,287,274,262
+26,Sonora,054,San Javier,0000,Total del Municipio,487,399,366,345
+26,Sonora,055,San Luis Río Colorado,0000,Total del Municipio,183557,159197,148312,137639
+26,Sonora,056,San Miguel de Horcasitas,0000,Total del Municipio,9576,8085,7386,6676
+26,Sonora,057,San Pedro de la Cueva,0000,Total del Municipio,1357,1233,1185,1118
+26,Sonora,058,Santa Ana,0000,Total del Municipio,14929,12959,12074,11170
+26,Sonora,059,Santa Cruz,0000,Total del Municipio,1661,1409,1314,1236
+26,Sonora,060,Sáric,0000,Total del Municipio,1894,1640,1518,1397
+26,Sonora,061,Soyopa,0000,Total del Municipio,1272,1116,1048,1013
+26,Sonora,062,Suaqui Grande,0000,Total del Municipio,1047,932,873,812
+26,Sonora,063,Tepache,0000,Total del Municipio,1127,1019,960,901
+26,Sonora,064,Trincheras,0000,Total del Municipio,1266,1110,1039,975
+26,Sonora,065,Tubutama,0000,Total del Municipio,1370,1216,1144,1076
+26,Sonora,066,Ures,0000,Total del Municipio,8054,7271,6874,6445
+26,Sonora,067,Villa Hidalgo,0000,Total del Municipio,1359,1185,1094,1029
+26,Sonora,068,Villa Pesqueira,0000,Total del Municipio,998,912,862,812
+26,Sonora,069,Yécora,0000,Total del Municipio,4390,3774,3493,3248
+26,Sonora,070,General Plutarco Elías Calles,0000,Total del Municipio,12412,10328,9463,8653
+26,Sonora,071,Benito Juárez,0000,Total del Municipio,19824,17221,16037,14845
+26,Sonora,072,San Ignacio Río Muerto,0000,Total del Municipio,13087,11323,10528,9751
+27,Tabasco,001,Balancán,0000,Total del Municipio,53167,45093,41664,38395
+27,Tabasco,002,Cárdenas,0000,Total del Municipio,220076,185345,170736,156903
+27,Tabasco,003,Centla,0000,Total del Municipio,97880,82037,75356,68920
+27,Tabasco,004,Centro,0000,Total del Municipio,632643,554080,520458,487379
+27,Tabasco,005,Comalcalco,0000,Total del Municipio,195571,166619,154178,142471
+27,Tabasco,006,Cunduacán,0000,Total del Municipio,124353,105284,97178,89690
+27,Tabasco,007,Emiliano Zapata,0000,Total del Municipio,29551,25489,23694,22010
+27,Tabasco,008,Huimanguillo,0000,Total del Municipio,171162,143313,131776,120624
+27,Tabasco,009,Jalapa,0000,Total del Municipio,34930,30287,28281,26431
+27,Tabasco,010,Jalpa de Méndez,0000,Total del Municipio,83193,70788,65506,60393
+27,Tabasco,011,Jonuta,0000,Total del Municipio,27943,23780,22153,20484
+27,Tabasco,012,Macuspana,0000,Total del Municipio,144318,123075,114126,105466
+27,Tabasco,013,Nacajuca,0000,Total del Municipio,137603,117820,109765,102358
+27,Tabasco,014,Paraíso,0000,Total del Municipio,88670,76256,70963,65934
+27,Tabasco,015,Tacotalpa,0000,Total del Municipio,43628,37024,34252,31445
+27,Tabasco,016,Teapa,0000,Total del Municipio,53424,46100,42963,39845
+27,Tabasco,017,Tenosique,0000,Total del Municipio,56733,48514,45040,41455
+28,Tamaulipas,001,Abasolo,0000,Total del Municipio,9085,7810,7257,6704
+28,Tamaulipas,002,Aldama,0000,Total del Municipio,26438,22713,21102,19694
+28,Tamaulipas,003,Altamira,0000,Total del Municipio,248077,213434,198677,184666
+28,Tamaulipas,004,Antiguo Morelos,0000,Total del Municipio,8169,7121,6619,6207
+28,Tamaulipas,005,Burgos,0000,Total del Municipio,3922,3447,3240,3051
+28,Tamaulipas,006,Bustamante,0000,Total del Municipio,6827,5747,5281,4846
+28,Tamaulipas,007,Camargo,0000,Total del Municipio,15346,13470,12676,11967
+28,Tamaulipas,008,Casas,0000,Total del Municipio,3752,3169,2870,2657
+28,Tamaulipas,009,Ciudad Madero,0000,Total del Municipio,193629,174323,165518,156417
+28,Tamaulipas,010,Cruillas,0000,Total del Municipio,1549,1346,1272,1201
+28,Tamaulipas,011,Gómez Farías,0000,Total del Municipio,7634,6778,6362,5956
+28,Tamaulipas,012,González,0000,Total del Municipio,37936,32472,30040,27853
+28,Tamaulipas,013,Güémez,0000,Total del Municipio,13700,11856,11059,10329
+28,Tamaulipas,014,Guerrero,0000,Total del Municipio,3589,3246,3120,3005
+28,Tamaulipas,015,Gustavo Díaz Ordaz,0000,Total del Municipio,14326,12470,11637,10943
+28,Tamaulipas,016,Hidalgo,0000,Total del Municipio,15700,13806,12981,12161
+28,Tamaulipas,017,Jaumave,0000,Total del Municipio,14519,12445,11547,10695
+28,Tamaulipas,018,Jiménez,0000,Total del Municipio,5900,5186,4796,4441
+28,Tamaulipas,019,Llera,0000,Total del Municipio,13620,12015,11232,10485
+28,Tamaulipas,020,Mainero,0000,Total del Municipio,1907,1687,1587,1478
+28,Tamaulipas,021,El Mante,0000,Total del Municipio,98901,87627,82357,77023
+28,Tamaulipas,022,Matamoros,0000,Total del Municipio,498147,432267,403834,375893
+28,Tamaulipas,023,Méndez,0000,Total del Municipio,3930,3408,3214,3015
+28,Tamaulipas,024,Mier,0000,Total del Municipio,6046,5526,5277,5030
+28,Tamaulipas,025,Miguel Alemán,0000,Total del Municipio,24580,22183,21232,20232
+28,Tamaulipas,026,Miquihuana,0000,Total del Municipio,3273,2782,2564,2363
+28,Tamaulipas,027,Nuevo Laredo,0000,Total del Municipio,389863,335130,311814,289100
+28,Tamaulipas,028,Nuevo Morelos,0000,Total del Municipio,3450,2923,2713,2545
+28,Tamaulipas,029,Ocampo,0000,Total del Municipio,12182,10518,9813,9156
+28,Tamaulipas,030,Padilla,0000,Total del Municipio,12503,10802,9999,9262
+28,Tamaulipas,031,Palmillas,0000,Total del Municipio,1754,1507,1412,1305
+28,Tamaulipas,032,Reynosa,0000,Total del Municipio,644207,556647,519335,485131
+28,Tamaulipas,033,Río Bravo,0000,Total del Municipio,121188,104416,97009,89989
+28,Tamaulipas,034,San Carlos,0000,Total del Municipio,6940,6102,5720,5335
+28,Tamaulipas,035,San Fernando,0000,Total del Municipio,46811,40222,37281,34611
+28,Tamaulipas,036,San Nicolás,0000,Total del Municipio,847,732,670,615
+28,Tamaulipas,037,Soto la Marina,0000,Total del Municipio,21796,18932,17606,16401
+28,Tamaulipas,038,Tampico,0000,Total del Municipio,278896,250575,238112,224943
+28,Tamaulipas,039,Tula,0000,Total del Municipio,25433,21452,19804,18321
+28,Tamaulipas,040,Valle Hermoso,0000,Total del Municipio,55255,47822,44667,41520
+28,Tamaulipas,041,Victoria,0000,Total del Municipio,323526,283699,266161,248837
+28,Tamaulipas,042,Villagrán,0000,Total del Municipio,4955,4308,4051,3825
+28,Tamaulipas,043,Xicoténcatl,0000,Total del Municipio,20633,18171,17026,15953
+29,Tlaxcala,001,Amaxac de Guerrero,0000,Total del Municipio,10571,9168,8609,7992
+29,Tlaxcala,002,Apetatitlán de Antonio Carvajal,0000,Total del Municipio,14762,12741,11940,11156
+29,Tlaxcala,003,Atlangatepec,0000,Total del Municipio,6444,5458,5068,4668
+29,Tlaxcala,004,Atltzayanca,0000,Total del Municipio,16382,13950,12906,11837
+29,Tlaxcala,005,Apizaco,0000,Total del Municipio,74786,65813,61888,57756
+29,Tlaxcala,006,Calpulalpan,0000,Total del Municipio,46460,39761,36917,34023
+29,Tlaxcala,007,El Carmen Tequexquitla,0000,Total del Municipio,15678,13209,12109,11055
+29,Tlaxcala,008,Cuapiaxtla,0000,Total del Municipio,14726,12491,11491,10409
+29,Tlaxcala,009,Cuaxomulco,0000,Total del Municipio,5391,4641,4342,4000
+29,Tlaxcala,010,Chiautempan,0000,Total del Municipio,66103,57489,53735,49776
+29,Tlaxcala,011,Muñoz de Domingo Arenas,0000,Total del Municipio,4363,3729,3459,3197
+29,Tlaxcala,012,Españita,0000,Total del Municipio,8452,7181,6656,6111
+29,Tlaxcala,013,Huamantla,0000,Total del Municipio,89431,76443,70484,64650
+29,Tlaxcala,014,Hueyotlipan,0000,Total del Municipio,13848,11809,10964,10154
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0000,Total del Municipio,35823,31093,29121,27091
+29,Tlaxcala,016,Ixtenco,0000,Total del Municipio,6933,6006,5620,5207
+29,Tlaxcala,017,Mazatecochco de José María Morelos,0000,Total del Municipio,10426,8894,8249,7579
+29,Tlaxcala,018,Contla de Juan Cuamatzi,0000,Total del Municipio,35435,30847,28744,26601
+29,Tlaxcala,019,Tepetitla de Lardizábal,0000,Total del Municipio,20347,17593,16417,15063
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0000,Total del Municipio,8575,7321,6781,6296
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0000,Total del Municipio,17016,14600,13583,12610
+29,Tlaxcala,022,Acuamanala de Miguel Hidalgo,0000,Total del Municipio,5840,5034,4693,4294
+29,Tlaxcala,023,Natívitas,0000,Total del Municipio,23959,20697,19274,17907
+29,Tlaxcala,024,Panotla,0000,Total del Municipio,26239,23086,21661,20146
+29,Tlaxcala,025,San Pablo del Monte,0000,Total del Municipio,74734,63294,58399,53346
+29,Tlaxcala,026,Santa Cruz Tlaxcala,0000,Total del Municipio,22291,19169,17779,16423
+29,Tlaxcala,027,Tenancingo,0000,Total del Municipio,11711,10065,9400,8690
+29,Tlaxcala,028,Teolocholco,0000,Total del Municipio,23052,19605,18113,16718
+29,Tlaxcala,029,Tepeyanco,0000,Total del Municipio,12289,10599,9862,9075
+29,Tlaxcala,030,Terrenate,0000,Total del Municipio,13854,11679,10705,9739
+29,Tlaxcala,031,Tetla de la Solidaridad,0000,Total del Municipio,32319,27815,25794,23785
+29,Tlaxcala,032,Tetlatlahuca,0000,Total del Municipio,12457,10865,10177,9496
+29,Tlaxcala,033,Tlaxcala,0000,Total del Municipio,93535,83015,78080,73197
+29,Tlaxcala,034,Tlaxco,0000,Total del Municipio,40939,34651,32062,29594
+29,Tlaxcala,035,Tocatlán,0000,Total del Municipio,5635,4864,4539,4201
+29,Tlaxcala,036,Totolac,0000,Total del Municipio,20783,18220,17088,15950
+29,Tlaxcala,037,Ziltlaltépec de Trinidad Sánchez Santos,0000,Total del Municipio,8271,6998,6449,5870
+29,Tlaxcala,038,Tzompantepec,0000,Total del Municipio,16541,14348,13356,12279
+29,Tlaxcala,039,Xaloztoc,0000,Total del Municipio,23293,19834,18327,16763
+29,Tlaxcala,040,Xaltocan,0000,Total del Municipio,9733,8454,7895,7315
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0000,Total del Municipio,30432,26224,24420,22651
+29,Tlaxcala,042,Xicohtzinco,0000,Total del Municipio,13075,11458,10726,9985
+29,Tlaxcala,043,Yauhquemehcan,0000,Total del Municipio,38988,33949,31792,29539
+29,Tlaxcala,044,Zacatelco,0000,Total del Municipio,41711,36236,33982,31600
+29,Tlaxcala,045,Benito Juárez,0000,Total del Municipio,5615,4760,4375,4036
+29,Tlaxcala,046,Emiliano Zapata,0000,Total del Municipio,4469,3743,3429,3114
+29,Tlaxcala,047,Lázaro Cárdenas,0000,Total del Municipio,3184,2701,2501,2317
+29,Tlaxcala,048,La Magdalena Tlaltelulco,0000,Total del Municipio,1569,1356,1243,1140
+29,Tlaxcala,049,San Damián Texóloc,0000,Total del Municipio,5400,4750,4466,4159
+29,Tlaxcala,050,San Francisco Tetlanohcan,0000,Total del Municipio,10712,9205,8554,7903
+29,Tlaxcala,051,San Jerónimo Zacualpan,0000,Total del Municipio,3750,3277,3087,2885
+29,Tlaxcala,052,San José Teacalco,0000,Total del Municipio,5897,5062,4644,4252
+29,Tlaxcala,053,San Juan Huactzinco,0000,Total del Municipio,6982,6024,5636,5228
+29,Tlaxcala,054,San Lorenzo Axocomanitla,0000,Total del Municipio,5261,4593,4297,4008
+29,Tlaxcala,055,San Lucas Tecopilco,0000,Total del Municipio,2844,2460,2309,2152
+29,Tlaxcala,056,Santa Ana Nopalucan,0000,Total del Municipio,7327,6278,5897,5504
+29,Tlaxcala,057,Santa Apolonia Teacalco,0000,Total del Municipio,4225,3685,3459,3216
+29,Tlaxcala,058,Santa Catarina Ayometla,0000,Total del Municipio,8670,7580,7092,6561
+29,Tlaxcala,059,Santa Cruz Quilehtla,0000,Total del Municipio,7015,5946,5490,4994
+29,Tlaxcala,060,Santa Isabel Xiloxoxtla,0000,Total del Municipio,5039,4347,4001,3649
+30,Veracruz de Ignacio de la Llave,001,Acajete,0000,Total del Municipio,8865,7570,7026,6449
+30,Veracruz de Ignacio de la Llave,002,Acatlán,0000,Total del Municipio,3110,2655,2477,2302
+30,Veracruz de Ignacio de la Llave,003,Acayucan,0000,Total del Municipio,74650,65123,60985,56754
+30,Veracruz de Ignacio de la Llave,004,Actopan,0000,Total del Municipio,39319,35179,33351,31489
+30,Veracruz de Ignacio de la Llave,005,Acula,0000,Total del Municipio,4901,4311,4045,3773
+30,Veracruz de Ignacio de la Llave,006,Acultzingo,0000,Total del Municipio,20841,17549,16168,14753
+30,Veracruz de Ignacio de la Llave,007,Camarón de Tejeda,0000,Total del Municipio,6051,5295,4965,4646
+30,Veracruz de Ignacio de la Llave,008,Alpatláhuac,0000,Total del Municipio,9195,7616,6935,6273
+30,Veracruz de Ignacio de la Llave,009,Alto Lucero de Gutiérrez Barrios,0000,Total del Municipio,26495,23486,22096,20695
+30,Veracruz de Ignacio de la Llave,010,Altotonga,0000,Total del Municipio,58045,48135,43937,39849
+30,Veracruz de Ignacio de la Llave,011,Alvarado,0000,Total del Municipio,53728,48088,45541,42894
+30,Veracruz de Ignacio de la Llave,012,Amatitlán,0000,Total del Municipio,7366,6617,6255,5876
+30,Veracruz de Ignacio de la Llave,013,Naranjos Amatlán,0000,Total del Municipio,25001,22113,20844,19417
+30,Veracruz de Ignacio de la Llave,014,Amatlán de los Reyes,0000,Total del Municipio,43753,38260,35844,33499
+30,Veracruz de Ignacio de la Llave,015,Angel R. Cabada,0000,Total del Municipio,31557,28114,26541,24832
+30,Veracruz de Ignacio de la Llave,016,La Antigua,0000,Total del Municipio,26788,23778,22388,20982
+30,Veracruz de Ignacio de la Llave,017,Apazapan,0000,Total del Municipio,4380,3871,3663,3453
+30,Veracruz de Ignacio de la Llave,018,Aquila,0000,Total del Municipio,1752,1413,1275,1158
+30,Veracruz de Ignacio de la Llave,019,Astacinga,0000,Total del Municipio,6047,4839,4383,3978
+30,Veracruz de Ignacio de la Llave,020,Atlahuilco,0000,Total del Municipio,10300,8669,7899,7093
+30,Veracruz de Ignacio de la Llave,021,Atoyac,0000,Total del Municipio,21768,19016,17819,16724
+30,Veracruz de Ignacio de la Llave,022,Atzacan,0000,Total del Municipio,20697,17558,16159,14704
+30,Veracruz de Ignacio de la Llave,023,Atzalan,0000,Total del Municipio,44963,38232,35348,32446
+30,Veracruz de Ignacio de la Llave,024,Tlaltetela,0000,Total del Municipio,14990,12729,11831,10888
+30,Veracruz de Ignacio de la Llave,025,Ayahualulco,0000,Total del Municipio,24042,19343,17313,15537
+30,Veracruz de Ignacio de la Llave,026,Banderilla,0000,Total del Municipio,24297,21179,19848,18394
+30,Veracruz de Ignacio de la Llave,027,Benito Juárez,0000,Total del Municipio,14871,12898,11863,10768
+30,Veracruz de Ignacio de la Llave,028,Boca del Río,0000,Total del Municipio,136619,124496,118937,113232
+30,Veracruz de Ignacio de la Llave,029,Calcahualco,0000,Total del Municipio,12069,9811,8814,7819
+30,Veracruz de Ignacio de la Llave,030,Camerino Z. Mendoza,0000,Total del Municipio,39040,34289,32141,29878
+30,Veracruz de Ignacio de la Llave,031,Carrillo Puerto,0000,Total del Municipio,17181,14621,13635,12750
+30,Veracruz de Ignacio de la Llave,032,Catemaco,0000,Total del Municipio,45378,39091,36439,33575
+30,Veracruz de Ignacio de la Llave,033,Cazones de Herrera,0000,Total del Municipio,22305,19108,17801,16404
+30,Veracruz de Ignacio de la Llave,034,Cerro Azul,0000,Total del Municipio,23480,20755,19529,18267
+30,Veracruz de Ignacio de la Llave,035,Citlaltépetl,0000,Total del Municipio,10221,8778,8131,7505
+30,Veracruz de Ignacio de la Llave,036,Coacoatzintla,0000,Total del Municipio,9993,8404,7727,7079
+30,Veracruz de Ignacio de la Llave,037,Coahuitlán,0000,Total del Municipio,7418,6174,5664,5135
+30,Veracruz de Ignacio de la Llave,038,Coatepec,0000,Total del Municipio,88065,78176,73450,68640
+30,Veracruz de Ignacio de la Llave,039,Coatzacoalcos,0000,Total del Municipio,288236,255501,241948,228090
+30,Veracruz de Ignacio de la Llave,040,Coatzintla,0000,Total del Municipio,51084,44606,41870,39152
+30,Veracruz de Ignacio de la Llave,041,Coetzala,0000,Total del Municipio,2180,1891,1759,1620
+30,Veracruz de Ignacio de la Llave,042,Colipa,0000,Total del Municipio,5331,4579,4270,3998
+30,Veracruz de Ignacio de la Llave,043,Comapa,0000,Total del Municipio,18100,15500,14479,13481
+30,Veracruz de Ignacio de la Llave,044,Córdoba,0000,Total del Municipio,190095,167341,157589,147651
+30,Veracruz de Ignacio de la Llave,045,Cosamaloapan de Carpio,0000,Total del Municipio,51390,45525,42943,40399
+30,Veracruz de Ignacio de la Llave,046,Cosautlán de Carvajal,0000,Total del Municipio,14866,12904,11956,11038
+30,Veracruz de Ignacio de la Llave,047,Coscomatepec,0000,Total del Municipio,52844,43801,39861,35802
+30,Veracruz de Ignacio de la Llave,048,Cosoleacaque,0000,Total del Municipio,121818,106551,100071,93447
+30,Veracruz de Ignacio de la Llave,049,Cotaxtla,0000,Total del Municipio,20439,17853,16850,15798
+30,Veracruz de Ignacio de la Llave,050,Coxquihui,0000,Total del Municipio,14873,12629,11613,10545
+30,Veracruz de Ignacio de la Llave,051,Coyutla,0000,Total del Municipio,20942,17809,16450,15116
+30,Veracruz de Ignacio de la Llave,052,Cuichapa,0000,Total del Municipio,10952,9394,8739,8159
+30,Veracruz de Ignacio de la Llave,053,Cuitláhuac,0000,Total del Municipio,25853,22125,20656,19297
+30,Veracruz de Ignacio de la Llave,054,Chacaltianguis,0000,Total del Municipio,10797,9576,9032,8501
+30,Veracruz de Ignacio de la Llave,055,Chalma,0000,Total del Municipio,12469,10778,10035,9280
+30,Veracruz de Ignacio de la Llave,056,Chiconamel,0000,Total del Municipio,6101,5144,4690,4280
+30,Veracruz de Ignacio de la Llave,057,Chiconquiaco,0000,Total del Municipio,12557,10466,9627,8733
+30,Veracruz de Ignacio de la Llave,058,Chicontepec,0000,Total del Municipio,50077,44201,41374,38462
+30,Veracruz de Ignacio de la Llave,059,Chinameca,0000,Total del Municipio,20792,18154,17034,15893
+30,Veracruz de Ignacio de la Llave,060,Chinampa de Gorostiza,0000,Total del Municipio,14988,12928,11977,11054
+30,Veracruz de Ignacio de la Llave,061,Las Choapas,0000,Total del Municipio,72665,60916,56188,51677
+30,Veracruz de Ignacio de la Llave,062,Chocamán,0000,Total del Municipio,18936,16151,14960,13790
+30,Veracruz de Ignacio de la Llave,063,Chontla,0000,Total del Municipio,12388,10920,10161,9283
+30,Veracruz de Ignacio de la Llave,064,Chumatlán,0000,Total del Municipio,3648,3125,2882,2637
+30,Veracruz de Ignacio de la Llave,065,Emiliano Zapata,0000,Total del Municipio,79929,70246,66068,61924
+30,Veracruz de Ignacio de la Llave,066,Espinal,0000,Total del Municipio,24557,21074,19571,18015
+30,Veracruz de Ignacio de la Llave,067,Filomeno Mata,0000,Total del Municipio,16883,13481,11896,10318
+30,Veracruz de Ignacio de la Llave,068,Fortín,0000,Total del Municipio,61883,54577,51255,47804
+30,Veracruz de Ignacio de la Llave,069,Gutiérrez Zamora,0000,Total del Municipio,22522,19919,18802,17590
+30,Veracruz de Ignacio de la Llave,070,Hidalgotitlán,0000,Total del Municipio,16524,14064,13086,12056
+30,Veracruz de Ignacio de la Llave,071,Huatusco,0000,Total del Municipio,55086,47259,43913,40555
+30,Veracruz de Ignacio de la Llave,072,Huayacocotla,0000,Total del Municipio,19749,16761,15398,14095
+30,Veracruz de Ignacio de la Llave,073,Hueyapan de Ocampo,0000,Total del Municipio,38332,33185,30787,28340
+30,Veracruz de Ignacio de la Llave,074,Huiloapan de Cuauhtémoc,0000,Total del Municipio,6773,5923,5531,5125
+30,Veracruz de Ignacio de la Llave,075,Ignacio de la Llave,0000,Total del Municipio,15449,13496,12700,11849
+30,Veracruz de Ignacio de la Llave,076,Ilamatlán,0000,Total del Municipio,12108,10157,9253,8396
+30,Veracruz de Ignacio de la Llave,077,Isla,0000,Total del Municipio,39516,34160,31985,29802
+30,Veracruz de Ignacio de la Llave,078,Ixcatepec,0000,Total del Municipio,11524,10143,9505,8816
+30,Veracruz de Ignacio de la Llave,079,Ixhuacán de los Reyes,0000,Total del Municipio,10311,8736,8124,7468
+30,Veracruz de Ignacio de la Llave,080,Ixhuatlán del Café,0000,Total del Municipio,20994,17840,16492,15159
+30,Veracruz de Ignacio de la Llave,081,Ixhuatlancillo,0000,Total del Municipio,25271,21892,20352,18842
+30,Veracruz de Ignacio de la Llave,082,Ixhuatlán del Sureste,0000,Total del Municipio,14535,12608,11835,11039
+30,Veracruz de Ignacio de la Llave,083,Ixhuatlán de Madero,0000,Total del Municipio,46983,40826,37900,34730
+30,Veracruz de Ignacio de la Llave,084,Ixmatlahuacan,0000,Total del Municipio,5229,4668,4383,4142
+30,Veracruz de Ignacio de la Llave,085,Ixtaczoquitlán,0000,Total del Municipio,68711,59747,55878,51970
+30,Veracruz de Ignacio de la Llave,086,Jalacingo,0000,Total del Municipio,41689,34476,31487,28485
+30,Veracruz de Ignacio de la Llave,087,Xalapa,0000,Total del Municipio,458311,409265,387794,364713
+30,Veracruz de Ignacio de la Llave,088,Jalcomulco,0000,Total del Municipio,4765,4256,4055,3803
+30,Veracruz de Ignacio de la Llave,089,Jáltipan,0000,Total del Municipio,35955,31824,29977,28122
+30,Veracruz de Ignacio de la Llave,090,Jamapa,0000,Total del Municipio,10283,9035,8540,8052
+30,Veracruz de Ignacio de la Llave,091,Jesús Carranza,0000,Total del Municipio,25812,22029,20477,18904
+30,Veracruz de Ignacio de la Llave,092,Xico,0000,Total del Municipio,36545,31593,29377,27165
+30,Veracruz de Ignacio de la Llave,093,Jilotepec,0000,Total del Municipio,15442,13494,12674,11803
+30,Veracruz de Ignacio de la Llave,094,Juan Rodríguez Clara,0000,Total del Municipio,35348,30462,28508,26597
+30,Veracruz de Ignacio de la Llave,095,Juchique de Ferrer,0000,Total del Municipio,13990,12147,11320,10552
+30,Veracruz de Ignacio de la Llave,096,Landero y Coss,0000,Total del Municipio,1406,1244,1188,1131
+30,Veracruz de Ignacio de la Llave,097,Lerdo de Tejada,0000,Total del Municipio,18074,16324,15449,14567
+30,Veracruz de Ignacio de la Llave,098,Magdalena,0000,Total del Municipio,2941,2467,2236,2019
+30,Veracruz de Ignacio de la Llave,099,Maltrata,0000,Total del Municipio,16560,13938,12838,11786
+30,Veracruz de Ignacio de la Llave,100,Manlio Fabio Altamirano,0000,Total del Municipio,22451,19801,18653,17531
+30,Veracruz de Ignacio de la Llave,101,Mariano Escobedo,0000,Total del Municipio,35306,29702,27412,25004
+30,Veracruz de Ignacio de la Llave,102,Martínez de la Torre,0000,Total del Municipio,99691,87146,81762,76170
+30,Veracruz de Ignacio de la Llave,103,Mecatlán,0000,Total del Municipio,11561,9501,8553,7612
+30,Veracruz de Ignacio de la Llave,104,Mecayapan,0000,Total del Municipio,15594,13343,12311,11299
+30,Veracruz de Ignacio de la Llave,105,Medellín de Bravo,0000,Total del Municipio,88888,78338,73968,69645
+30,Veracruz de Ignacio de la Llave,106,Miahuatlán,0000,Total del Municipio,4369,3675,3383,3077
+30,Veracruz de Ignacio de la Llave,107,Las Minas,0000,Total del Municipio,2616,2169,1960,1753
+30,Veracruz de Ignacio de la Llave,108,Minatitlán,0000,Total del Municipio,134837,119073,112288,105155
+30,Veracruz de Ignacio de la Llave,109,Misantla,0000,Total del Municipio,61212,53315,49975,46520
+30,Veracruz de Ignacio de la Llave,110,Mixtla de Altamirano,0000,Total del Municipio,10790,8976,7996,7156
+30,Veracruz de Ignacio de la Llave,111,Moloacán,0000,Total del Municipio,15164,13056,12180,11321
+30,Veracruz de Ignacio de la Llave,112,Naolinco,0000,Total del Municipio,21180,18487,17380,16171
+30,Veracruz de Ignacio de la Llave,113,Naranjal,0000,Total del Municipio,4202,3605,3340,3072
+30,Veracruz de Ignacio de la Llave,114,Nautla,0000,Total del Municipio,9493,8443,7961,7497
+30,Veracruz de Ignacio de la Llave,115,Nogales,0000,Total del Municipio,34444,29956,28082,26162
+30,Veracruz de Ignacio de la Llave,116,Oluta,0000,Total del Municipio,15601,13607,12701,11817
+30,Veracruz de Ignacio de la Llave,117,Omealca,0000,Total del Municipio,21750,18862,17628,16384
+30,Veracruz de Ignacio de la Llave,118,Orizaba,0000,Total del Municipio,115773,104031,98761,93174
+30,Veracruz de Ignacio de la Llave,119,Otatitlán,0000,Total del Municipio,5221,4561,4255,3987
+30,Veracruz de Ignacio de la Llave,120,Oteapan,0000,Total del Municipio,9596,8291,7727,7200
+30,Veracruz de Ignacio de la Llave,121,Ozuluama de Mascareñas,0000,Total del Municipio,21053,18573,17483,16350
+30,Veracruz de Ignacio de la Llave,122,Pajapan,0000,Total del Municipio,16469,14056,13203,12229
+30,Veracruz de Ignacio de la Llave,123,Pánuco,0000,Total del Municipio,88335,76855,71873,67060
+30,Veracruz de Ignacio de la Llave,124,Papantla,0000,Total del Municipio,148929,129809,121464,113071
+30,Veracruz de Ignacio de la Llave,125,Paso del Macho,0000,Total del Municipio,29485,25416,23724,22047
+30,Veracruz de Ignacio de la Llave,126,Paso de Ovejas,0000,Total del Municipio,31268,27711,26185,24600
+30,Veracruz de Ignacio de la Llave,127,La Perla,0000,Total del Municipio,24655,19514,17315,15186
+30,Veracruz de Ignacio de la Llave,128,Perote,0000,Total del Municipio,70314,59223,54615,49964
+30,Veracruz de Ignacio de la Llave,129,Platón Sánchez,0000,Total del Municipio,16614,14318,13245,12244
+30,Veracruz de Ignacio de la Llave,130,Playa Vicente,0000,Total del Municipio,35759,30679,28585,26560
+30,Veracruz de Ignacio de la Llave,131,Poza Rica de Hidalgo,0000,Total del Municipio,177517,157936,149633,140883
+30,Veracruz de Ignacio de la Llave,132,Las Vigas de Ramírez,0000,Total del Municipio,18350,15308,14089,12901
+30,Veracruz de Ignacio de la Llave,133,Pueblo Viejo,0000,Total del Municipio,53160,46150,43203,40252
+30,Veracruz de Ignacio de la Llave,134,Puente Nacional,0000,Total del Municipio,22027,19448,18258,17097
+30,Veracruz de Ignacio de la Llave,135,Rafael Delgado,0000,Total del Municipio,22217,18997,17500,15820
+30,Veracruz de Ignacio de la Llave,136,Rafael Lucio,0000,Total del Municipio,7653,6554,6062,5568
+30,Veracruz de Ignacio de la Llave,137,Los Reyes,0000,Total del Municipio,5640,4751,4316,3886
+30,Veracruz de Ignacio de la Llave,138,Río Blanco,0000,Total del Municipio,39117,34874,32912,30935
+30,Veracruz de Ignacio de la Llave,139,Saltabarranca,0000,Total del Municipio,5702,5079,4809,4519
+30,Veracruz de Ignacio de la Llave,140,San Andrés Tenejapan,0000,Total del Municipio,2841,2385,2224,2026
+30,Veracruz de Ignacio de la Llave,141,San Andrés Tuxtla,0000,Total del Municipio,149177,129073,120717,111955
+30,Veracruz de Ignacio de la Llave,142,San Juan Evangelista,0000,Total del Municipio,30014,26015,24292,22593
+30,Veracruz de Ignacio de la Llave,143,Santiago Tuxtla,0000,Total del Municipio,52929,46433,43523,40410
+30,Veracruz de Ignacio de la Llave,144,Sayula de Alemán,0000,Total del Municipio,29614,25267,23421,21622
+30,Veracruz de Ignacio de la Llave,145,Soconusco,0000,Total del Municipio,15373,13349,12482,11632
+30,Veracruz de Ignacio de la Llave,146,Sochiapa,0000,Total del Municipio,3554,2993,2768,2547
+30,Veracruz de Ignacio de la Llave,147,Soledad Atzompa,0000,Total del Municipio,21834,17908,16275,14634
+30,Veracruz de Ignacio de la Llave,148,Soledad de Doblado,0000,Total del Municipio,26215,22913,21559,20182
+30,Veracruz de Ignacio de la Llave,149,Soteapan,0000,Total del Municipio,30856,25580,23234,20790
+30,Veracruz de Ignacio de la Llave,150,Tamalín,0000,Total del Municipio,10747,9462,8884,8246
+30,Veracruz de Ignacio de la Llave,151,Tamiahua,0000,Total del Municipio,20706,18612,17536,16372
+30,Veracruz de Ignacio de la Llave,152,Tampico Alto,0000,Total del Municipio,10738,9562,9040,8545
+30,Veracruz de Ignacio de la Llave,153,Tancoco,0000,Total del Municipio,5366,4736,4451,4121
+30,Veracruz de Ignacio de la Llave,154,Tantima,0000,Total del Municipio,11186,9947,9371,8687
+30,Veracruz de Ignacio de la Llave,155,Tantoyuca,0000,Total del Municipio,91791,77824,71080,64441
+30,Veracruz de Ignacio de la Llave,156,Tatatila,0000,Total del Municipio,5432,4462,4090,3662
+30,Veracruz de Ignacio de la Llave,157,Castillo de Teayo,0000,Total del Municipio,18512,16133,15176,14114
+30,Veracruz de Ignacio de la Llave,158,Tecolutla,0000,Total del Municipio,22873,20036,18829,17637
+30,Veracruz de Ignacio de la Llave,159,Tehuipango,0000,Total del Municipio,26111,20941,18760,16592
+30,Veracruz de Ignacio de la Llave,160,Álamo Temapache,0000,Total del Municipio,98938,86076,80363,74795
+30,Veracruz de Ignacio de la Llave,161,Tempoal,0000,Total del Municipio,31642,27503,25538,23594
+30,Veracruz de Ignacio de la Llave,162,Tenampa,0000,Total del Municipio,5947,5135,4812,4435
+30,Veracruz de Ignacio de la Llave,163,Tenochtitlán,0000,Total del Municipio,4607,3873,3566,3245
+30,Veracruz de Ignacio de la Llave,164,Teocelo,0000,Total del Municipio,15813,13823,12939,12062
+30,Veracruz de Ignacio de la Llave,165,Tepatlaxco,0000,Total del Municipio,8124,6928,6445,5940
+30,Veracruz de Ignacio de la Llave,166,Tepetlán,0000,Total del Municipio,8682,7676,7221,6719
+30,Veracruz de Ignacio de la Llave,167,Tepetzintla,0000,Total del Municipio,13395,11532,10765,9982
+30,Veracruz de Ignacio de la Llave,168,Tequila,0000,Total del Municipio,14787,12374,11163,9971
+30,Veracruz de Ignacio de la Llave,169,José Azueta,0000,Total del Municipio,20944,18174,17072,15965
+30,Veracruz de Ignacio de la Llave,170,Texcatepec,0000,Total del Municipio,9521,7909,7149,6497
+30,Veracruz de Ignacio de la Llave,171,Texhuacán,0000,Total del Municipio,5017,4246,3918,3555
+30,Veracruz de Ignacio de la Llave,172,Texistepec,0000,Total del Municipio,18320,15787,14709,13617
+30,Veracruz de Ignacio de la Llave,173,Tezonapa,0000,Total del Municipio,49668,42491,39282,36159
+30,Veracruz de Ignacio de la Llave,174,Tierra Blanca,0000,Total del Municipio,88382,77546,73194,68843
+30,Veracruz de Ignacio de la Llave,175,Tihuatlán,0000,Total del Municipio,85493,74081,69217,64184
+30,Veracruz de Ignacio de la Llave,176,Tlacojalpan,0000,Total del Municipio,4086,3595,3373,3128
+30,Veracruz de Ignacio de la Llave,177,Tlacolulan,0000,Total del Municipio,10478,8564,7830,7113
+30,Veracruz de Ignacio de la Llave,178,Tlacotalpan,0000,Total del Municipio,12142,10955,10426,9851
+30,Veracruz de Ignacio de la Llave,179,Tlacotepec de Mejía,0000,Total del Municipio,3924,3379,3156,2937
+30,Veracruz de Ignacio de la Llave,180,Tlachichilco,0000,Total del Municipio,9950,8520,7793,7165
+30,Veracruz de Ignacio de la Llave,181,Tlalixcoyan,0000,Total del Municipio,35142,30929,29262,27607
+30,Veracruz de Ignacio de la Llave,182,Tlalnelhuayocan,0000,Total del Municipio,17934,15401,14357,13205
+30,Veracruz de Ignacio de la Llave,183,Tlapacoyan,0000,Total del Municipio,56548,48726,45348,41848
+30,Veracruz de Ignacio de la Llave,184,Tlaquilpa,0000,Total del Municipio,7091,5909,5384,4837
+30,Veracruz de Ignacio de la Llave,185,Tlilapan,0000,Total del Municipio,5034,4261,3930,3605
+30,Veracruz de Ignacio de la Llave,186,Tomatlán,0000,Total del Municipio,6602,5803,5457,5109
+30,Veracruz de Ignacio de la Llave,187,Tonayán,0000,Total del Municipio,5447,4493,4126,3745
+30,Veracruz de Ignacio de la Llave,188,Totutla,0000,Total del Municipio,15874,13805,12891,11959
+30,Veracruz de Ignacio de la Llave,189,Tuxpan,0000,Total del Municipio,143898,126628,119430,112109
+30,Veracruz de Ignacio de la Llave,190,Tuxtilla,0000,Total del Municipio,2086,1861,1777,1690
+30,Veracruz de Ignacio de la Llave,191,Ursulo Galván,0000,Total del Municipio,28076,25235,23996,22690
+30,Veracruz de Ignacio de la Llave,192,Vega de Alatorre,0000,Total del Municipio,18855,16600,15602,14642
+30,Veracruz de Ignacio de la Llave,193,Veracruz,0000,Total del Municipio,572630,512247,486042,459116
+30,Veracruz de Ignacio de la Llave,194,Villa Aldama,0000,Total del Municipio,11142,9100,8229,7365
+30,Veracruz de Ignacio de la Llave,195,Xoxocotla,0000,Total del Municipio,5292,4419,4055,3703
+30,Veracruz de Ignacio de la Llave,196,Yanga,0000,Total del Municipio,16693,14622,13752,12854
+30,Veracruz de Ignacio de la Llave,197,Yecuatla,0000,Total del Municipio,10357,8938,8369,7817
+30,Veracruz de Ignacio de la Llave,198,Zacualpan,0000,Total del Municipio,6225,5281,4860,4478
+30,Veracruz de Ignacio de la Llave,199,Zaragoza,0000,Total del Municipio,10832,9286,8565,7821
+30,Veracruz de Ignacio de la Llave,200,Zentla,0000,Total del Municipio,11699,10349,9688,9038
+30,Veracruz de Ignacio de la Llave,201,Zongolica,0000,Total del Municipio,41021,34950,32006,29258
+30,Veracruz de Ignacio de la Llave,202,Zontecomatlán de López y Fuentes,0000,Total del Municipio,13164,11028,9792,8849
+30,Veracruz de Ignacio de la Llave,203,Zozocolco de Hidalgo,0000,Total del Municipio,13265,11215,10293,9324
+30,Veracruz de Ignacio de la Llave,204,Agua Dulce,0000,Total del Municipio,41004,36077,33900,31717
+30,Veracruz de Ignacio de la Llave,205,El Higo,0000,Total del Municipio,17794,15503,14584,13638
+30,Veracruz de Ignacio de la Llave,206,Nanchital de Lázaro Cárdenas del Río,0000,Total del Municipio,26980,23887,22605,21280
+30,Veracruz de Ignacio de la Llave,207,Tres Valles,0000,Total del Municipio,41480,36140,33813,31481
+30,Veracruz de Ignacio de la Llave,208,Carlos A. Carrillo,0000,Total del Municipio,21993,19603,18528,17430
+30,Veracruz de Ignacio de la Llave,209,Tatahuicapan de Juárez,0000,Total del Municipio,13564,11651,10772,9885
+30,Veracruz de Ignacio de la Llave,210,Uxpanapa,0000,Total del Municipio,27380,22665,20854,19106
+30,Veracruz de Ignacio de la Llave,211,San Rafael,0000,Total del Municipio,28296,25070,23685,22267
+30,Veracruz de Ignacio de la Llave,212,Santiago Sochiapan,0000,Total del Municipio,11774,9903,9146,8430
+31,Yucatán,001,Abalá,0000,Total del Municipio,6011,5240,4878,4519
+31,Yucatán,002,Acanceh,0000,Total del Municipio,15586,13679,12782,11899
+31,Yucatán,003,Akil,0000,Total del Municipio,11087,9318,8675,8086
+31,Yucatán,004,Baca,0000,Total del Municipio,5790,5155,4823,4484
+31,Yucatán,005,Bokobá,0000,Total del Municipio,2023,1805,1693,1593
+31,Yucatán,006,Buctzotz,0000,Total del Municipio,8385,7271,6827,6334
+31,Yucatán,007,Cacalchén,0000,Total del Municipio,6905,6053,5687,5289
+31,Yucatán,008,Calotmul,0000,Total del Municipio,3612,3146,2944,2747
+31,Yucatán,009,Cansahcab,0000,Total del Municipio,4167,3710,3514,3287
+31,Yucatán,010,Cantamayec,0000,Total del Municipio,2405,2010,1857,1703
+31,Yucatán,011,Celestún,0000,Total del Municipio,7652,6472,6036,5624
+31,Yucatán,012,Cenotillo,0000,Total del Municipio,3437,2961,2770,2609
+31,Yucatán,013,Conkal,0000,Total del Municipio,15493,13671,12867,12070
+31,Yucatán,014,Cuncunul,0000,Total del Municipio,1542,1348,1260,1159
+31,Yucatán,015,Cuzamá,0000,Total del Municipio,5111,4437,4181,3875
+31,Yucatán,016,Chacsinkín,0000,Total del Municipio,2821,2361,2195,1992
+31,Yucatán,017,Chankom,0000,Total del Municipio,4245,3626,3342,3046
+31,Yucatán,018,Chapab,0000,Total del Municipio,3111,2704,2528,2331
+31,Yucatán,019,Chemax,0000,Total del Municipio,34698,28653,25812,23020
+31,Yucatán,020,Chicxulub Pueblo,0000,Total del Municipio,4152,3652,3455,3267
+31,Yucatán,021,Chichimilá,0000,Total del Municipio,8364,6944,6347,5740
+31,Yucatán,022,Chikindzonot,0000,Total del Municipio,3912,3313,2994,2659
+31,Yucatán,023,Chocholá,0000,Total del Municipio,4492,3971,3731,3488
+31,Yucatán,024,Chumayel,0000,Total del Municipio,2988,2609,2420,2254
+31,Yucatán,025,Dzán,0000,Total del Municipio,5411,4530,4232,3951
+31,Yucatán,026,Dzemul,0000,Total del Municipio,3384,3030,2867,2688
+31,Yucatán,027,Dzidzantún,0000,Total del Municipio,7775,6940,6559,6175
+31,Yucatán,028,Dzilam de Bravo,0000,Total del Municipio,2682,2322,2193,2054
+31,Yucatán,029,Dzilam González,0000,Total del Municipio,5800,5147,4859,4542
+31,Yucatán,030,Dzitás,0000,Total del Municipio,3640,3140,2896,2656
+31,Yucatán,031,Dzoncauich,0000,Total del Municipio,2605,2309,2157,2001
+31,Yucatán,032,Espita,0000,Total del Municipio,15200,13061,12009,10875
+31,Yucatán,033,Halachó,0000,Total del Municipio,19373,16791,15699,14579
+31,Yucatán,034,Hocabá,0000,Total del Municipio,5958,5149,4834,4471
+31,Yucatán,035,Hoctún,0000,Total del Municipio,5899,5193,4862,4570
+31,Yucatán,036,Homún,0000,Total del Municipio,7393,6476,6065,5660
+31,Yucatán,037,Huhí,0000,Total del Municipio,4830,4225,3970,3702
+31,Yucatán,038,Hunucmá,0000,Total del Municipio,32082,27689,25783,23932
+31,Yucatán,039,Ixil,0000,Total del Municipio,3880,3422,3210,3006
+31,Yucatán,040,Izamal,0000,Total del Municipio,26267,22736,21207,19770
+31,Yucatán,041,Kanasín,0000,Total del Municipio,129887,111181,103399,95958
+31,Yucatán,042,Kantunil,0000,Total del Municipio,5033,4304,4000,3714
+31,Yucatán,043,Kaua,0000,Total del Municipio,3088,2584,2383,2175
+31,Yucatán,044,Kinchil,0000,Total del Municipio,6827,5884,5496,5110
+31,Yucatán,045,Kopomá,0000,Total del Municipio,2478,2198,2048,1931
+31,Yucatán,046,Mama,0000,Total del Municipio,2991,2564,2404,2256
+31,Yucatán,047,Maní,0000,Total del Municipio,5449,4691,4418,4129
+31,Yucatán,048,Maxcanú,0000,Total del Municipio,22058,19212,17890,16541
+31,Yucatán,049,Mayapán,0000,Total del Municipio,3506,2864,2602,2320
+31,Yucatán,050,Mérida,0000,Total del Municipio,930197,835033,793004,748750
+31,Yucatán,051,Mocochá,0000,Total del Municipio,3196,2846,2709,2542
+31,Yucatán,052,Motul,0000,Total del Municipio,34770,30334,28492,26549
+31,Yucatán,053,Muna,0000,Total del Municipio,12346,10857,10258,9618
+31,Yucatán,054,Muxupip,0000,Total del Municipio,2736,2429,2295,2173
+31,Yucatán,055,Opichén,0000,Total del Municipio,6478,5605,5266,4912
+31,Yucatán,056,Oxkutzcab,0000,Total del Municipio,30500,25621,23783,22028
+31,Yucatán,057,Panabá,0000,Total del Municipio,7156,6248,5843,5434
+31,Yucatán,058,Peto,0000,Total del Municipio,23242,19546,18034,16510
+31,Yucatán,059,Progreso,0000,Total del Municipio,61218,53593,50413,47168
+31,Yucatán,060,Quintana Roo,0000,Total del Municipio,899,772,721,681
+31,Yucatán,061,Río Lagartos,0000,Total del Municipio,3651,3171,3001,2807
+31,Yucatán,062,Sacalum,0000,Total del Municipio,4547,3889,3632,3362
+31,Yucatán,063,Samahil,0000,Total del Municipio,5127,4463,4194,3889
+31,Yucatán,064,Sanahcat,0000,Total del Municipio,1561,1324,1244,1180
+31,Yucatán,065,San Felipe,0000,Total del Municipio,1957,1724,1614,1499
+31,Yucatán,066,Santa Elena,0000,Total del Municipio,3845,3289,3082,2876
+31,Yucatán,067,Seyé,0000,Total del Municipio,9253,8210,7662,7099
+31,Yucatán,068,Sinanché,0000,Total del Municipio,2980,2656,2527,2364
+31,Yucatán,069,Sotuta,0000,Total del Municipio,8158,6998,6492,5947
+31,Yucatán,070,Sucilá,0000,Total del Municipio,3646,3193,2997,2813
+31,Yucatán,071,Sudzal,0000,Total del Municipio,1729,1473,1368,1259
+31,Yucatán,072,Suma,0000,Total del Municipio,1724,1547,1464,1386
+31,Yucatán,073,Tahdziú,0000,Total del Municipio,5022,3966,3541,3148
+31,Yucatán,074,Tahmek,0000,Total del Municipio,3532,3166,2981,2791
+31,Yucatán,075,Teabo,0000,Total del Municipio,6205,5271,4910,4512
+31,Yucatán,076,Tecoh,0000,Total del Municipio,16489,14400,13459,12533
+31,Yucatán,077,Tekal de Venegas,0000,Total del Municipio,2456,2154,2023,1893
+31,Yucatán,078,Tekantó,0000,Total del Municipio,3463,3056,2874,2690
+31,Yucatán,079,Tekax,0000,Total del Municipio,40956,35050,32583,30107
+31,Yucatán,080,Tekit,0000,Total del Municipio,10082,8722,8184,7621
+31,Yucatán,081,Tekom,0000,Total del Municipio,3031,2565,2360,2144
+31,Yucatán,082,Telchac Pueblo,0000,Total del Municipio,3285,2926,2800,2636
+31,Yucatán,083,Telchac Puerto,0000,Total del Municipio,1750,1543,1458,1375
+31,Yucatán,084,Temax,0000,Total del Municipio,6462,5615,5266,4905
+31,Yucatán,085,Temozón,0000,Total del Municipio,15070,12939,11929,10972
+31,Yucatán,086,Tepakán,0000,Total del Municipio,1932,1699,1602,1500
+31,Yucatán,087,Tetiz,0000,Total del Municipio,4977,4225,3941,3683
+31,Yucatán,088,Teya,0000,Total del Municipio,1760,1490,1397,1318
+31,Yucatán,089,Ticul,0000,Total del Municipio,37161,32205,30120,28045
+31,Yucatán,090,Timucuy,0000,Total del Municipio,6898,6050,5663,5244
+31,Yucatán,091,Tinum,0000,Total del Municipio,11535,9891,9143,8428
+31,Yucatán,092,Tixcacalcupul,0000,Total del Municipio,7025,5880,5357,4829
+31,Yucatán,093,Tixkokob,0000,Total del Municipio,17193,15241,14401,13499
+31,Yucatán,094,Tixmehuac,0000,Total del Municipio,4883,4144,3797,3478
+31,Yucatán,095,Tixpéhual,0000,Total del Municipio,5315,4760,4516,4257
+31,Yucatán,096,Tizimín,0000,Total del Municipio,73370,62978,58417,53777
+31,Yucatán,097,Tunkás,0000,Total del Municipio,3372,2894,2684,2495
+31,Yucatán,098,Tzucacab,0000,Total del Municipio,13804,11740,10799,9886
+31,Yucatán,099,Uayma,0000,Total del Municipio,3834,3276,3005,2752
+31,Yucatán,100,Ucú,0000,Total del Municipio,3737,3279,3079,2875
+31,Yucatán,101,Umán,0000,Total del Municipio,63413,55083,51554,48164
+31,Yucatán,102,Valladolid,0000,Total del Municipio,77780,67091,62258,57361
+31,Yucatán,103,Xocchel,0000,Total del Municipio,3100,2675,2516,2350
+31,Yucatán,104,Yaxcabá,0000,Total del Municipio,14710,12280,11253,10261
+31,Yucatán,105,Yaxkukul,0000,Total del Municipio,3042,2669,2527,2370
+31,Yucatán,106,Yobaín,0000,Total del Municipio,2051,1789,1685,1574
+32,Zacatecas,001,Apozol,0000,Total del Municipio,5744,4944,4622,4301
+32,Zacatecas,002,Apulco,0000,Total del Municipio,4471,3738,3460,3201
+32,Zacatecas,003,Atolinga,0000,Total del Municipio,2082,1838,1747,1656
+32,Zacatecas,004,Benito Juárez,0000,Total del Municipio,4071,3418,3165,2885
+32,Zacatecas,005,Calera,0000,Total del Municipio,40894,34114,31458,28909
+32,Zacatecas,006,Cañitas de Felipe Pescador,0000,Total del Municipio,7393,6345,5863,5445
+32,Zacatecas,007,Concepción del Oro,0000,Total del Municipio,11126,9617,8963,8369
+32,Zacatecas,008,Cuauhtémoc,0000,Total del Municipio,11992,10032,9253,8512
+32,Zacatecas,009,Chalchihuites,0000,Total del Municipio,9156,7800,7306,6824
+32,Zacatecas,010,Fresnillo,0000,Total del Municipio,216774,183800,170391,157632
+32,Zacatecas,011,Trinidad García de la Cadena,0000,Total del Municipio,3059,2674,2509,2340
+32,Zacatecas,012,Genaro Codina,0000,Total del Municipio,7347,6063,5564,5080
+32,Zacatecas,013,General Enrique Estrada,0000,Total del Municipio,5980,5084,4691,4362
+32,Zacatecas,014,General Francisco R. Murguía,0000,Total del Municipio,18417,15838,14693,13645
+32,Zacatecas,015,El Plateado de Joaquín Amaro,0000,Total del Municipio,1459,1295,1226,1172
+32,Zacatecas,016,General Pánfilo Natera,0000,Total del Municipio,21088,17710,16319,15033
+32,Zacatecas,017,Guadalupe,0000,Total del Municipio,192910,165155,153820,142578
+32,Zacatecas,018,Huanusco,0000,Total del Municipio,4177,3636,3392,3202
+32,Zacatecas,019,Jalpa,0000,Total del Municipio,22757,19386,17995,16698
+32,Zacatecas,020,Jerez,0000,Total del Municipio,55064,48003,45044,42146
+32,Zacatecas,021,Jiménez del Teul,0000,Total del Municipio,3967,3296,3040,2759
+32,Zacatecas,022,Juan Aldama,0000,Total del Municipio,17863,15234,14170,13173
+32,Zacatecas,023,Juchipila,0000,Total del Municipio,11243,9870,9248,8658
+32,Zacatecas,024,Loreto,0000,Total del Municipio,47726,39519,36266,33250
+32,Zacatecas,025,Luis Moya,0000,Total del Municipio,11778,9803,9033,8366
+32,Zacatecas,026,Mazapil,0000,Total del Municipio,15827,13364,12325,11424
+32,Zacatecas,027,Melchor Ocampo,0000,Total del Municipio,2453,2071,1921,1804
+32,Zacatecas,028,Mezquital del Oro,0000,Total del Municipio,2256,1926,1798,1695
+32,Zacatecas,029,Miguel Auza,0000,Total del Municipio,21023,17457,15993,14694
+32,Zacatecas,030,Momax,0000,Total del Municipio,2242,1989,1868,1757
+32,Zacatecas,031,Monte Escobedo,0000,Total del Municipio,8002,6978,6550,6153
+32,Zacatecas,032,Morelos,0000,Total del Municipio,12047,10374,9700,8946
+32,Zacatecas,033,Moyahua de Estrada,0000,Total del Municipio,4190,3661,3426,3226
+32,Zacatecas,034,Nochistlán de Mejía,0000,Total del Municipio,25587,22180,20621,19271
+32,Zacatecas,035,Noria de Ángeles,0000,Total del Municipio,14604,12119,11123,10134
+32,Zacatecas,036,Ojocaliente,0000,Total del Municipio,39334,32666,29951,27370
+32,Zacatecas,037,Pánuco,0000,Total del Municipio,15700,13168,12146,11187
+32,Zacatecas,038,Pinos,0000,Total del Municipio,64684,53830,49371,45247
+32,Zacatecas,039,Río Grande,0000,Total del Municipio,59023,50789,47205,43707
+32,Zacatecas,040,Sain Alto,0000,Total del Municipio,19650,16339,15032,13768
+32,Zacatecas,041,El Salvador,0000,Total del Municipio,2289,1990,1847,1709
+32,Zacatecas,042,Sombrerete,0000,Total del Municipio,57503,48781,45232,41912
+32,Zacatecas,043,Susticacán,0000,Total del Municipio,1252,1100,1036,973
+32,Zacatecas,044,Tabasco,0000,Total del Municipio,15064,12820,11909,11042
+32,Zacatecas,045,Tepechitlán,0000,Total del Municipio,7575,6530,6092,5706
+32,Zacatecas,046,Tepetongo,0000,Total del Municipio,6077,5379,5081,4798
+32,Zacatecas,047,Teúl de González Ortega,0000,Total del Municipio,4859,4248,3959,3671
+32,Zacatecas,048,Tlaltenango de Sánchez Román,0000,Total del Municipio,24701,21194,19704,18268
+32,Zacatecas,049,Valparaíso,0000,Total del Municipio,29185,24868,23080,21430
+32,Zacatecas,050,Vetagrande,0000,Total del Municipio,9258,7762,7172,6608
+32,Zacatecas,051,Villa de Cos,0000,Total del Municipio,31068,26213,24189,22281
+32,Zacatecas,052,Villa García,0000,Total del Municipio,17596,14887,13709,12483
+32,Zacatecas,053,Villa González Ortega,0000,Total del Municipio,11826,9792,8927,8213
+32,Zacatecas,054,Villa Hidalgo,0000,Total del Municipio,17273,14279,13072,11957
+32,Zacatecas,055,Villanueva,0000,Total del Municipio,29105,25147,23446,21847
+32,Zacatecas,056,Zacatecas,0000,Total del Municipio,138071,121838,114886,107613
+32,Zacatecas,057,Trancoso,0000,Total del Municipio,18145,15081,13817,12605
+32,Zacatecas,058,Santa María de la Paz,0000,Total del Municipio,2528,2189,2050,1901
