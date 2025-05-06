@@ -8,23 +8,7 @@ The World Bank's overview of Financial Inclusion can be found here: https://www.
 
 ## Sustaining Financial Inclusion
 
-The United Nations defines 17 Sustainability Development Goals (SDGs)(https://www.un.org/sustainabledevelopment/sustainable-development-goals/). 7 of which directly relate to Financial Inclusion outcomes; by fostering Financial Inclusion, the following 7 SDGs are directly affected:
-
-***NOTE: The following listed goals were not explicitly listed in the provided resource above***
-
-- Goal 1: Donate What You Don't Use
-
-- Goal 4: Quality Education
-
-- Goal 5: Gender Equality
-
-- Goal 8: Decent Work and Economic Growth
-
-- Goal 10: Reduced Inequalities
-
-- Goal 11: Sustainable Cities and Communities
-
-- Goal 17: Partnerships
+The United Nations defines 17 Sustainability Development Goals (SDGs)(https://www.un.org/sustainabledevelopment/sustainable-development-goals/). 7 of which directly relate to Financial Inclusion outcomes.
 
 # Established Metrics
 
@@ -38,3 +22,6 @@ The Gini Coefficient is a metric measuring inequality within a given region. Our
 
 When the Gini Coefficient ranges from 0.0 to 1.0
 A higher value means higher inequality, while a lower value means less inequality.
+
+# Potentially Useful Sources
+- https://wid.world/
