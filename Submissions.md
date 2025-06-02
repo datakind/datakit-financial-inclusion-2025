@@ -1,0 +1,3 @@
+Note: Not all submissions were made directly to the github repository. Those on slack, or on individual / private github repos have been collected and added via the latest commit.
+
+Some additional text, and recommended datasets, that do not represent code are captured in this google sheet of submissions: https://docs.google.com/spreadsheets/d/1zT68qjsIO2nWFdg0Hsys1_TKjdjWs4SbWm5QkRNYXFw/edit?usp=sharing
