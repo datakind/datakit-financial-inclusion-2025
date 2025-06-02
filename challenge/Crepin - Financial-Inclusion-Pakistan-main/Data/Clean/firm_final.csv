@@ -1,0 +1,1301 @@
+id,sector,firm_size,electricity_outage,has_website,internet_disruptions,female_ownership,credit_applied,credit_approved,credit_received_full,import_raw_materials_pct,export_indirect_pct,export_direct_pct,region,export_total_pct
+1,Food,Medium,No,Yes,The establishment does not have an internet connection,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+6,Food,Medium,No,Yes,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+7,Food,Medium,No,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+8,Food,Medium,Yes,Yes,No,No,Moderate obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+9,Food,Medium,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+10,Food,Medium,Yes,Yes,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+11,Food,Medium,No,No,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+12,Food,Medium,No,Yes,The establishment does not have an internet connection,No,Moderate obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+13,Food,Medium,Yes,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+15,Food,Medium,Yes,Yes,No,No,No obstacle,Does not apply,No obstacle,0,0.0,0.0,Sindh,0.0
+16,Food,Medium,No,Yes,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+18,Food,Medium,Yes,No,Yes,No,Major obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+19,Food,Medium,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+21,Food,Medium,Yes,Yes,No,No,Minor obstacle,No obstacle,No obstacle,20,0.0,0.0,Sindh,0.0
+23,Food,Medium,Yes,Yes,Yes,No,Major obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+24,Food,Medium,No,Yes,No,Yes,Minor obstacle,No obstacle,No obstacle,20,0.0,0.0,Sindh,0.0
+25,Food,Medium,No,No,Yes,No,Very severe obstacle,No obstacle,Minor obstacle,20,0.0,0.0,Sindh,0.0
+26,Food,Large,Yes,Yes,Yes,No,Minor obstacle,No obstacle,Very severe obstacle,30,0.0,0.0,Sindh,0.0
+27,Food,Large,No,Yes,Yes,No,Very severe obstacle,Moderate obstacle,Moderate obstacle,0,0.0,30.0,Khyber-Pakhtunkhwa,30.0
+33,Food,Medium,No,Yes,Yes,No,Don't know (spontaneous),Don't know (spontaneous),Don't know (spontaneous),Don't know (spontaneous),,,Sindh,0.0
+34,Food,Large,Yes,Yes,No,Yes,Very severe obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+38,Food,Large,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+42,Food,Large,Yes,Yes,No,No,Major obstacle,Major obstacle,Moderate obstacle,20,0.0,0.0,Punjab,0.0
+43,Food,Medium,No,Yes,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+45,Food,Medium,No,Yes,No,No,Minor obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+49,Food,Large,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+50,Food,Large,Yes,No,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+52,Food,Small,No,No,No,No,Very severe obstacle,No obstacle,Moderate obstacle,100,0.0,0.0,Sindh,0.0
+54,Food,Small,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+59,Food,Small,Yes,No,No,No,Very severe obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+64,Food,Medium,No,No,No,No,Very severe obstacle,Moderate obstacle,Very severe obstacle,0,0.0,0.0,Sindh,0.0
+65,Food,Medium,No,Yes,The establishment does not have an internet connection,No,Moderate obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+77,Food,Small,Yes,No,No,No,Major obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+84,Food,Medium,Yes,No,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+89,Food,Medium,Yes,Yes,No,No,Major obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+90,Food,Medium,No,Yes,No,No,Major obstacle,Major obstacle,Minor obstacle,0,50.0,0.0,Punjab,50.0
+103,Food,Medium,No,No,No,No,Major obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+105,Food,Large,Yes,Yes,No,No,Very severe obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+106,Food,Medium,No,No,No,No,Major obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+107,Food,Medium,No,Yes,No,No,Very severe obstacle,No obstacle,Major obstacle,0,0.0,0.0,Islamabad,0.0
+112,Food,Medium,Yes,Yes,No,No,Moderate obstacle,Major obstacle,Major obstacle,20,20.0,0.0,Punjab,20.0
+120,Food,Medium,No,Yes,No,Yes,Minor obstacle,Minor obstacle,Minor obstacle,20,0.0,0.0,Sindh,0.0
+121,Food,Medium,Yes,Don't know (spontaneous),Yes,No,Minor obstacle,Moderate obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+122,Food,Medium,No,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+123,Food,Large,No,Yes,No,Don't know (spontaneous),No obstacle,Minor obstacle,No obstacle,50,0.0,0.0,Sindh,0.0
+128,Food,Small,Yes,No,No,No,Minor obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+129,Food,Medium,Yes,Yes,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+131,Food,Small,No,Yes,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+134,Food,Medium,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+135,Food,Medium,No,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+141,Food,Large,No,Yes,Yes,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+145,Food,Medium,Yes,No,Yes,No,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+149,Food,Large,Yes,Yes,No,No,Very severe obstacle,Minor obstacle,No obstacle,50,0.0,0.0,Sindh,0.0
+150,Food,Large,No,Yes,No,Yes,Moderate obstacle,Minor obstacle,Very severe obstacle,20,0.0,0.0,Sindh,0.0
+154,Food,Large,No,Yes,No,Yes,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+160,Food,Medium,No,No,The establishment does not have an internet connection,No,Major obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+162,Food,Small,Yes,Yes,No,No,Major obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+164,Food,Medium,No,Yes,Yes,No,Minor obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+173,Food,Large,Yes,Yes,No,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+174,Food,Medium,Yes,No,No,No,Major obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+176,Food,Small,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Balochistan,0.0
+178,Food,Small,Yes,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Balochistan,0.0
+184,Food,Small,No,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+188,Food,Small,Yes,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Balochistan,0.0
+189,Food,Large,Yes,No,No,No,Very severe obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+191,Food,Small,Yes,No,The establishment does not have an internet connection,No,Does not apply,Does not apply,Does not apply,0,0.0,0.0,Balochistan,0.0
+194,Food,Large,No,Yes,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+200,Food,Small,Yes,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+201,Food,Medium,No,No,Yes,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+203,Food,Small,Yes,Yes,No,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+206,Food,Small,Yes,No,No,No,Very severe obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+209,Food,Medium,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+211,Food,Medium,Yes,Yes,No,No,Very severe obstacle,Minor obstacle,No obstacle,5,0.0,0.0,Punjab,0.0
+214,Food,Small,No,Yes,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+216,Food,Large,No,Yes,No,Don't know (spontaneous),Very severe obstacle,No obstacle,No obstacle,0,0.0,100.0,Sindh,100.0
+221,Food,Small,Yes,No,No,No,Very severe obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+222,Other Manufacturing,Small,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Major obstacle,50,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+223,Other Manufacturing,Large,Yes,Yes,Yes,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+224,Other Manufacturing,Small,No,Yes,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+226,Other Manufacturing,Small,Yes,No,No,No,Minor obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+230,Other Manufacturing,Small,Yes,Yes,No,No,Moderate obstacle,Very severe obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+231,Other Manufacturing,Small,Yes,Yes,No,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+234,Other Manufacturing,Small,Yes,Yes,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+236,Textiles,Medium,Yes,No,No,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+238,Textiles,Large,No,Yes,Yes,No,Moderate obstacle,Minor obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+239,Textiles,Large,No,Yes,No,Yes,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,60.0,Punjab,60.0
+244,Textiles,Large,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+247,Textiles,Large,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+248,Textiles,Large,Yes,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+250,Textiles,Small,No,Yes,No,Yes,Moderate obstacle,Major obstacle,Moderate obstacle,30,20.0,60.0,Punjab,80.0
+251,Textiles,Medium,Yes,No,The establishment does not have an internet connection,No,Minor obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+252,Textiles,Medium,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+253,Textiles,Small,No,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,60,0.0,0.0,Sindh,0.0
+257,Textiles,Large,Yes,Yes,No,Yes,Major obstacle,Moderate obstacle,No obstacle,0,0.0,100.0,Punjab,100.0
+259,Textiles,Large,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,60,0.0,100.0,Sindh,100.0
+261,Textiles,Medium,No,No,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+264,Textiles,Large,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+270,Textiles,Large,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,0,20.0,80.0,Sindh,100.0
+271,Textiles,Small,No,No,The establishment does not have an internet connection,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+272,Textiles,Large,Yes,Yes,No,No,Minor obstacle,Moderate obstacle,Major obstacle,0,0.0,100.0,Punjab,100.0
+273,Textiles,Medium,Yes,No,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+275,Textiles,Medium,No,Yes,No,No,Minor obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+281,Textiles,Medium,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+282,Textiles,Large,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,10,0.0,90.0,Punjab,90.0
+283,Textiles,Large,Yes,No,The establishment does not have an internet connection,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+284,Textiles,Large,Yes,Yes,Yes,Yes,Minor obstacle,No obstacle,No obstacle,70,0.0,75.0,Sindh,75.0
+285,Textiles,Large,No,Yes,No,Yes,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,100.0,Sindh,100.0
+287,Textiles,Small,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+291,Textiles,Medium,No,No,No,No,Major obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+293,Textiles,Medium,Yes,No,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+294,Textiles,Small,Yes,No,Yes,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+296,Textiles,Large,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+297,Textiles,Medium,Yes,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,40,0.0,20.0,Punjab,20.0
+298,Textiles,Medium,Yes,No,No,No,Minor obstacle,Moderate obstacle,Minor obstacle,60,0.0,20.0,Punjab,20.0
+299,Textiles,Medium,Yes,Yes,No,No,Very severe obstacle,Very severe obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+304,Textiles,Medium,No,Yes,No,No,Moderate obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+305,Textiles,Small,Yes,Yes,Yes,No,Minor obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+308,Textiles,Medium,Yes,Yes,Yes,Yes,Minor obstacle,Minor obstacle,Major obstacle,20,0.0,0.0,Punjab,0.0
+311,Textiles,Medium,Yes,No,No,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+312,Textiles,Large,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+313,Textiles,Medium,No,No,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+315,Textiles,Medium,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+316,Textiles,Small,No,No,No,No,Moderate obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+319,Textiles,Small,Yes,Yes,No,No,Moderate obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+320,Textiles,Small,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,No obstacle,50,0.0,0.0,Balochistan,0.0
+324,Textiles,Large,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+325,Textiles,Small,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+326,Textiles,Small,No,No,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+327,Textiles,Large,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+328,Textiles,Small,Yes,Yes,No,No,Major obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+329,Textiles,Small,Yes,No,No,Yes,Major obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+330,Textiles,Large,No,Yes,Yes,No,Moderate obstacle,Minor obstacle,Minor obstacle,0,0.0,100.0,Punjab,100.0
+331,Textiles,Small,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+333,Textiles,Medium,No,No,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+336,Textiles,Large,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,20,0.0,100.0,Punjab,100.0
+337,Textiles,Medium,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,10,0.0,100.0,Punjab,100.0
+338,Textiles,Small,No,No,The establishment does not have an internet connection,No,Moderate obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+339,Textiles,Large,No,No,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,10,0.0,100.0,Punjab,100.0
+340,Textiles,Small,No,No,No,No,Major obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+342,Textiles,Large,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+345,Textiles,Small,Yes,Yes,No,Yes,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+351,Textiles,Medium,Yes,No,No,No,Moderate obstacle,Major obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+352,Textiles,Medium,Yes,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+353,Textiles,Medium,No,Yes,No,No,Major obstacle,Moderate obstacle,Minor obstacle,40,0.0,0.0,Islamabad,0.0
+355,Textiles,Large,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+357,Textiles,Small,Yes,Yes,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+359,Textiles,Small,Yes,No,Yes,No,Moderate obstacle,Major obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+363,Textiles,Small,Yes,Yes,No,No,Very severe obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+365,Textiles,Small,No,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+372,Textiles,Large,Yes,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+375,Garments,Medium,No,No,No,No,No obstacle,Minor obstacle,Moderate obstacle,0,0.0,100.0,Sindh,100.0
+376,Textiles,Small,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+377,Textiles,Medium,No,Yes,No,No,Minor obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+380,Textiles,Large,No,No,Yes,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+382,Textiles,Medium,Yes,Yes,Yes,No,Minor obstacle,No obstacle,No obstacle,20,0.0,10.0,Punjab,10.0
+383,Garments,Medium,Yes,No,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+384,Textiles,Small,No,No,No,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+386,Garments,Large,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+387,Garments,Large,No,Yes,Yes,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+388,Textiles,Large,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+389,Textiles,Medium,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+391,Textiles,Small,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+392,Garments,Large,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Major obstacle,0,0.0,30.0,Sindh,30.0
+394,Textiles,Small,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+395,Garments,Small,Yes,Yes,Yes,No,Moderate obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+396,Garments,Medium,No,Yes,No,No,No obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+398,Garments,Medium,No,Yes,The establishment does not have an internet connection,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+400,Textiles,Medium,Yes,Yes,No,No,Moderate obstacle,Minor obstacle,No obstacle,0,20.0,0.0,Khyber-Pakhtunkhwa,20.0
+401,Garments,Medium,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+402,Textiles,Medium,Yes,No,The establishment does not have an internet connection,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+403,Garments,Medium,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+404,Garments,Large,Yes,No,Yes,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,50.0,Punjab,50.0
+405,Garments,Medium,Yes,Yes,Yes,No,Minor obstacle,Major obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+406,Garments,Small,No,No,No,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+409,Garments,Medium,No,Yes,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+414,Garments,Medium,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+415,Garments,Small,No,No,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+418,Garments,Medium,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+419,Garments,Small,Yes,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,40,0.0,0.0,Sindh,0.0
+421,Garments,Medium,No,Yes,Yes,No,Minor obstacle,Minor obstacle,Minor obstacle,Don't know (spontaneous),0.0,0.0,Punjab,0.0
+422,Garments,Small,No,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+425,Garments,Small,Yes,No,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+426,Garments,Medium,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+429,Garments,Medium,Yes,Yes,No,No,Major obstacle,Major obstacle,Moderate obstacle,0,50.0,0.0,Punjab,50.0
+430,Garments,Small,Yes,No,No,No,Major obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+431,Garments,Medium,No,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+432,Garments,Small,No,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+433,Garments,Small,No,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+434,Garments,Small,No,No,The establishment does not have an internet connection,No,Major obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+435,Garments,Small,No,No,No,No,Minor obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+436,Garments,Small,No,No,Yes,No,Moderate obstacle,Minor obstacle,Very severe obstacle,0,50.0,0.0,Punjab,50.0
+437,Garments,Medium,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,100.0,0.0,Punjab,100.0
+438,Garments,Small,No,Yes,Yes,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,60,0.0,0.0,Islamabad,0.0
+439,Garments,Medium,No,No,No,No,Moderate obstacle,Minor obstacle,Minor obstacle,Don't know (spontaneous),0.0,0.0,Punjab,0.0
+440,Garments,Large,Yes,Yes,Yes,No,Very severe obstacle,Very severe obstacle,Major obstacle,0,0.0,60.0,Punjab,60.0
+441,Garments,Large,No,Yes,No,No,Very severe obstacle,Moderate obstacle,Moderate obstacle,0,0.0,50.0,Punjab,50.0
+444,Garments,Large,Yes,Yes,Yes,No,Very severe obstacle,Don't know (spontaneous),Very severe obstacle,0,50.0,0.0,Punjab,50.0
+445,Garments,Small,Yes,No,No,No,No obstacle,No obstacle,No obstacle,20,0.0,0.0,Punjab,0.0
+446,Garments,Large,No,Yes,No,No,Very severe obstacle,No obstacle,Very severe obstacle,20,40.0,60.0,Punjab,100.0
+447,Garments,Large,No,No,Yes,No,Major obstacle,No obstacle,No obstacle,40,0.0,0.0,Sindh,0.0
+449,Garments,Small,No,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+450,Garments,Large,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+451,Garments,Large,No,Yes,No,No,Moderate obstacle,Minor obstacle,No obstacle,0,0.0,99.0,Punjab,99.0
+452,Garments,Small,No,Yes,The establishment does not have an internet connection,No,Minor obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+453,Garments,Small,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+454,Garments,Medium,No,Yes,No,No,Moderate obstacle,Minor obstacle,No obstacle,0,0.0,100.0,Punjab,100.0
+455,Garments,Small,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+456,Garments,Small,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+457,Garments,Large,Yes,No,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+458,Garments,Small,No,No,Yes,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+459,Garments,Medium,Yes,No,No,No,No obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+461,Garments,Medium,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+462,Garments,Large,No,Yes,No,No,Moderate obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+463,Garments,Large,Yes,Yes,No,No,Minor obstacle,No obstacle,No obstacle,20,30.0,0.0,Punjab,30.0
+465,Garments,Large,No,Yes,No,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+468,Garments,Medium,Yes,Yes,Yes,No,Don't know (spontaneous),Very severe obstacle,Moderate obstacle,0,50.0,0.0,Punjab,50.0
+469,Garments,Large,No,No,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+470,Garments,Large,No,Yes,No,No,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+471,Garments,Small,Yes,No,Yes,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+472,Garments,Small,Yes,Yes,Yes,No,Major obstacle,Major obstacle,Minor obstacle,0,50.0,0.0,Punjab,50.0
+474,Garments,Large,No,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,50,0.0,30.0,Sindh,30.0
+475,Garments,Small,No,No,No,No,Very severe obstacle,No obstacle,Major obstacle,40,0.0,0.0,Sindh,0.0
+476,Garments,Large,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,Don't know (spontaneous),0.0,0.0,Punjab,0.0
+477,Garments,Medium,No,No,Don't know (spontaneous),No,Minor obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+478,Garments,Large,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,60,0.0,99.0,Punjab,99.0
+480,Garments,Medium,No,No,No,Yes,Very severe obstacle,Very severe obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+482,Garments,Small,No,No,The establishment does not have an internet connection,No,Minor obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+483,Garments,Medium,No,No,No,No,No obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+485,Garments,Medium,No,No,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+490,Other Manufacturing,Small,No,No,The establishment does not have an internet connection,No,Minor obstacle,Very severe obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+494,Other Manufacturing,Small,No,Yes,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+500,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Moderate obstacle,No obstacle,0,0.0,70.0,Punjab,70.0
+503,Other Manufacturing,Large,Yes,Yes,Yes,No,Major obstacle,Major obstacle,Major obstacle,0,0.0,65.0,Punjab,65.0
+505,Other Manufacturing,Small,Yes,No,No,No,Very severe obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+507,Other Manufacturing,Large,No,Yes,Yes,No,Moderate obstacle,Minor obstacle,Moderate obstacle,50,0.0,0.0,Punjab,0.0
+509,Other Manufacturing,Large,Yes,No,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+513,Other Manufacturing,Small,No,Yes,No,Don't know (spontaneous),Very severe obstacle,No obstacle,No obstacle,40,0.0,0.0,Sindh,0.0
+515,Other Manufacturing,Medium,Yes,Yes,No,No,Major obstacle,Major obstacle,Moderate obstacle,30,40.0,0.0,Punjab,40.0
+516,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,Yes,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+517,Other Manufacturing,Small,Yes,Yes,No,No,Does not apply,Don't know (spontaneous),Does not apply,0,0.0,0.0,Balochistan,0.0
+521,Other Manufacturing,Small,No,Yes,No,No,Major obstacle,Very severe obstacle,No obstacle,40,0.0,0.0,Sindh,0.0
+522,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+523,Other Manufacturing,Small,No,No,Yes,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+530,Other Manufacturing,Small,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+531,Other Manufacturing,Medium,No,No,No,No,Minor obstacle,No obstacle,Moderate obstacle,0,0.0,0.0,Sindh,0.0
+543,Other Manufacturing,Small,No,No,The establishment does not have an internet connection,No,Minor obstacle,No obstacle,No obstacle,50,0.0,0.0,Balochistan,0.0
+544,Other Manufacturing,Large,Yes,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,No obstacle,50,0.0,0.0,Punjab,0.0
+547,Other Manufacturing,Small,Yes,Yes,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+554,Other Manufacturing,Small,Yes,Yes,No,No,Major obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+558,Other Manufacturing,Large,Yes,Yes,No,No,Major obstacle,Major obstacle,Moderate obstacle,20,0.0,30.0,Punjab,30.0
+562,Other Manufacturing,Small,Yes,No,No,No,Major obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+565,Other Manufacturing,Small,Yes,Yes,No,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+566,Other Manufacturing,Small,Yes,Yes,Yes,Yes,Moderate obstacle,Major obstacle,Minor obstacle,0,0.0,50.0,Punjab,50.0
+568,Other Manufacturing,Large,Yes,Yes,No,Yes,Very severe obstacle,Major obstacle,Major obstacle,80,0.0,50.0,Punjab,50.0
+573,Other Services,Small,Yes,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+577,Other Services,Large,No,Yes,Yes,No,Very severe obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+581,Other Manufacturing,Small,Yes,No,No,No,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+584,Other Manufacturing,Medium,Yes,No,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+585,Other Manufacturing,Small,No,No,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+587,Other Manufacturing,Medium,No,Yes,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,100,0.0,0.0,Sindh,0.0
+589,Chemicals & Chemical Products,Small,Yes,No,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+592,Chemicals & Chemical Products,Medium,Yes,Yes,No,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+593,Chemicals & Chemical Products,Medium,No,No,No,No,Very severe obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+596,Chemicals & Chemical Products,Medium,Yes,No,No,No,Moderate obstacle,Very severe obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+597,Chemicals & Chemical Products,Medium,Yes,No,No,No,Moderate obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+598,Chemicals & Chemical Products,Large,Yes,No,No,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+599,Chemicals & Chemical Products,Large,Yes,Yes,No,No,Major obstacle,Moderate obstacle,Minor obstacle,40,0.0,0.0,Punjab,0.0
+600,Chemicals & Chemical Products,Medium,Yes,Yes,No,No,Moderate obstacle,Very severe obstacle,Major obstacle,40,0.0,50.0,Punjab,50.0
+601,Chemicals & Chemical Products,Large,Yes,Yes,Yes,No,Major obstacle,Minor obstacle,No obstacle,70,0.0,0.0,Punjab,0.0
+602,Chemicals & Chemical Products,Large,No,Yes,No,No,Major obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+603,Chemicals & Chemical Products,Small,Yes,Yes,No,No,Moderate obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+605,Chemicals & Chemical Products,Small,Yes,Yes,Yes,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+607,Chemicals & Chemical Products,Large,Yes,No,No,No,Major obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+609,Chemicals & Chemical Products,Large,No,Yes,No,No,Very severe obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+610,Chemicals & Chemical Products,Large,Yes,Yes,No,No,Moderate obstacle,Major obstacle,Minor obstacle,40,20.0,30.0,Punjab,50.0
+612,Chemicals & Chemical Products,Large,Yes,Yes,Yes,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+614,Chemicals & Chemical Products,Medium,Yes,Yes,Yes,No,Moderate obstacle,Moderate obstacle,Minor obstacle,20,0.0,0.0,Punjab,0.0
+616,Chemicals & Chemical Products,Small,Yes,No,Yes,No,Moderate obstacle,Don't know (spontaneous),Moderate obstacle,20,0.0,0.0,Punjab,0.0
+617,Chemicals & Chemical Products,Small,No,No,Yes,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+618,Chemicals & Chemical Products,Medium,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+619,Chemicals & Chemical Products,Small,Yes,No,No,No,Minor obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+624,Other Manufacturing,Medium,Yes,Yes,No,No,Major obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+625,Other Manufacturing,Large,Yes,Yes,No,No,Moderate obstacle,Minor obstacle,Major obstacle,50,50.0,0.0,Khyber-Pakhtunkhwa,50.0
+626,Other Manufacturing,Large,Yes,Yes,No,No,Moderate obstacle,Major obstacle,Moderate obstacle,0,20.0,30.0,Khyber-Pakhtunkhwa,50.0
+629,Other Manufacturing,Large,Yes,Yes,Yes,No,Moderate obstacle,Moderate obstacle,Major obstacle,50,0.0,0.0,Punjab,0.0
+631,Other Manufacturing,Small,Yes,No,No,No,Minor obstacle,Don't know (spontaneous),No obstacle,0,0.0,0.0,Sindh,0.0
+633,Other Manufacturing,Large,Yes,No,No,No,Very severe obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+634,Other Manufacturing,Small,Yes,No,No,No,Very severe obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+635,Other Manufacturing,Large,Yes,No,Yes,No,Moderate obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+638,Other Manufacturing,Large,No,No,Yes,No,Major obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+641,Other Manufacturing,Medium,Yes,Yes,Yes,No,No obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+643,Chemicals & Chemical Products,Small,Yes,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+645,Chemicals & Chemical Products,Small,Yes,Yes,No,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+647,Chemicals & Chemical Products,Small,Yes,No,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+649,Chemicals & Chemical Products,Small,No,Yes,The establishment does not have an internet connection,No,Major obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+650,Chemicals & Chemical Products,Small,No,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+653,Chemicals & Chemical Products,Medium,Yes,No,No,No,Moderate obstacle,Minor obstacle,Minor obstacle,50,0.0,0.0,Punjab,0.0
+654,Chemicals & Chemical Products,Medium,No,No,No,No,Major obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+657,Chemicals & Chemical Products,Medium,No,Yes,No,No,Moderate obstacle,Minor obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+659,Chemicals & Chemical Products,Large,Yes,Yes,No,Yes,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+660,Chemicals & Chemical Products,Small,Yes,No,No,No,No obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+663,Chemicals & Chemical Products,Small,Yes,Yes,No,No,Minor obstacle,Minor obstacle,No obstacle,50,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+665,Chemicals & Chemical Products,Medium,No,No,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+667,Chemicals & Chemical Products,Small,Yes,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,30,0.0,0.0,Punjab,0.0
+668,Chemicals & Chemical Products,Medium,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+670,Chemicals & Chemical Products,Medium,Yes,Yes,No,No,Minor obstacle,No obstacle,No obstacle,0,20.0,0.0,Khyber-Pakhtunkhwa,20.0
+672,Chemicals & Chemical Products,Small,Yes,Yes,No,No,Minor obstacle,Minor obstacle,No obstacle,50,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+673,Chemicals & Chemical Products,Medium,No,No,No,No,Moderate obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+675,Chemicals & Chemical Products,Small,Yes,Yes,No,No,Moderate obstacle,Minor obstacle,No obstacle,0,40.0,0.0,Khyber-Pakhtunkhwa,40.0
+677,Chemicals & Chemical Products,Medium,No,Yes,Yes,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,30,0.0,0.0,Punjab,0.0
+678,Chemicals & Chemical Products,Large,Yes,Yes,No,No,Moderate obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+679,Chemicals & Chemical Products,Medium,Yes,Yes,No,No,Moderate obstacle,Minor obstacle,Minor obstacle,30,50.0,0.0,Khyber-Pakhtunkhwa,50.0
+681,Chemicals & Chemical Products,Medium,Yes,No,No,No,Minor obstacle,Minor obstacle,No obstacle,20,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+682,Chemicals & Chemical Products,Large,Yes,No,Yes,No,Very severe obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+683,Chemicals & Chemical Products,Medium,Yes,Yes,No,No,No obstacle,No obstacle,No obstacle,50,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+684,Chemicals & Chemical Products,Small,Yes,Yes,No,No,No obstacle,No obstacle,Minor obstacle,0,50.0,0.0,Khyber-Pakhtunkhwa,50.0
+686,Chemicals & Chemical Products,Small,Yes,Yes,No,No,Minor obstacle,Minor obstacle,No obstacle,0,50.0,0.0,Khyber-Pakhtunkhwa,50.0
+687,Chemicals & Chemical Products,Small,No,No,No,No,No obstacle,No obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+689,Chemicals & Chemical Products,Small,Yes,Yes,No,No,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+690,Chemicals & Chemical Products,Small,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+692,Chemicals & Chemical Products,Medium,No,No,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+693,Chemicals & Chemical Products,Medium,No,No,No,No,Moderate obstacle,Minor obstacle,Minor obstacle,40,0.0,0.0,Punjab,0.0
+699,Chemicals & Chemical Products,Large,Yes,Yes,No,No,Minor obstacle,No obstacle,No obstacle,20,0.0,30.0,Punjab,30.0
+700,Other Manufacturing,Medium,No,Yes,No,Yes,Very severe obstacle,Moderate obstacle,No obstacle,100,0.0,0.0,Sindh,0.0
+706,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,Minor obstacle,0,100.0,0.0,Balochistan,100.0
+707,Other Manufacturing,Small,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+709,Other Manufacturing,Small,No,Yes,No,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+710,Other Manufacturing,Small,Yes,Yes,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+712,Other Manufacturing,Large,Yes,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,20,0.0,0.0,Punjab,0.0
+714,Other Manufacturing,Small,No,Yes,No,Yes,Moderate obstacle,Major obstacle,Moderate obstacle,20,0.0,0.0,Punjab,0.0
+717,Other Manufacturing,Small,Yes,No,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+719,Other Manufacturing,Small,Yes,Yes,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+723,Other Manufacturing,Large,Yes,Yes,No,No,Minor obstacle,No obstacle,No obstacle,60,0.0,0.0,Punjab,0.0
+730,Other Manufacturing,Small,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+733,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+735,Other Manufacturing,Medium,No,Yes,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+736,Other Manufacturing,Large,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+737,Other Manufacturing,Large,Yes,Yes,No,No,Minor obstacle,No obstacle,No obstacle,40,0.0,80.0,Punjab,80.0
+744,Non-Metallic Mineral Products,Medium,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+746,Non-Metallic Mineral Products,Large,No,Yes,Yes,No,Moderate obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+747,Non-Metallic Mineral Products,Medium,No,Yes,The establishment does not have an internet connection,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+749,Non-Metallic Mineral Products,Medium,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,70,20.0,0.0,Punjab,20.0
+750,Non-Metallic Mineral Products,Medium,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,80,10.0,20.0,Punjab,30.0
+752,Non-Metallic Mineral Products,Medium,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,60,0.0,20.0,Punjab,20.0
+753,Non-Metallic Mineral Products,Medium,Yes,No,No,No,No obstacle,No obstacle,No obstacle,40,0.0,0.0,Punjab,0.0
+754,Non-Metallic Mineral Products,Medium,Yes,No,No,No,Minor obstacle,Moderate obstacle,Minor obstacle,70,0.0,0.0,Punjab,0.0
+755,Non-Metallic Mineral Products,Small,Yes,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,60,0.0,0.0,Punjab,0.0
+756,Non-Metallic Mineral Products,Large,Yes,Yes,Yes,No,Minor obstacle,Minor obstacle,Minor obstacle,30,10.0,0.0,Punjab,10.0
+757,Non-Metallic Mineral Products,Medium,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,80,0.0,20.0,Punjab,20.0
+759,Non-Metallic Mineral Products,Medium,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,60,0.0,0.0,Punjab,0.0
+760,Non-Metallic Mineral Products,Small,Yes,No,No,No,Minor obstacle,Minor obstacle,No obstacle,40,0.0,0.0,Punjab,0.0
+764,Non-Metallic Mineral Products,Large,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+766,Non-Metallic Mineral Products,Small,Yes,No,No,No,No obstacle,No obstacle,No obstacle,70,0.0,0.0,Punjab,0.0
+767,Non-Metallic Mineral Products,Medium,No,Yes,Yes,No,Minor obstacle,Minor obstacle,Minor obstacle,30,30.0,0.0,Punjab,30.0
+772,Non-Metallic Mineral Products,Medium,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+775,Non-Metallic Mineral Products,Medium,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+779,Non-Metallic Mineral Products,Small,No,No,No,No,Major obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Balochistan,0.0
+780,Non-Metallic Mineral Products,Large,No,Yes,No,Don't know (spontaneous),Moderate obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+786,Non-Metallic Mineral Products,Medium,Yes,No,No,No,No obstacle,No obstacle,No obstacle,70,10.0,0.0,Punjab,10.0
+788,Non-Metallic Mineral Products,Medium,Yes,No,No,No,No obstacle,No obstacle,No obstacle,10,10.0,0.0,Punjab,10.0
+790,Non-Metallic Mineral Products,Large,No,Yes,No,No,Very severe obstacle,Very severe obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+791,Non-Metallic Mineral Products,Medium,Yes,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,30,0.0,0.0,Punjab,0.0
+792,Non-Metallic Mineral Products,Medium,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,70,0.0,0.0,Punjab,0.0
+796,Non-Metallic Mineral Products,Medium,Yes,Yes,No,No,Moderate obstacle,Very severe obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+799,Non-Metallic Mineral Products,Medium,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+800,Non-Metallic Mineral Products,Medium,Yes,Yes,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+801,Non-Metallic Mineral Products,Medium,Yes,Yes,The establishment does not have an internet connection,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+807,Non-Metallic Mineral Products,Medium,Yes,Yes,The establishment does not have an internet connection,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+810,Non-Metallic Mineral Products,Small,Yes,Yes,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+812,Non-Metallic Mineral Products,Medium,No,No,The establishment does not have an internet connection,No,Major obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+820,Non-Metallic Mineral Products,Large,Yes,Yes,No,No,Very severe obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+822,Non-Metallic Mineral Products,Small,Yes,Yes,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+825,Non-Metallic Mineral Products,Large,Yes,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,Moderate obstacle,0,60.0,0.0,Balochistan,60.0
+827,Non-Metallic Mineral Products,Medium,Yes,No,The establishment does not have an internet connection,No,Major obstacle,No obstacle,No obstacle,100,0.0,0.0,Balochistan,0.0
+828,Non-Metallic Mineral Products,Medium,No,Yes,No,No,Minor obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+841,Non-Metallic Mineral Products,Medium,Yes,No,No,No,Very severe obstacle,Very severe obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+844,Non-Metallic Mineral Products,Medium,Yes,Yes,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+848,Non-Metallic Mineral Products,Small,No,No,Yes,No,Moderate obstacle,Minor obstacle,Minor obstacle,50,0.0,0.0,Punjab,0.0
+851,Non-Metallic Mineral Products,Small,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+857,Non-Metallic Mineral Products,Medium,Yes,No,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+859,Non-Metallic Mineral Products,Small,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+860,Non-Metallic Mineral Products,Medium,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+862,Non-Metallic Mineral Products,Small,No,No,The establishment does not have an internet connection,No,Very severe obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+866,Non-Metallic Mineral Products,Small,Yes,No,No,No,Minor obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+867,Non-Metallic Mineral Products,Small,No,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,Very severe obstacle,0,0.0,0.0,Sindh,0.0
+869,Non-Metallic Mineral Products,Medium,Yes,Yes,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+870,Non-Metallic Mineral Products,Small,No,Yes,The establishment does not have an internet connection,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+871,Non-Metallic Mineral Products,Small,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+873,Non-Metallic Mineral Products,Small,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+874,Non-Metallic Mineral Products,Medium,No,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+876,Non-Metallic Mineral Products,Large,No,No,No,No,Moderate obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+877,Non-Metallic Mineral Products,Medium,Yes,Yes,The establishment does not have an internet connection,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+879,Non-Metallic Mineral Products,Medium,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+880,Non-Metallic Mineral Products,Medium,Yes,No,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+882,Other Manufacturing,Medium,No,Yes,No,No,Very severe obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Islamabad,0.0
+888,Other Manufacturing,Small,Yes,No,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+889,Other Manufacturing,Medium,Yes,No,No,No,No obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+890,Other Manufacturing,Large,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+893,Other Manufacturing,Medium,No,Yes,The establishment does not have an internet connection,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+895,Other Manufacturing,Medium,No,Yes,No,No,Very severe obstacle,Moderate obstacle,Very severe obstacle,0,0.0,0.0,Islamabad,0.0
+899,Other Manufacturing,Medium,Yes,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+901,Other Manufacturing,Medium,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+904,Other Manufacturing,Small,No,No,Yes,No,Major obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+906,Other Manufacturing,Small,Yes,No,Yes,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+913,Other Manufacturing,Small,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+915,Other Manufacturing,Medium,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+918,Other Manufacturing,Small,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,70,0.0,0.0,Punjab,0.0
+922,Other Manufacturing,Small,No,Yes,No,No,Very severe obstacle,Very severe obstacle,Major obstacle,50,0.0,0.0,Punjab,0.0
+925,Other Manufacturing,Small,Yes,Yes,No,No,No obstacle,No obstacle,No obstacle,20,0.0,30.0,Punjab,30.0
+928,Other Manufacturing,Medium,No,No,Yes,No,Minor obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+931,Other Manufacturing,Small,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+947,Other Manufacturing,Small,Yes,No,No,No,Very severe obstacle,Very severe obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+951,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+954,Other Manufacturing,Large,No,No,Yes,No,Minor obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+956,Other Manufacturing,Large,No,Yes,Yes,No,Moderate obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+965,Other Manufacturing,Medium,No,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+967,Other Manufacturing,Medium,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Major obstacle,Very severe obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+970,Other Manufacturing,Medium,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+975,Other Manufacturing,Small,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+984,Other Manufacturing,Medium,No,No,No,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+990,Other Manufacturing,Small,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,40,0.0,0.0,Punjab,0.0
+991,Other Manufacturing,Small,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,40,20.0,0.0,Punjab,20.0
+992,Other Manufacturing,Small,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,20,0.0,0.0,Punjab,0.0
+993,Other Manufacturing,Small,No,Yes,No,No,Don't know (spontaneous),Does not apply,Don't know (spontaneous),20,0.0,0.0,Punjab,0.0
+995,Other Manufacturing,Small,No,Yes,No,No,Moderate obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+997,Other Manufacturing,Large,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1000,Other Manufacturing,Medium,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1003,Other Manufacturing,Large,Yes,Yes,No,No,Minor obstacle,No obstacle,Minor obstacle,60,0.0,0.0,Punjab,0.0
+1007,Other Manufacturing,Medium,Yes,Yes,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1010,Other Manufacturing,Small,Yes,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1012,Other Manufacturing,Medium,Yes,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,40,0.0,0.0,Punjab,0.0
+1015,Other Manufacturing,Medium,No,No,No,No,Moderate obstacle,Minor obstacle,Moderate obstacle,20,30.0,20.0,Punjab,50.0
+1017,Other Manufacturing,Medium,No,Yes,No,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,0,0.0,0.0,Islamabad,0.0
+1018,Other Manufacturing,Medium,No,Yes,No,No,Minor obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+1025,Other Manufacturing,Large,No,Yes,No,No,Minor obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1026,Other Manufacturing,Medium,Yes,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1037,Other Manufacturing,Small,Yes,Yes,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1038,Other Manufacturing,Medium,No,Yes,Yes,No,Major obstacle,Major obstacle,Major obstacle,25,40.0,0.0,Islamabad,40.0
+1040,Motor Vehicles & Transport Equip.,Large,Yes,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,50,0.0,5.0,Sindh,5.0
+1042,Motor Vehicles & Transport Equip.,Small,No,No,The establishment does not have an internet connection,No,Major obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+1047,Motor Vehicles & Transport Equip.,Medium,Yes,Yes,No,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,50,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1048,Motor Vehicles & Transport Equip.,Small,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,100,0.0,0.0,Sindh,0.0
+1049,Motor Vehicles & Transport Equip.,Large,Yes,No,No,No,No obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+1050,Motor Vehicles & Transport Equip.,Medium,Yes,No,Yes,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1051,Motor Vehicles & Transport Equip.,Large,Yes,Yes,No,No,Moderate obstacle,Very severe obstacle,Minor obstacle,50,0.0,0.0,Punjab,0.0
+1052,Motor Vehicles & Transport Equip.,Small,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Major obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+1054,Motor Vehicles & Transport Equip.,Medium,Yes,No,No,No,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+1056,Motor Vehicles & Transport Equip.,Small,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1058,Motor Vehicles & Transport Equip.,Medium,Yes,Yes,Yes,Yes,Major obstacle,Minor obstacle,Minor obstacle,30,10.0,10.0,Punjab,20.0
+1059,Motor Vehicles & Transport Equip.,Small,No,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1061,Motor Vehicles & Transport Equip.,Medium,No,No,Don't know (spontaneous),No,Very severe obstacle,Very severe obstacle,Very severe obstacle,100,100.0,0.0,Punjab,100.0
+1067,Motor Vehicles & Transport Equip.,Small,No,No,No,No,Major obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1074,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1075,Other Manufacturing,Medium,No,No,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+1078,Other Manufacturing,Small,Yes,No,No,No,Moderate obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+1081,Other Manufacturing,Large,No,Yes,Yes,No,Very severe obstacle,Moderate obstacle,Moderate obstacle,0,50.0,50.0,Punjab,100.0
+1084,Other Manufacturing,Large,No,Yes,No,No,Major obstacle,Minor obstacle,Moderate obstacle,0,30.0,70.0,Punjab,100.0
+1086,Other Manufacturing,Small,No,No,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1088,Other Services,Medium,Yes,No,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1089,Other Services,Medium,Yes,Yes,Yes,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1090,Other Services,Medium,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1091,Other Services,Small,No,No,No,No,No obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+1093,Other Services,Medium,Yes,Yes,No,No,No obstacle,No obstacle,No obstacle,20,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1094,Other Services,Medium,No,Yes,No,No,Minor obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+1096,Other Services,Small,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1099,Other Services,Small,Yes,No,No,No,Minor obstacle,No obstacle,Moderate obstacle,0,0.0,0.0,Sindh,0.0
+1100,Other Services,Large,Yes,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+1101,Other Services,Small,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+1103,Other Services,Small,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1104,Other Services,Small,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,20,0.0,0.0,Punjab,0.0
+1107,Other Services,Small,No,No,The establishment does not have an internet connection,No,Major obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1109,Other Services,Small,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1110,Other Services,Small,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+1111,Other Services,Small,No,Yes,No,No,Very severe obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+1113,Retail,Small,Yes,No,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+1116,Retail,Small,No,Yes,No,No,Minor obstacle,Minor obstacle,Moderate obstacle,40,0.0,0.0,Sindh,0.0
+1117,Retail,Medium,Yes,No,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+1118,Retail,Small,Yes,No,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+1119,Other Services,Large,Yes,Yes,Yes,No,Very severe obstacle,Major obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+1120,Other Services,Small,No,Yes,No,No,Major obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+1122,Other Services,Large,Yes,No,The establishment does not have an internet connection,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+1123,Other Services,Medium,Yes,Yes,Yes,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+1124,Other Services,Small,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+1125,Retail,Small,Yes,No,The establishment does not have an internet connection,No,Minor obstacle,No obstacle,No obstacle,5,0.0,0.0,Sindh,0.0
+1126,Retail,Medium,No,Yes,No,No,Moderate obstacle,No obstacle,Major obstacle,0,0.0,0.0,Islamabad,0.0
+1129,Retail,Medium,No,Yes,The establishment does not have an internet connection,Yes,Very severe obstacle,No obstacle,Major obstacle,0,0.0,0.0,Islamabad,0.0
+1130,Retail,Small,No,No,Yes,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1131,Retail,Medium,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1133,Retail,Medium,Yes,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Islamabad,0.0
+1137,Retail,Medium,No,Yes,Yes,No,Very severe obstacle,Minor obstacle,No obstacle,10,0.0,0.0,Islamabad,0.0
+1138,Retail,Medium,Yes,Yes,No,No,Moderate obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+1139,Retail,Medium,Yes,Yes,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,No obstacle,10,0.0,0.0,Islamabad,0.0
+1140,Retail,Medium,No,No,No,No,Moderate obstacle,Minor obstacle,Minor obstacle,30,0.0,0.0,Punjab,0.0
+1142,Retail,Large,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1143,Retail,Small,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1144,Retail,Small,No,Yes,No,No,Moderate obstacle,Minor obstacle,Minor obstacle,80,0.0,0.0,Punjab,0.0
+1145,Retail,Small,No,No,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+1147,Retail,Medium,Yes,Yes,Yes,No,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+1149,Retail,Small,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1150,Retail,Small,No,Yes,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+1151,Retail,Small,Yes,No,The establishment does not have an internet connection,No,No obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1153,Retail,Small,Yes,No,No,No,Major obstacle,Very severe obstacle,Minor obstacle,40,0.0,0.0,Punjab,0.0
+1154,Retail,Medium,Yes,Yes,No,No,Major obstacle,Very severe obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1155,Retail,Medium,No,Yes,Yes,No,Major obstacle,Moderate obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+1157,Retail,Medium,No,Yes,No,Yes,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+1159,Retail,Medium,No,Yes,No,No,Minor obstacle,No obstacle,No obstacle,20,0.0,0.0,Sindh,0.0
+1160,Retail,Medium,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1161,Retail,Medium,No,Yes,No,No,Minor obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1162,Retail,Medium,No,Yes,Yes,No,Moderate obstacle,No obstacle,No obstacle,5,0.0,0.0,Sindh,0.0
+1163,Hotels & Restaurants,Small,Yes,No,No,No,Major obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+1164,Hotels & Restaurants,Small,No,Yes,No,No,Very severe obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+1165,Hotels & Restaurants,Small,Yes,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+1167,Hotels & Restaurants,Small,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1168,Hotels & Restaurants,Medium,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,Major obstacle,Very severe obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1170,Hotels & Restaurants,Large,Yes,Yes,No,Yes,Major obstacle,No obstacle,No obstacle,25,0.0,0.0,Sindh,0.0
+1172,Hotels & Restaurants,Large,Yes,Yes,Yes,No,Major obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+1173,Hotels & Restaurants,Small,No,No,No,No,Major obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+1175,Hotels & Restaurants,Medium,Yes,Yes,No,No,Minor obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1176,Hotels & Restaurants,Medium,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1177,Hotels & Restaurants,Large,No,Yes,No,Don't know (spontaneous),No obstacle,No obstacle,No obstacle,35,0.0,0.0,Sindh,0.0
+1180,Hotels & Restaurants,Medium,No,No,No,No,Minor obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+1181,Hotels & Restaurants,Medium,Yes,Yes,No,No,Very severe obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1183,Hotels & Restaurants,Small,Yes,Yes,No,No,Very severe obstacle,No obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+1184,Hotels & Restaurants,Large,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1186,Hotels & Restaurants,Medium,Yes,Yes,No,No,Moderate obstacle,Minor obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1187,Hotels & Restaurants,Medium,Yes,Yes,No,No,No obstacle,Minor obstacle,Minor obstacle,50,0.0,0.0,Punjab,0.0
+1188,Hotels & Restaurants,Small,Yes,Yes,No,No,Major obstacle,Very severe obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1189,Hotels & Restaurants,Small,Yes,No,No,No,No obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Balochistan,0.0
+1190,Hotels & Restaurants,Small,No,Yes,No,No,Major obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+1191,Hotels & Restaurants,Medium,No,Yes,No,No,Minor obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+1192,Hotels & Restaurants,Medium,No,No,No,No,Major obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+1193,Hotels & Restaurants,Small,Yes,No,No,No,No obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+1194,Hotels & Restaurants,Small,Yes,Yes,No,No,Major obstacle,Very severe obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+1195,Hotels & Restaurants,Small,Yes,Yes,No,No,Minor obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1196,Hotels & Restaurants,Large,No,Yes,No,Yes,Major obstacle,No obstacle,No obstacle,20,0.0,0.0,Sindh,0.0
+1197,Hotels & Restaurants,Large,No,No,No,No,Very severe obstacle,Very severe obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+1198,Hotels & Restaurants,Medium,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1199,Hotels & Restaurants,Medium,No,Yes,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1203,Hotels & Restaurants,Medium,No,Yes,No,No,No obstacle,No obstacle,No obstacle,40,0.0,0.0,Islamabad,0.0
+1206,Hotels & Restaurants,Small,Yes,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1207,Hotels & Restaurants,Large,No,Yes,No,No,Moderate obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+1209,Hotels & Restaurants,Medium,Yes,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,Don't know (spontaneous),0.0,0.0,Punjab,0.0
+1213,Other Services,Medium,No,No,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+1214,Other Services,Small,No,No,The establishment does not have an internet connection,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+1215,Other Services,Small,Yes,No,No,No,Minor obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1217,Other Services,Large,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1219,Other Services,Small,No,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1220,Other Services,Small,No,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1224,Other Services,Small,No,No,No,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+1226,Other Services,Medium,Yes,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+1227,Other Services,Medium,No,Yes,No,No,Major obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+1228,Other Services,Medium,Yes,Yes,Yes,No,Moderate obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+1230,Other Services,Medium,No,Yes,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+1232,Other Services,Medium,Yes,No,No,No,Major obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Balochistan,0.0
+1234,Other Services,Large,No,Yes,Yes,No,Very severe obstacle,Moderate obstacle,No obstacle,100,10.0,60.0,Islamabad,70.0
+1235,Other Services,Small,No,Yes,No,No,No obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+1237,Other Services,Small,No,Yes,No,No,No obstacle,No obstacle,No obstacle,Don't know (spontaneous),0.0,0.0,Sindh,0.0
+1241,Other Services,Medium,No,No,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+1242,Other Services,Large,No,Yes,Yes,No,Very severe obstacle,Very severe obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+1245,Other Services,Medium,No,Yes,No,No,Moderate obstacle,Very severe obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+1256,Other Services,Large,No,Yes,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+1269,Other Services,Medium,Yes,Yes,Yes,No,Major obstacle,Major obstacle,Major obstacle,80,0.0,0.0,Punjab,0.0
+1495,Retail,Medium,Yes,Yes,No,No,Moderate obstacle,Very severe obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+1562,Retail,Medium,Yes,Yes,No,No,Minor obstacle,Minor obstacle,Moderate obstacle,0,50.0,0.0,Punjab,50.0
+1887,Retail,Medium,No,No,Yes,No,Moderate obstacle,Moderate obstacle,No obstacle,100,0.0,0.0,Punjab,0.0
+2076,Retail,Medium,No,No,No,No,Moderate obstacle,Minor obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+2205,Other Services,Medium,No,Yes,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+2315,Other Services,Medium,Yes,No,No,No,Major obstacle,Major obstacle,Minor obstacle,0,0.0,100.0,Punjab,100.0
+2337,Retail,Medium,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+2715,Retail,Medium,Yes,No,No,No,Moderate obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+2875,Other Services,Large,Yes,No,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,40,0.0,0.0,Punjab,0.0
+3205,Retail,Medium,Yes,No,No,No,Moderate obstacle,Major obstacle,Minor obstacle,30,0.0,0.0,Punjab,0.0
+3206,Other Services,Small,No,No,No,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+3257,Hotels & Restaurants,Medium,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+3287,Retail,Medium,No,No,Yes,No,Minor obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+3493,Retail,Medium,No,Yes,Yes,No,Don't know (spontaneous),Major obstacle,Major obstacle,0,0.0,70.0,Punjab,70.0
+3543,Retail,Medium,No,No,Yes,No,No obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+3730,Retail,Medium,No,Yes,Yes,No,Major obstacle,Very severe obstacle,Major obstacle,50,0.0,0.0,Punjab,0.0
+3758,Hotels & Restaurants,Medium,Yes,Yes,No,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+3940,Other Services,Medium,Yes,Yes,Yes,No,Moderate obstacle,Major obstacle,Moderate obstacle,50,0.0,0.0,Punjab,0.0
+3972,Retail,Medium,No,No,No,No,Moderate obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+4047,Retail,Medium,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+4363,Other Services,Medium,No,No,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+4379,Retail,Large,Yes,Yes,No,No,Very severe obstacle,Major obstacle,Major obstacle,30,0.0,0.0,Punjab,0.0
+4561,Other Services,Medium,Yes,Yes,Yes,No,Moderate obstacle,Moderate obstacle,Major obstacle,80,0.0,0.0,Punjab,0.0
+4754,Other Services,Medium,No,No,No,No,Moderate obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+4831,Retail,Medium,No,No,The establishment does not have an internet connection,No,Very severe obstacle,Major obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+5142,Other Services,Small,No,No,No,Yes,Moderate obstacle,Moderate obstacle,Minor obstacle,100,0.0,0.0,Punjab,0.0
+5323,Retail,Medium,No,Yes,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Major obstacle,50,50.0,0.0,Khyber-Pakhtunkhwa,50.0
+5381,Retail,Medium,Yes,Yes,No,No,Minor obstacle,Moderate obstacle,Moderate obstacle,50,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+5430,Other Services,Medium,Yes,No,No,No,Moderate obstacle,Major obstacle,Minor obstacle,50,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+5451,Retail,Medium,Yes,Yes,No,No,Minor obstacle,Moderate obstacle,Minor obstacle,50,30.0,20.0,Khyber-Pakhtunkhwa,50.0
+5476,Retail,Medium,No,Yes,No,No,Very severe obstacle,Moderate obstacle,Major obstacle,50,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+5488,Other Services,Small,Yes,Yes,No,No,Moderate obstacle,Major obstacle,Major obstacle,30,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+5525,Retail,Medium,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+5643,Other Services,Medium,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Minor obstacle,50,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+5746,Retail,Medium,Yes,Yes,The establishment does not have an internet connection,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+5765,Retail,Medium,Yes,No,No,No,Minor obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+5802,Retail,Medium,Yes,Yes,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,Minor obstacle,50,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+5823,Retail,Medium,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+5851,Retail,Medium,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+5874,Retail,Medium,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+6074,Other Services,Small,No,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+6251,Hotels & Restaurants,Medium,Yes,Yes,Yes,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+6571,Other Services,Large,Yes,No,No,No,Major obstacle,Major obstacle,Very severe obstacle,80,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+6725,Other Services,Large,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+9410,Other Services,Small,Yes,No,No,No,Moderate obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+9417,Other Services,Medium,Don't know (spontaneous),Yes,No,No,Major obstacle,Moderate obstacle,Major obstacle,50,0.0,0.0,Punjab,0.0
+9602,Other Services,Small,Yes,No,No,No,Major obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+9687,Other Services,Small,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,30,50.0,0.0,Punjab,50.0
+11292,Other Services,Small,No,No,Yes,No,Moderate obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+11425,Hotels & Restaurants,Medium,No,No,No,No,Does not apply,Does not apply,Does not apply,0,0.0,0.0,Punjab,0.0
+11438,Hotels & Restaurants,Large,Yes,Yes,No,No,Minor obstacle,No obstacle,Minor obstacle,30,0.0,0.0,Punjab,0.0
+11641,Hotels & Restaurants,Medium,No,Yes,Yes,No,Minor obstacle,Very severe obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+11653,Hotels & Restaurants,Medium,No,No,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+11669,Hotels & Restaurants,Large,Yes,Yes,Yes,No,Minor obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+12057,Hotels & Restaurants,Small,Yes,No,No,No,Minor obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+12257,Hotels & Restaurants,Small,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+12293,Hotels & Restaurants,Small,No,Yes,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+12517,Hotels & Restaurants,Medium,No,Yes,No,No,Major obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+12557,Hotels & Restaurants,Small,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+12760,Hotels & Restaurants,Small,Yes,Yes,No,No,Very severe obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+12938,Hotels & Restaurants,Small,No,Yes,Yes,No,Very severe obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+13124,Retail,Small,Yes,Yes,No,No,No obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+13184,Other Services,Medium,No,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+13196,Other Services,Small,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,80,0.0,0.0,Balochistan,0.0
+13267,Other Services,Small,No,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,70,0.0,0.0,Sindh,0.0
+13311,Other Services,Small,No,No,Yes,Yes,Major obstacle,Minor obstacle,No obstacle,25,0.0,0.0,Sindh,0.0
+13697,Other Services,Small,No,Yes,No,No,Minor obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+13814,Other Services,Medium,No,Yes,No,No,Major obstacle,No obstacle,Minor obstacle,20,0.0,0.0,Sindh,0.0
+14342,Other Services,Large,No,No,No,No,Very severe obstacle,No obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+14696,Other Services,Large,No,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,60,0.0,0.0,Islamabad,0.0
+14818,Other Services,Large,No,Yes,No,Yes,Moderate obstacle,No obstacle,Major obstacle,0,0.0,0.0,Islamabad,0.0
+14826,Other Services,Medium,No,Yes,No,No,Very severe obstacle,Very severe obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+14942,Hotels & Restaurants,Large,No,Yes,No,No,Very severe obstacle,Very severe obstacle,Major obstacle,0,0.0,0.0,Islamabad,0.0
+15032,Retail,Small,No,No,No,No,Major obstacle,No obstacle,Very severe obstacle,0,0.0,0.0,Islamabad,0.0
+15075,Other Services,Large,Yes,Yes,No,No,Major obstacle,Major obstacle,Minor obstacle,0,0.0,100.0,Islamabad,100.0
+15272,Other Services,Large,No,Yes,Yes,No,Very severe obstacle,Very severe obstacle,Major obstacle,50,0.0,0.0,Islamabad,0.0
+15518,Retail,Small,No,Yes,No,No,Very severe obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+15530,Retail,Small,No,Yes,No,No,Very severe obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+15560,Retail,Small,No,Yes,The establishment does not have an internet connection,No,Major obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+15633,Other Services,Medium,No,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+15971,Other Services,Large,No,Yes,No,No,Major obstacle,No obstacle,Moderate obstacle,70,0.0,50.0,Islamabad,50.0
+16117,Hotels & Restaurants,Large,No,Yes,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+16149,Hotels & Restaurants,Large,No,Yes,No,No,Minor obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Sindh,0.0
+16200,Hotels & Restaurants,Small,Yes,Yes,Yes,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+16326,Hotels & Restaurants,Large,No,Yes,No,Yes,Moderate obstacle,Minor obstacle,No obstacle,30,0.0,0.0,Sindh,0.0
+16635,Other Services,Small,No,Yes,Yes,No,Very severe obstacle,Moderate obstacle,Major obstacle,20,0.0,100.0,Islamabad,100.0
+17887,Other Services,Small,Yes,Yes,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+18187,Other Services,Medium,Yes,Yes,Yes,No,Moderate obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Sindh,0.0
+18547,Other Services,Medium,Yes,Yes,No,No,Minor obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+18563,Other Services,Medium,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Balochistan,0.0
+18570,Other Services,Medium,No,No,Yes,No,Major obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Balochistan,0.0
+18580,Other Services,Medium,No,Yes,No,No,Very severe obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Balochistan,0.0
+18582,Other Services,Medium,No,No,No,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+18709,Other Services,Medium,Yes,No,No,No,Major obstacle,Minor obstacle,No obstacle,100,0.0,0.0,Balochistan,0.0
+18711,Other Services,Medium,No,No,No,No,Major obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+18713,Other Services,Medium,No,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+18714,Other Services,Medium,Yes,No,No,No,Major obstacle,No obstacle,Minor obstacle,100,0.0,0.0,Balochistan,0.0
+18716,Other Services,Medium,No,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+18723,Other Services,Medium,No,No,The establishment does not have an internet connection,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+18729,Other Services,Medium,No,No,No,No,Very severe obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+19029,Retail,Small,No,No,The establishment does not have an internet connection,No,Very severe obstacle,Minor obstacle,Major obstacle,0,0.0,0.0,Islamabad,0.0
+19125,Hotels & Restaurants,Medium,No,No,No,No,Don't know (spontaneous),Don't know (spontaneous),Don't know (spontaneous),0,0.0,0.0,Sindh,0.0
+19259,Retail,Small,No,No,The establishment does not have an internet connection,No,Minor obstacle,Moderate obstacle,Major obstacle,60,0.0,0.0,Islamabad,0.0
+19278,Hotels & Restaurants,Medium,No,No,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+19290,Hotels & Restaurants,Medium,Yes,Yes,Yes,Yes,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+19390,Other Services,Large,No,Yes,No,No,Major obstacle,Major obstacle,Moderate obstacle,30,0.0,0.0,Balochistan,0.0
+19395,Other Services,Large,Yes,No,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+19400,Other Services,Large,No,No,No,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+19424,Other Services,Large,No,No,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+19597,Other Services,Large,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+20653,Other Services,Large,No,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+20707,Other Services,Large,No,No,Yes,No,Major obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Balochistan,0.0
+21119,Other Services,Large,No,No,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+21815,Other Services,Medium,No,No,The establishment does not have an internet connection,No,Major obstacle,Minor obstacle,Minor obstacle,50,50.0,0.0,Sindh,50.0
+21874,Other Services,Small,No,Yes,Yes,Yes,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+22128,Other Services,Large,Yes,No,No,No,Moderate obstacle,Minor obstacle,No obstacle,100,0.0,0.0,Sindh,0.0
+22571,Other Services,Small,No,Yes,No,No,Moderate obstacle,Major obstacle,Major obstacle,0,25.0,0.0,Sindh,25.0
+22633,Other Services,Small,Yes,No,Yes,No,Very severe obstacle,Minor obstacle,Moderate obstacle,0,0.0,100.0,Sindh,100.0
+22656,Other Services,Small,No,No,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+22860,Other Services,Small,No,Yes,No,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+23015,Other Services,Small,No,No,Yes,No,No obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+23075,Hotels & Restaurants,Medium,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+23077,Hotels & Restaurants,Medium,No,Yes,Yes,No,Minor obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Balochistan,0.0
+23081,Hotels & Restaurants,Medium,Yes,No,Yes,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+23083,Hotels & Restaurants,Medium,Yes,No,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+23086,Hotels & Restaurants,Medium,No,No,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+23087,Hotels & Restaurants,Medium,Yes,Yes,Yes,No,No obstacle,No obstacle,No obstacle,Don't know (spontaneous),0.0,0.0,Balochistan,0.0
+23148,Hotels & Restaurants,Large,No,Yes,Yes,Yes,No obstacle,No obstacle,No obstacle,10,0.0,0.0,Islamabad,0.0
+23178,Hotels & Restaurants,Small,Yes,Yes,Yes,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+23257,Hotels & Restaurants,Medium,No,Yes,No,Yes,Moderate obstacle,Major obstacle,No obstacle,30,0.0,0.0,Islamabad,0.0
+23261,Hotels & Restaurants,Medium,No,Yes,No,No,Major obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+23277,Hotels & Restaurants,Small,Yes,Yes,No,No,Major obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+23285,Hotels & Restaurants,Medium,Yes,Yes,No,No,Very severe obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Islamabad,0.0
+23292,Hotels & Restaurants,Medium,No,Yes,Yes,No,Minor obstacle,Minor obstacle,Minor obstacle,20,0.0,0.0,Sindh,0.0
+23346,Hotels & Restaurants,Medium,No,Yes,No,No,Major obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+23362,Hotels & Restaurants,Small,No,Yes,No,Yes,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+23410,Hotels & Restaurants,Small,Yes,Yes,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+23465,Hotels & Restaurants,Small,Yes,Yes,The establishment does not have an internet connection,No,Major obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+23621,Hotels & Restaurants,Small,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+23701,Hotels & Restaurants,Medium,No,Yes,No,Don't know (spontaneous),Moderate obstacle,Moderate obstacle,Minor obstacle,40,0.0,0.0,Sindh,0.0
+23728,Hotels & Restaurants,Medium,No,Yes,No,Don't know (spontaneous),Major obstacle,No obstacle,No obstacle,30,0.0,0.0,Sindh,0.0
+23760,Hotels & Restaurants,Small,No,Yes,No,No,No obstacle,No obstacle,No obstacle,25,0.0,0.0,Sindh,0.0
+23779,Hotels & Restaurants,Medium,No,Yes,No,Don't know (spontaneous),No obstacle,No obstacle,No obstacle,40,0.0,0.0,Sindh,0.0
+23823,Hotels & Restaurants,Medium,No,Yes,No,Don't know (spontaneous),Moderate obstacle,No obstacle,No obstacle,10,0.0,0.0,Sindh,0.0
+24105,Other Services,Small,No,No,The establishment does not have an internet connection,No,Very severe obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+24236,Hotels & Restaurants,Medium,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+24350,Hotels & Restaurants,Medium,No,Yes,Yes,No,Moderate obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+24367,Hotels & Restaurants,Small,Yes,Yes,The establishment does not have an internet connection,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+24413,Hotels & Restaurants,Medium,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+24530,Hotels & Restaurants,Small,No,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Sindh,0.0
+24542,Hotels & Restaurants,Medium,No,Yes,No,No,Major obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Islamabad,0.0
+24606,Hotels & Restaurants,Medium,No,Yes,No,No,No obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+24611,Hotels & Restaurants,Medium,No,Yes,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,No obstacle,5,0.0,0.0,Islamabad,0.0
+24681,Hotels & Restaurants,Small,No,Yes,No,No,Moderate obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+24698,Hotels & Restaurants,Small,No,Yes,No,No,Very severe obstacle,No obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+24707,Hotels & Restaurants,Medium,No,No,The establishment does not have an internet connection,No,Major obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+24710,Hotels & Restaurants,Medium,No,Yes,No,No,Moderate obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+24753,Hotels & Restaurants,Small,No,Yes,No,Yes,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+24761,Hotels & Restaurants,Medium,Yes,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+24783,Hotels & Restaurants,Small,No,Yes,No,No,Very severe obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+24808,Hotels & Restaurants,Medium,Yes,No,No,No,Major obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+24812,Hotels & Restaurants,Small,No,Yes,No,No,No obstacle,No obstacle,No obstacle,70,0.0,0.0,Islamabad,0.0
+24913,Hotels & Restaurants,Small,No,Yes,No,No,Moderate obstacle,No obstacle,No obstacle,30,0.0,0.0,Sindh,0.0
+24919,Hotels & Restaurants,Small,No,Yes,The establishment does not have an internet connection,No,Major obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+24963,Hotels & Restaurants,Medium,No,Yes,No,No,Minor obstacle,Don't know (spontaneous),No obstacle,0,0.0,0.0,Balochistan,0.0
+25002,Hotels & Restaurants,Medium,No,Yes,No,No,Moderate obstacle,Major obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+25174,Hotels & Restaurants,Medium,No,No,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+25176,Hotels & Restaurants,Small,No,Yes,No,No,Very severe obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+25207,Hotels & Restaurants,Medium,No,Yes,No,No,Major obstacle,Very severe obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+25254,Hotels & Restaurants,Medium,Yes,Yes,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+25369,Retail,Small,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+25370,Retail,Small,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+25387,Retail,Small,No,Yes,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+25395,Retail,Medium,No,Yes,No,No,Very severe obstacle,Minor obstacle,No obstacle,30,0.0,0.0,Balochistan,0.0
+25402,Retail,Small,Yes,Yes,No,No,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+25413,Retail,Small,Yes,No,Yes,No,Very severe obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+25428,Other Services,Small,No,No,No,No,Very severe obstacle,No obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+25429,Other Services,Small,No,No,No,No,Major obstacle,Minor obstacle,Moderate obstacle,50,0.0,0.0,Balochistan,0.0
+25430,Retail,Small,No,Yes,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+25434,Retail,Small,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+25439,Retail,Small,No,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+25445,Retail,Medium,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+25446,Retail,Small,No,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+25451,Retail,Small,Yes,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+25456,Retail,Small,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+25466,Retail,Small,Yes,Don't know (spontaneous),The establishment does not have an internet connection,Don't know (spontaneous),Very severe obstacle,Minor obstacle,Major obstacle,0,0.0,0.0,Balochistan,0.0
+25477,Retail,Small,Yes,Yes,No,No,No obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+25479,Retail,Small,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+25497,Retail,Small,No,No,The establishment does not have an internet connection,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+25498,Retail,Small,Yes,No,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+25511,Retail,Small,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+25526,Retail,Small,Yes,No,The establishment does not have an internet connection,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+25538,Retail,Small,No,No,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+25609,Retail,Small,Yes,Yes,No,No,No obstacle,No obstacle,No obstacle,50,0.0,0.0,Balochistan,0.0
+25611,Retail,Small,No,Yes,No,No,No obstacle,No obstacle,No obstacle,40,0.0,0.0,Islamabad,0.0
+25623,Retail,Medium,No,Yes,No,Don't know (spontaneous),Does not apply,Does not apply,Does not apply,55,0.0,0.0,Sindh,0.0
+25652,Retail,Small,Yes,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+25809,Other Services,Small,Yes,No,Yes,No,Minor obstacle,Moderate obstacle,Minor obstacle,60,0.0,0.0,Punjab,0.0
+26120,Other Services,Small,No,No,Yes,No,Moderate obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+27215,Other Services,Small,Yes,Yes,Yes,Yes,Very severe obstacle,Minor obstacle,Major obstacle,40,0.0,0.0,Punjab,0.0
+27328,Retail,Small,No,No,No,No,Moderate obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+27464,Other Services,Medium,Yes,Yes,No,No,Moderate obstacle,Very severe obstacle,Major obstacle,30,0.0,50.0,Punjab,50.0
+27583,Retail,Small,No,No,Yes,No,Minor obstacle,Moderate obstacle,Minor obstacle,100,100.0,0.0,Punjab,100.0
+27586,Other Services,Small,Yes,Yes,Yes,Yes,Very severe obstacle,Very severe obstacle,Major obstacle,50,0.0,0.0,Punjab,0.0
+27900,Other Services,Small,Yes,No,No,No,Moderate obstacle,Moderate obstacle,No obstacle,100,0.0,0.0,Punjab,0.0
+28125,Retail,Small,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Very severe obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+29020,Other Services,Small,No,Yes,No,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+29054,Other Services,Small,No,No,No,No,Moderate obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+29218,Other Services,Small,Yes,Yes,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+29336,Hotels & Restaurants,Medium,No,Yes,No,No,Minor obstacle,No obstacle,No obstacle,30,0.0,0.0,Sindh,0.0
+29419,Retail,Large,Yes,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,20,0.0,0.0,Sindh,0.0
+29420,Retail,Medium,Yes,Yes,No,No,No obstacle,No obstacle,No obstacle,55,0.0,0.0,Sindh,0.0
+29421,Retail,Large,Yes,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,30,0.0,0.0,Sindh,0.0
+29429,Retail,Medium,Yes,Yes,No,Yes,No obstacle,No obstacle,No obstacle,30,0.0,0.0,Sindh,0.0
+29589,Retail,Small,Yes,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+29652,Retail,Small,Yes,No,No,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+29705,Retail,Small,Yes,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+29711,Retail,Small,No,Yes,No,No,Very severe obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+29782,Hotels & Restaurants,Small,No,Yes,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+29791,Hotels & Restaurants,Small,Yes,Yes,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+29848,Retail,Small,No,Yes,No,No,No obstacle,Minor obstacle,No obstacle,50,0.0,0.0,Balochistan,0.0
+29862,Retail,Small,No,No,No,No,Minor obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+29912,Retail,Small,No,Yes,The establishment does not have an internet connection,Yes,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+29952,Retail,Small,No,Yes,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+30082,Retail,Small,No,Yes,No,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+30118,Retail,Small,No,Yes,No,No,Moderate obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+30237,Retail,Large,No,Yes,No,Don't know (spontaneous),No obstacle,No obstacle,No obstacle,40,0.0,0.0,Sindh,0.0
+30521,Retail,Small,Yes,Yes,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+30848,Retail,Small,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+30872,Retail,Small,Yes,Yes,No,No,Major obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+31147,Retail,Small,Yes,Yes,No,No,Moderate obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+31300,Retail,Small,No,Yes,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31307,Retail,Small,Yes,Yes,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31308,Retail,Small,Yes,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31312,Retail,Small,No,Yes,No,No,No obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31316,Retail,Small,Yes,Yes,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31318,Retail,Small,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+31335,Retail,Small,No,No,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31338,Retail,Small,Yes,Yes,No,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31425,Retail,Small,No,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+31440,Retail,Small,No,Yes,No,No,Major obstacle,Minor obstacle,No obstacle,20,0.0,0.0,Sindh,0.0
+31469,Retail,Small,No,No,No,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31490,Retail,Medium,No,Yes,Yes,No,No obstacle,No obstacle,No obstacle,40,0.0,0.0,Sindh,0.0
+31497,Retail,Medium,Yes,Yes,No,No,No obstacle,No obstacle,Minor obstacle,15,0.0,0.0,Sindh,0.0
+31515,Hotels & Restaurants,Small,No,Yes,Yes,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31520,Hotels & Restaurants,Small,Yes,Yes,Yes,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31522,Hotels & Restaurants,Small,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+31524,Hotels & Restaurants,Small,Yes,Yes,Yes,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31530,Hotels & Restaurants,Small,Yes,No,Yes,No,Minor obstacle,No obstacle,No obstacle,Don't know (spontaneous),0.0,0.0,Balochistan,0.0
+31536,Hotels & Restaurants,Small,Yes,Yes,No,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31540,Hotels & Restaurants,Small,Yes,Yes,No,No,Very severe obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31548,Hotels & Restaurants,Small,Yes,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,10,0.0,0.0,Balochistan,0.0
+31550,Hotels & Restaurants,Small,Yes,Yes,Yes,No,Very severe obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31576,Hotels & Restaurants,Small,Yes,No,No,No,Very severe obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Balochistan,0.0
+31577,Hotels & Restaurants,Small,Yes,No,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31579,Hotels & Restaurants,Small,No,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31582,Hotels & Restaurants,Large,Yes,Yes,No,No,Major obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+31592,Hotels & Restaurants,Medium,Yes,Yes,No,No,Minor obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+31597,Hotels & Restaurants,Medium,Yes,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+31599,Hotels & Restaurants,Medium,Yes,Yes,No,No,Moderate obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+31668,Retail,Large,Yes,Yes,Yes,No,Very severe obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Islamabad,0.0
+31669,Retail,Large,No,No,No,No,Major obstacle,Moderate obstacle,Moderate obstacle,30,0.0,0.0,Punjab,0.0
+31695,Retail,Medium,No,Yes,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,No obstacle,10,0.0,0.0,Islamabad,0.0
+31696,Retail,Medium,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+31701,Retail,Medium,Yes,Yes,No,No,No obstacle,Minor obstacle,Minor obstacle,40,0.0,0.0,Punjab,0.0
+31703,Food,Medium,No,No,Yes,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31706,Food,Small,No,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+31710,Food,Small,No,No,No,Yes,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+31715,Food,Small,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+31726,Food,Small,Yes,Yes,The establishment does not have an internet connection,No,Moderate obstacle,Minor obstacle,No obstacle,2,0.0,0.0,Sindh,0.0
+31750,Food,Small,Yes,No,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+31753,Food,Medium,Yes,No,The establishment does not have an internet connection,No,No obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31756,Food,Medium,No,Yes,No,No,Moderate obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+31757,Food,Small,No,No,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+31767,Food,Medium,No,Yes,No,No,Major obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+31780,Food,Large,No,Yes,No,No,Very severe obstacle,No obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+31792,Food,Small,No,Yes,The establishment does not have an internet connection,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+31802,Food,Medium,No,No,The establishment does not have an internet connection,No,Very severe obstacle,Moderate obstacle,Very severe obstacle,0,0.0,0.0,Islamabad,0.0
+31804,Food,Small,Yes,No,No,No,Major obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+31810,Food,Medium,No,No,No,No,Minor obstacle,No obstacle,Major obstacle,0,0.0,0.0,Balochistan,0.0
+31817,Food,Medium,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+31823,Food,Small,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+31829,Food,Large,Yes,No,The establishment does not have an internet connection,No,Minor obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Balochistan,0.0
+31831,Food,Large,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,0,0.0,0.0,Islamabad,0.0
+31846,Food,Small,No,Yes,No,No,Moderate obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+31858,Food,Small,No,No,No,No,Very severe obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+31872,Food,Large,No,Yes,No,Yes,Major obstacle,Moderate obstacle,No obstacle,20,0.0,0.0,Balochistan,0.0
+31878,Food,Small,Yes,No,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+31881,Food,Medium,No,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31895,Food,Medium,Yes,Yes,Yes,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+31896,Food,Medium,No,Yes,No,No,Major obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+31908,Food,Medium,No,No,No,No,Very severe obstacle,No obstacle,Moderate obstacle,0,0.0,0.0,Sindh,0.0
+31915,Food,Large,No,Yes,No,No,Very severe obstacle,Major obstacle,Very severe obstacle,0,0.0,0.0,Islamabad,0.0
+31925,Food,Large,No,Yes,Yes,No,Major obstacle,No obstacle,No obstacle,60,0.0,0.0,Sindh,0.0
+31930,Food,Small,Yes,No,The establishment does not have an internet connection,No,Minor obstacle,Minor obstacle,No obstacle,0,40.0,0.0,Punjab,40.0
+31941,Food,Medium,No,No,No,No,Major obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Balochistan,0.0
+31943,Food,Medium,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+31947,Food,Small,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+31957,Food,Medium,No,No,No,No,Major obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Balochistan,0.0
+31984,Food,Large,No,Yes,No,No,Very severe obstacle,Very severe obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+31985,Food,Small,Yes,Yes,The establishment does not have an internet connection,No,Minor obstacle,Major obstacle,Moderate obstacle,0,0.0,60.0,Punjab,60.0
+32001,Food,Small,Yes,No,No,No,Major obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+32015,Food,Medium,No,No,No,No,Major obstacle,No obstacle,No obstacle,50,0.0,0.0,Sindh,0.0
+32028,Food,Medium,Yes,Yes,Yes,No,Major obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+32038,Food,Medium,No,No,The establishment does not have an internet connection,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+32039,Food,Small,Yes,No,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+32040,Food,Small,Yes,No,No,No,Moderate obstacle,Minor obstacle,Minor obstacle,0,100.0,0.0,Balochistan,100.0
+32044,Food,Medium,No,No,The establishment does not have an internet connection,No,Moderate obstacle,Very severe obstacle,Minor obstacle,0,0.0,0.0,Balochistan,0.0
+32055,Food,Large,No,Yes,No,No,Moderate obstacle,Very severe obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+32056,Food,Large,Yes,Yes,No,Yes,Very severe obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+32061,Food,Large,No,Yes,Yes,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+32064,Food,Small,No,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,Moderate obstacle,0,0.0,0.0,Sindh,0.0
+32072,Food,Small,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Don't know (spontaneous),Very severe obstacle,0,0.0,0.0,Punjab,0.0
+32078,Food,Small,Yes,Yes,No,No,Major obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+32104,Textiles,Medium,No,No,No,No,Moderate obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+32112,Textiles,Small,No,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+32120,Textiles,Large,No,Yes,No,Yes,Major obstacle,Moderate obstacle,Moderate obstacle,20,0.0,0.0,Punjab,0.0
+32126,Textiles,Large,Yes,Yes,No,No,Major obstacle,Minor obstacle,No obstacle,60,0.0,100.0,Balochistan,100.0
+32139,Textiles,Medium,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+32140,Textiles,Large,Yes,Yes,No,Yes,Minor obstacle,No obstacle,No obstacle,70,0.0,75.0,Sindh,75.0
+32144,Textiles,Small,No,Yes,No,No,Major obstacle,No obstacle,Moderate obstacle,0,0.0,0.0,Sindh,0.0
+32148,Textiles,Small,No,No,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+32153,Textiles,Small,Yes,Yes,No,No,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+32155,Textiles,Medium,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,0,0.0,100.0,Sindh,100.0
+32160,Textiles,Large,No,Yes,No,No,Major obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+32164,Textiles,Small,No,Yes,No,No,No obstacle,Minor obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+32165,Textiles,Small,Yes,No,No,No,Major obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+32184,Textiles,Small,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,30,0.0,0.0,Sindh,0.0
+32186,Textiles,Large,No,Yes,No,No,Very severe obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+32196,Textiles,Medium,No,No,No,No,Major obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Sindh,0.0
+32197,Textiles,Small,Yes,Yes,Yes,No,Very severe obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Islamabad,0.0
+32211,Textiles,Small,No,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+32214,Textiles,Large,No,No,No,No,Minor obstacle,No obstacle,Minor obstacle,0,30.0,30.0,Sindh,60.0
+32216,Textiles,Small,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+32220,Textiles,Small,No,No,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+32227,Textiles,Small,No,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+32244,Textiles,Large,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,20.0,0.0,Sindh,20.0
+32269,Textiles,Small,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+32280,Textiles,Large,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Major obstacle,40,0.0,100.0,Balochistan,100.0
+32281,Textiles,Large,No,Yes,No,No,Very severe obstacle,Minor obstacle,Very severe obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+32288,Textiles,Medium,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+32292,Textiles,Small,Yes,Yes,No,No,Moderate obstacle,Minor obstacle,No obstacle,50,100.0,0.0,Sindh,100.0
+32301,Textiles,Large,Yes,No,No,No,Major obstacle,Major obstacle,Minor obstacle,0,50.0,0.0,Punjab,50.0
+32323,Textiles,Small,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+32338,Textiles,Medium,Yes,No,No,No,Major obstacle,Major obstacle,Minor obstacle,0,0.0,100.0,Punjab,100.0
+32342,Textiles,Small,Yes,No,No,No,Major obstacle,Major obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+32358,Textiles,Large,No,Yes,Yes,Yes,Moderate obstacle,No obstacle,Moderate obstacle,60,0.0,60.0,Balochistan,60.0
+32376,Textiles,Medium,Yes,Yes,No,Don't know (spontaneous),Major obstacle,Major obstacle,No obstacle,100,0.0,80.0,Balochistan,80.0
+32379,Textiles,Small,No,No,The establishment does not have an internet connection,No,Major obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+32387,Textiles,Small,No,No,No,No,Very severe obstacle,Minor obstacle,Minor obstacle,0,20.0,0.0,Sindh,20.0
+32393,Textiles,Small,Yes,Yes,The establishment does not have an internet connection,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+32398,Textiles,Small,Yes,Yes,Yes,No,Moderate obstacle,Major obstacle,Moderate obstacle,50,40.0,0.0,Punjab,40.0
+32401,Textiles,Small,No,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+32403,Textiles,Small,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+32414,Textiles,Small,No,Yes,No,No,Very severe obstacle,No obstacle,Very severe obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+32428,Textiles,Medium,No,No,No,No,Minor obstacle,Major obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+32438,Garments,Large,No,Yes,No,No,Major obstacle,Major obstacle,Very severe obstacle,0,30.0,50.0,Punjab,80.0
+32457,Garments,Large,No,No,No,No,Moderate obstacle,No obstacle,Moderate obstacle,60,0.0,100.0,Sindh,100.0
+32479,Garments,Small,Yes,Yes,The establishment does not have an internet connection,No,Major obstacle,Major obstacle,Minor obstacle,0,100.0,0.0,Punjab,100.0
+32484,Garments,Large,No,Yes,No,No,Major obstacle,Minor obstacle,No obstacle,50,50.0,50.0,Sindh,100.0
+32512,Garments,Large,Yes,Yes,No,Yes,Moderate obstacle,Moderate obstacle,Major obstacle,20,0.0,30.0,Punjab,30.0
+32514,Garments,Large,No,No,No,No,Major obstacle,Moderate obstacle,Major obstacle,0,50.0,0.0,Punjab,50.0
+32516,Garments,Small,No,Yes,The establishment does not have an internet connection,No,Major obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Islamabad,0.0
+32530,Garments,Large,No,Yes,No,Yes,Major obstacle,No obstacle,No obstacle,50,0.0,100.0,Sindh,100.0
+32553,Garments,Large,No,Yes,No,Yes,Major obstacle,No obstacle,No obstacle,0,0.0,100.0,Sindh,100.0
+32557,Garments,Medium,No,No,No,No,Very severe obstacle,Very severe obstacle,No obstacle,60,0.0,40.0,Sindh,40.0
+32567,Garments,Medium,No,Yes,Yes,No,Very severe obstacle,Very severe obstacle,Major obstacle,0,40.0,60.0,Punjab,100.0
+32569,Garments,Medium,Yes,No,No,No,Very severe obstacle,Major obstacle,Major obstacle,60,0.0,100.0,Sindh,100.0
+32575,Garments,Large,Yes,Yes,No,No,Major obstacle,Major obstacle,Minor obstacle,0,0.0,70.0,Punjab,70.0
+32584,Garments,Large,No,Yes,No,Yes,Moderate obstacle,No obstacle,Minor obstacle,0,0.0,60.0,Sindh,60.0
+32601,Garments,Large,Yes,Yes,No,Yes,Moderate obstacle,Moderate obstacle,No obstacle,10,0.0,100.0,Punjab,100.0
+32608,Garments,Medium,Don't know (spontaneous),Yes,No,No,Moderate obstacle,Very severe obstacle,Major obstacle,0,40.0,0.0,Punjab,40.0
+32611,Garments,Large,No,Yes,No,Yes,Very severe obstacle,Major obstacle,No obstacle,50,0.0,100.0,Sindh,100.0
+32618,Garments,Large,No,Yes,No,No,Major obstacle,No obstacle,Minor obstacle,0,0.0,100.0,Sindh,100.0
+32632,Garments,Medium,No,No,No,No,Major obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+32633,Garments,Small,Yes,No,Yes,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+32635,Garments,Large,Yes,Yes,Yes,No,Major obstacle,Don't know (spontaneous),Major obstacle,0,40.0,0.0,Punjab,40.0
+32658,Garments,Medium,Yes,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,15.0,80.0,Sindh,95.0
+32663,Garments,Small,No,No,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+32668,Garments,Large,No,Yes,No,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,0,30.0,40.0,Punjab,70.0
+32671,Garments,Large,No,No,No,No,Moderate obstacle,Moderate obstacle,Major obstacle,40,50.0,0.0,Punjab,50.0
+32672,Garments,Small,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,0,40.0,60.0,Punjab,100.0
+32678,Garments,Large,No,Yes,No,No,Very severe obstacle,No obstacle,Minor obstacle,0,40.0,0.0,Sindh,40.0
+32679,Garments,Medium,No,No,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+32681,Garments,Large,No,Yes,No,No,Moderate obstacle,Minor obstacle,No obstacle,40,0.0,0.0,Sindh,0.0
+32682,Garments,Small,No,Yes,Yes,No,Very severe obstacle,Minor obstacle,Minor obstacle,0,40.0,40.0,Punjab,80.0
+32694,Garments,Large,No,Yes,No,Yes,Moderate obstacle,No obstacle,No obstacle,0,0.0,100.0,Sindh,100.0
+32700,Garments,Large,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,100.0,Punjab,100.0
+32720,Garments,Medium,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+32733,Garments,Large,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Major obstacle,Moderate obstacle,0,15.0,35.0,Punjab,50.0
+32740,Garments,Medium,No,No,No,No,Major obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+32749,Garments,Large,Yes,Yes,No,No,Very severe obstacle,Very severe obstacle,Minor obstacle,0,50.0,50.0,Punjab,100.0
+32751,Garments,Large,Yes,No,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,20,0.0,100.0,Punjab,100.0
+32760,Garments,Medium,No,Yes,No,No,Very severe obstacle,Very severe obstacle,Major obstacle,0,30.0,70.0,Punjab,100.0
+32766,Garments,Large,No,Yes,No,Yes,Major obstacle,No obstacle,Major obstacle,40,0.0,100.0,Sindh,100.0
+32770,Garments,Large,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,50,0.0,60.0,Sindh,60.0
+32773,Garments,Large,No,Yes,No,No,Minor obstacle,Minor obstacle,Minor obstacle,10,0.0,100.0,Punjab,100.0
+32777,Garments,Large,No,No,No,Yes,Moderate obstacle,Minor obstacle,No obstacle,0,40.0,0.0,Sindh,40.0
+32782,Garments,Large,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+32798,Garments,Small,Yes,Yes,No,No,Moderate obstacle,No obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+32809,Chemicals & Chemical Products,Medium,Don't know (spontaneous),Yes,Yes,No,Major obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+32817,Chemicals & Chemical Products,Large,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,No obstacle,20,0.0,0.0,Punjab,0.0
+32821,Chemicals & Chemical Products,Large,Yes,Yes,Yes,No,Major obstacle,Very severe obstacle,Major obstacle,0,50.0,0.0,Punjab,50.0
+32829,Chemicals & Chemical Products,Large,Yes,Yes,Yes,No,Minor obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+32845,Chemicals & Chemical Products,Large,No,Yes,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+32850,Chemicals & Chemical Products,Medium,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+32856,Chemicals & Chemical Products,Small,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+32859,Chemicals & Chemical Products,Medium,Yes,Yes,Yes,No,Major obstacle,Major obstacle,Major obstacle,20,0.0,50.0,Punjab,50.0
+32868,Chemicals & Chemical Products,Large,Yes,Yes,No,No,Very severe obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+32893,Chemicals & Chemical Products,Large,No,Yes,No,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,30,0.0,0.0,Punjab,0.0
+32897,Chemicals & Chemical Products,Medium,No,Yes,No,No,Major obstacle,Moderate obstacle,Very severe obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+32901,Chemicals & Chemical Products,Large,Yes,Yes,Yes,No,Very severe obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+32903,Chemicals & Chemical Products,Small,No,Yes,No,No,Moderate obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+32904,Chemicals & Chemical Products,Large,Yes,Yes,Yes,No,Moderate obstacle,Major obstacle,Moderate obstacle,0,0.0,60.0,Punjab,60.0
+32910,Chemicals & Chemical Products,Small,No,No,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+32914,Chemicals & Chemical Products,Large,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,No obstacle,30,0.0,0.0,Punjab,0.0
+32916,Chemicals & Chemical Products,Large,No,Yes,No,Yes,Major obstacle,Minor obstacle,Minor obstacle,50,0.0,0.0,Balochistan,0.0
+32923,Chemicals & Chemical Products,Large,Yes,Yes,No,No,Moderate obstacle,Major obstacle,Minor obstacle,0,20.0,0.0,Punjab,20.0
+32929,Chemicals & Chemical Products,Large,No,Yes,No,No,Very severe obstacle,Very severe obstacle,Major obstacle,60,0.0,0.0,Punjab,0.0
+32938,Chemicals & Chemical Products,Small,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+32948,Chemicals & Chemical Products,Medium,Yes,Yes,No,No,Major obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+32949,Chemicals & Chemical Products,Medium,Yes,Yes,No,No,Very severe obstacle,Major obstacle,Minor obstacle,0,0.0,30.0,Punjab,30.0
+32952,Chemicals & Chemical Products,Small,No,Yes,Yes,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+32955,Chemicals & Chemical Products,Medium,Yes,Yes,No,No,Moderate obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+32957,Chemicals & Chemical Products,Medium,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+32958,Chemicals & Chemical Products,Large,Yes,Yes,Yes,No,Moderate obstacle,Moderate obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+32959,Chemicals & Chemical Products,Medium,Yes,Yes,No,No,Very severe obstacle,Very severe obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+32962,Chemicals & Chemical Products,Small,Yes,No,Yes,No,Moderate obstacle,Very severe obstacle,Major obstacle,0,50.0,0.0,Punjab,50.0
+32967,Chemicals & Chemical Products,Medium,No,No,No,No,Major obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+32968,Chemicals & Chemical Products,Large,No,Yes,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+32973,Chemicals & Chemical Products,Small,Yes,Yes,No,No,Does not apply,Major obstacle,Don't know (spontaneous),0,0.0,0.0,Punjab,0.0
+32983,Chemicals & Chemical Products,Large,No,Yes,No,No,Moderate obstacle,Very severe obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+32984,Chemicals & Chemical Products,Small,No,Yes,The establishment does not have an internet connection,No,Major obstacle,Very severe obstacle,Very severe obstacle,0,0.0,0.0,Islamabad,0.0
+32988,Chemicals & Chemical Products,Medium,No,Yes,Yes,No,No obstacle,No obstacle,No obstacle,80,20.0,20.0,Sindh,40.0
+32990,Chemicals & Chemical Products,Medium,No,Yes,Yes,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,30,0.0,0.0,Punjab,0.0
+32993,Chemicals & Chemical Products,Small,No,Yes,No,No,Moderate obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+32994,Chemicals & Chemical Products,Large,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,Major obstacle,0,30.0,0.0,Punjab,30.0
+33009,Chemicals & Chemical Products,Medium,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,30,50.0,0.0,Punjab,50.0
+33025,Chemicals & Chemical Products,Medium,Don't know (spontaneous),Yes,Yes,No,Major obstacle,Major obstacle,Very severe obstacle,0,0.0,40.0,Punjab,40.0
+33033,Chemicals & Chemical Products,Large,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33035,Chemicals & Chemical Products,Medium,No,No,The establishment does not have an internet connection,No,Very severe obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33037,Chemicals & Chemical Products,Medium,Yes,Yes,No,Yes,Major obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33051,Chemicals & Chemical Products,Medium,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33064,Chemicals & Chemical Products,Small,Yes,No,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,50,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33068,Chemicals & Chemical Products,Medium,Yes,Yes,No,No,Moderate obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33070,Chemicals & Chemical Products,Large,Yes,Yes,No,No,Moderate obstacle,Major obstacle,Minor obstacle,0,0.0,50.0,Punjab,50.0
+33071,Chemicals & Chemical Products,Large,No,Yes,No,No,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33072,Chemicals & Chemical Products,Large,Yes,Yes,No,No,Major obstacle,Major obstacle,Major obstacle,20,0.0,50.0,Punjab,50.0
+33075,Chemicals & Chemical Products,Medium,Yes,No,No,No,Major obstacle,Major obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33079,Chemicals & Chemical Products,Large,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33081,Chemicals & Chemical Products,Large,No,Yes,No,No,Very severe obstacle,Minor obstacle,Very severe obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33086,Chemicals & Chemical Products,Large,No,Yes,No,Yes,Minor obstacle,Minor obstacle,Minor obstacle,95,100.0,0.0,Punjab,100.0
+33092,Chemicals & Chemical Products,Medium,Yes,Yes,No,No,Moderate obstacle,Major obstacle,Moderate obstacle,20,40.0,0.0,Punjab,40.0
+33095,Chemicals & Chemical Products,Medium,Yes,Yes,No,No,Major obstacle,Major obstacle,No obstacle,0,0.0,50.0,Punjab,50.0
+33097,Chemicals & Chemical Products,Large,No,No,No,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,40,0.0,50.0,Khyber-Pakhtunkhwa,50.0
+33103,Chemicals & Chemical Products,Large,Yes,Yes,No,Yes,Minor obstacle,Minor obstacle,Minor obstacle,95,100.0,0.0,Punjab,100.0
+33119,Chemicals & Chemical Products,Large,No,No,Yes,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33122,Chemicals & Chemical Products,Large,Yes,No,Yes,Yes,Major obstacle,Major obstacle,Moderate obstacle,30,0.0,40.0,Punjab,40.0
+33130,Chemicals & Chemical Products,Large,No,Yes,No,No,Major obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33141,Chemicals & Chemical Products,Medium,Yes,No,No,No,Very severe obstacle,Major obstacle,No obstacle,40,0.0,0.0,Sindh,0.0
+33152,Non-Metallic Mineral Products,Small,Yes,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+33155,Non-Metallic Mineral Products,Medium,No,No,Yes,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+33157,Non-Metallic Mineral Products,Large,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33158,Non-Metallic Mineral Products,Large,No,No,No,No,No obstacle,No obstacle,No obstacle,0,60.0,0.0,Balochistan,60.0
+33174,Non-Metallic Mineral Products,Large,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,Don't know (spontaneous),0.0,0.0,Sindh,0.0
+33190,Non-Metallic Mineral Products,Small,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Minor obstacle,Major obstacle,10,0.0,0.0,Islamabad,0.0
+33194,Non-Metallic Mineral Products,Small,No,No,The establishment does not have an internet connection,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Sindh,0.0
+33196,Non-Metallic Mineral Products,Medium,No,No,No,Don't know (spontaneous),Major obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Balochistan,0.0
+33214,Non-Metallic Mineral Products,Medium,Yes,No,No,No,Minor obstacle,Very severe obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33216,Non-Metallic Mineral Products,Small,Yes,No,The establishment does not have an internet connection,No,Minor obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33222,Non-Metallic Mineral Products,Large,No,Yes,Yes,No,Very severe obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33223,Non-Metallic Mineral Products,Medium,No,No,The establishment does not have an internet connection,No,Major obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+33224,Non-Metallic Mineral Products,Medium,No,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Very severe obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33227,Non-Metallic Mineral Products,Medium,Yes,Yes,No,No,Moderate obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33243,Non-Metallic Mineral Products,Large,No,Yes,No,No,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Sindh,0.0
+33245,Non-Metallic Mineral Products,Medium,Yes,No,The establishment does not have an internet connection,No,Minor obstacle,Moderate obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+33246,Non-Metallic Mineral Products,Large,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33257,Non-Metallic Mineral Products,Medium,Yes,Yes,The establishment does not have an internet connection,No,Major obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33263,Non-Metallic Mineral Products,Medium,Yes,Yes,Yes,No,Very severe obstacle,Major obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+33269,Non-Metallic Mineral Products,Large,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,Very severe obstacle,0,0.0,0.0,Islamabad,0.0
+33271,Non-Metallic Mineral Products,Medium,Yes,No,No,No,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33277,Non-Metallic Mineral Products,Large,Yes,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33283,Non-Metallic Mineral Products,Medium,No,No,Yes,No,Moderate obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Sindh,0.0
+33288,Non-Metallic Mineral Products,Large,No,Yes,Yes,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,50.0,Sindh,50.0
+33292,Non-Metallic Mineral Products,Medium,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33293,Non-Metallic Mineral Products,Small,No,No,No,No,Minor obstacle,No obstacle,Major obstacle,0,0.0,0.0,Balochistan,0.0
+33294,Non-Metallic Mineral Products,Large,No,No,No,No,Moderate obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+33300,Non-Metallic Mineral Products,Small,No,No,The establishment does not have an internet connection,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33306,Non-Metallic Mineral Products,Medium,No,No,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+33315,Non-Metallic Mineral Products,Medium,No,Yes,The establishment does not have an internet connection,No,Major obstacle,No obstacle,Very severe obstacle,0,0.0,0.0,Islamabad,0.0
+33318,Non-Metallic Mineral Products,Large,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33325,Non-Metallic Mineral Products,Large,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33327,Non-Metallic Mineral Products,Large,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33330,Non-Metallic Mineral Products,Small,Yes,No,No,No,Minor obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33333,Non-Metallic Mineral Products,Large,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33339,Non-Metallic Mineral Products,Large,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33343,Non-Metallic Mineral Products,Large,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33354,Non-Metallic Mineral Products,Small,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Very severe obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+33357,Non-Metallic Mineral Products,Medium,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Very severe obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33359,Non-Metallic Mineral Products,Large,No,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+33362,Non-Metallic Mineral Products,Medium,No,Yes,No,No,Very severe obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33364,Non-Metallic Mineral Products,Medium,Yes,Yes,The establishment does not have an internet connection,No,Minor obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33369,Non-Metallic Mineral Products,Large,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33382,Non-Metallic Mineral Products,Medium,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33391,Non-Metallic Mineral Products,Medium,No,No,No,No,Very severe obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+33392,Non-Metallic Mineral Products,Large,No,No,The establishment does not have an internet connection,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33393,Non-Metallic Mineral Products,Small,Yes,No,The establishment does not have an internet connection,No,No obstacle,Minor obstacle,Moderate obstacle,100,0.0,0.0,Balochistan,0.0
+33398,Non-Metallic Mineral Products,Large,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Minor obstacle,Major obstacle,0,60.0,0.0,Khyber-Pakhtunkhwa,60.0
+33402,Non-Metallic Mineral Products,Large,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33404,Non-Metallic Mineral Products,Medium,Yes,No,No,No,Major obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Punjab,0.0
+33406,Non-Metallic Mineral Products,Medium,No,No,The establishment does not have an internet connection,No,Major obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+33409,Non-Metallic Mineral Products,Large,No,No,The establishment does not have an internet connection,No,Major obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Sindh,0.0
+33413,Non-Metallic Mineral Products,Medium,Don't know (spontaneous),Yes,The establishment does not have an internet connection,No,Major obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33414,Non-Metallic Mineral Products,Large,No,No,The establishment does not have an internet connection,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Sindh,0.0
+33418,Non-Metallic Mineral Products,Large,Yes,Yes,No,No,Major obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33423,Non-Metallic Mineral Products,Medium,No,No,No,No,Very severe obstacle,Major obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+33427,Non-Metallic Mineral Products,Large,No,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,Major obstacle,0,0.0,0.0,Sindh,0.0
+33429,Non-Metallic Mineral Products,Large,No,Yes,No,Don't know (spontaneous),No obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+33433,Non-Metallic Mineral Products,Medium,Yes,No,The establishment does not have an internet connection,No,Very severe obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33434,Non-Metallic Mineral Products,Small,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33447,Non-Metallic Mineral Products,Small,Yes,No,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,70.0,0.0,Balochistan,70.0
+33454,Non-Metallic Mineral Products,Medium,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+33461,Non-Metallic Mineral Products,Medium,Yes,Yes,The establishment does not have an internet connection,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33469,Non-Metallic Mineral Products,Small,Yes,No,No,No,No obstacle,No obstacle,No obstacle,100,0.0,0.0,Sindh,0.0
+33471,Non-Metallic Mineral Products,Medium,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Moderate obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+33478,Non-Metallic Mineral Products,Large,No,No,The establishment does not have an internet connection,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33496,Non-Metallic Mineral Products,Large,No,No,The establishment does not have an internet connection,No,Major obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33498,Non-Metallic Mineral Products,Small,No,No,The establishment does not have an internet connection,No,Very severe obstacle,Major obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+33500,Motor Vehicles & Transport Equip.,Small,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Very severe obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33502,Motor Vehicles & Transport Equip.,Large,Don't know (spontaneous),Yes,No,No,Moderate obstacle,Very severe obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33508,Motor Vehicles & Transport Equip.,Small,No,No,The establishment does not have an internet connection,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33517,Motor Vehicles & Transport Equip.,Small,Yes,No,Yes,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33523,Motor Vehicles & Transport Equip.,Small,No,Yes,No,No,Major obstacle,Major obstacle,No obstacle,80,0.0,0.0,Sindh,0.0
+33529,Motor Vehicles & Transport Equip.,Medium,Don't know (spontaneous),Yes,Yes,No,Major obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+33534,Motor Vehicles & Transport Equip.,Small,Yes,Yes,Yes,No,Major obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33536,Motor Vehicles & Transport Equip.,Large,Yes,Yes,No,No,Very severe obstacle,Major obstacle,Minor obstacle,50,0.0,0.0,Punjab,0.0
+33541,Motor Vehicles & Transport Equip.,Small,No,No,No,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33545,Motor Vehicles & Transport Equip.,Small,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Very severe obstacle,Major obstacle,50,0.0,0.0,Punjab,0.0
+33548,Motor Vehicles & Transport Equip.,Small,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+33559,Motor Vehicles & Transport Equip.,Small,No,Yes,No,No,Don't know (spontaneous),Moderate obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+33560,Motor Vehicles & Transport Equip.,Small,Yes,No,No,No,Minor obstacle,No obstacle,No obstacle,40,0.0,0.0,Punjab,0.0
+33563,Motor Vehicles & Transport Equip.,Small,Yes,No,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33565,Motor Vehicles & Transport Equip.,Large,Yes,Yes,Yes,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,0,0.0,20.0,Punjab,20.0
+33578,Motor Vehicles & Transport Equip.,Small,Yes,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+33580,Motor Vehicles & Transport Equip.,Medium,Yes,Yes,Yes,No,Moderate obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33581,Motor Vehicles & Transport Equip.,Large,No,Yes,Yes,No,Very severe obstacle,Minor obstacle,Very severe obstacle,25,0.0,0.0,Punjab,0.0
+33584,Motor Vehicles & Transport Equip.,Small,Yes,Yes,No,Yes,Major obstacle,Moderate obstacle,Moderate obstacle,60,20.0,60.0,Punjab,80.0
+33586,Motor Vehicles & Transport Equip.,Small,Yes,Yes,Yes,No,Moderate obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33588,Motor Vehicles & Transport Equip.,Large,Yes,Yes,No,No,Very severe obstacle,Major obstacle,Very severe obstacle,30,0.0,0.0,Punjab,0.0
+33589,Motor Vehicles & Transport Equip.,Small,No,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,50,0.0,0.0,Sindh,0.0
+33590,Motor Vehicles & Transport Equip.,Small,Don't know (spontaneous),Yes,No,No,Moderate obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33591,Motor Vehicles & Transport Equip.,Small,Yes,Yes,No,No,Very severe obstacle,Don't know (spontaneous),Very severe obstacle,60,0.0,0.0,Punjab,0.0
+33592,Motor Vehicles & Transport Equip.,Medium,Yes,Yes,No,No,Moderate obstacle,No obstacle,No obstacle,60,0.0,0.0,Punjab,0.0
+33597,Motor Vehicles & Transport Equip.,Medium,Yes,Yes,Yes,No,Very severe obstacle,Very severe obstacle,Major obstacle,0,0.0,50.0,Punjab,50.0
+33599,Motor Vehicles & Transport Equip.,Small,No,No,No,No,Minor obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33600,Motor Vehicles & Transport Equip.,Large,Yes,Yes,Yes,No,Moderate obstacle,Very severe obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+33603,Motor Vehicles & Transport Equip.,Small,Yes,Yes,The establishment does not have an internet connection,No,Moderate obstacle,Very severe obstacle,Minor obstacle,10,0.0,0.0,Punjab,0.0
+33608,Motor Vehicles & Transport Equip.,Small,Yes,Yes,No,Yes,Major obstacle,Major obstacle,Minor obstacle,0,50.0,0.0,Punjab,50.0
+33610,Motor Vehicles & Transport Equip.,Large,No,Yes,Yes,Yes,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+33611,Motor Vehicles & Transport Equip.,Small,Yes,Yes,Yes,No,Major obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33614,Motor Vehicles & Transport Equip.,Small,Yes,No,Yes,No,Minor obstacle,No obstacle,No obstacle,60,0.0,0.0,Punjab,0.0
+33616,Motor Vehicles & Transport Equip.,Large,Yes,Yes,Yes,Yes,Major obstacle,No obstacle,Very severe obstacle,50,0.0,0.0,Punjab,0.0
+33626,Motor Vehicles & Transport Equip.,Small,Yes,Yes,No,No,Does not apply,Does not apply,Does not apply,0,0.0,70.0,Punjab,70.0
+33627,Motor Vehicles & Transport Equip.,Medium,Yes,Yes,No,No,Major obstacle,Don't know (spontaneous),Major obstacle,60,0.0,0.0,Punjab,0.0
+33632,Motor Vehicles & Transport Equip.,Large,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,Major obstacle,40,0.0,0.0,Punjab,0.0
+33635,Motor Vehicles & Transport Equip.,Small,Yes,No,No,No,Minor obstacle,No obstacle,Minor obstacle,60,0.0,0.0,Punjab,0.0
+33638,Motor Vehicles & Transport Equip.,Large,No,Yes,No,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,50,0.0,0.0,Punjab,0.0
+33639,Motor Vehicles & Transport Equip.,Small,Yes,Yes,No,No,Minor obstacle,Minor obstacle,Major obstacle,0,0.0,50.0,Punjab,50.0
+33663,Motor Vehicles & Transport Equip.,Small,No,Yes,No,No,Minor obstacle,Moderate obstacle,Moderate obstacle,100,0.0,100.0,Khyber-Pakhtunkhwa,100.0
+33664,Motor Vehicles & Transport Equip.,Small,Yes,Yes,No,No,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33669,Motor Vehicles & Transport Equip.,Small,Yes,Yes,The establishment does not have an internet connection,No,Minor obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33671,Motor Vehicles & Transport Equip.,Small,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+33675,Motor Vehicles & Transport Equip.,Large,No,Yes,No,No,Moderate obstacle,No obstacle,No obstacle,50,0.0,0.0,Balochistan,0.0
+33680,Motor Vehicles & Transport Equip.,Small,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,50.0,0.0,Punjab,50.0
+33681,Motor Vehicles & Transport Equip.,Small,Yes,Yes,No,No,Major obstacle,Minor obstacle,Don't know (spontaneous),0,0.0,0.0,Punjab,0.0
+33683,Motor Vehicles & Transport Equip.,Medium,No,Yes,No,No,Moderate obstacle,Does not apply,No obstacle,0,0.0,0.0,Punjab,0.0
+33685,Motor Vehicles & Transport Equip.,Medium,No,Yes,No,No,Moderate obstacle,Minor obstacle,Minor obstacle,60,0.0,0.0,Sindh,0.0
+33687,Motor Vehicles & Transport Equip.,Small,Yes,Yes,Yes,No,Major obstacle,Minor obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33688,Motor Vehicles & Transport Equip.,Large,Yes,Yes,No,Yes,Major obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33691,Motor Vehicles & Transport Equip.,Small,Yes,Yes,No,No,Major obstacle,Major obstacle,Moderate obstacle,0,40.0,0.0,Punjab,40.0
+33698,Motor Vehicles & Transport Equip.,Small,Yes,No,Yes,Yes,Very severe obstacle,Very severe obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33700,Motor Vehicles & Transport Equip.,Medium,No,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,40,0.0,0.0,Sindh,0.0
+33701,Motor Vehicles & Transport Equip.,Small,Yes,Yes,No,No,Don't know (spontaneous),Moderate obstacle,Don't know (spontaneous),0,0.0,40.0,Punjab,40.0
+33705,Motor Vehicles & Transport Equip.,Medium,No,Yes,Yes,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33708,Motor Vehicles & Transport Equip.,Small,No,Yes,No,No,Very severe obstacle,Moderate obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+33709,Motor Vehicles & Transport Equip.,Small,No,No,The establishment does not have an internet connection,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33710,Motor Vehicles & Transport Equip.,Medium,Yes,Yes,Yes,No,Major obstacle,Moderate obstacle,Moderate obstacle,40,50.0,0.0,Punjab,50.0
+33712,Motor Vehicles & Transport Equip.,Medium,Yes,Yes,No,No,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33713,Motor Vehicles & Transport Equip.,Small,No,No,The establishment does not have an internet connection,No,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33716,Motor Vehicles & Transport Equip.,Medium,No,No,No,No,Moderate obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+33717,Motor Vehicles & Transport Equip.,Large,No,Yes,No,No,Major obstacle,Moderate obstacle,Don't know (spontaneous),70,0.0,0.0,Punjab,0.0
+33718,Motor Vehicles & Transport Equip.,Small,Yes,Yes,Yes,No,Don't know (spontaneous),Very severe obstacle,Don't know (spontaneous),0,0.0,0.0,Punjab,0.0
+33723,Motor Vehicles & Transport Equip.,Large,Yes,Yes,No,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+33728,Motor Vehicles & Transport Equip.,Small,No,No,No,No,Very severe obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Sindh,0.0
+33738,Motor Vehicles & Transport Equip.,Medium,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,30,0.0,0.0,Balochistan,0.0
+33743,Motor Vehicles & Transport Equip.,Medium,Yes,Yes,No,No,Major obstacle,Very severe obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33750,Motor Vehicles & Transport Equip.,Medium,Yes,Yes,No,No,Very severe obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33752,Motor Vehicles & Transport Equip.,Small,Yes,Yes,No,Yes,Very severe obstacle,Very severe obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33758,Motor Vehicles & Transport Equip.,Small,Yes,Yes,No,No,Major obstacle,Very severe obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33759,Motor Vehicles & Transport Equip.,Small,No,No,Yes,No,Moderate obstacle,Major obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+33762,Motor Vehicles & Transport Equip.,Medium,Yes,No,No,No,Minor obstacle,Moderate obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33765,Motor Vehicles & Transport Equip.,Medium,Yes,Yes,No,No,Major obstacle,Very severe obstacle,Moderate obstacle,0,0.0,70.0,Punjab,70.0
+33767,Motor Vehicles & Transport Equip.,Medium,Yes,Yes,No,No,Major obstacle,Very severe obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33770,Motor Vehicles & Transport Equip.,Small,No,No,The establishment does not have an internet connection,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,0,40.0,0.0,Punjab,40.0
+33779,Motor Vehicles & Transport Equip.,Medium,Yes,Yes,No,No,Major obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33784,Motor Vehicles & Transport Equip.,Small,Yes,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,50,20.0,60.0,Punjab,80.0
+33786,Motor Vehicles & Transport Equip.,Small,Yes,Yes,No,No,Major obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33791,Motor Vehicles & Transport Equip.,Small,No,No,No,No,No obstacle,No obstacle,No obstacle,50,0.0,0.0,Sindh,0.0
+33797,Motor Vehicles & Transport Equip.,Large,No,Yes,No,No,Very severe obstacle,Very severe obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+33798,Motor Vehicles & Transport Equip.,Small,No,Yes,Yes,No,Very severe obstacle,Major obstacle,Very severe obstacle,70,0.0,100.0,Punjab,100.0
+33799,Motor Vehicles & Transport Equip.,Large,Yes,Yes,No,No,Major obstacle,Very severe obstacle,Don't know (spontaneous),0,0.0,0.0,Punjab,0.0
+33803,Motor Vehicles & Transport Equip.,Large,Yes,No,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,30,0.0,50.0,Punjab,50.0
+33804,Motor Vehicles & Transport Equip.,Small,Yes,No,No,No,Major obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33810,Motor Vehicles & Transport Equip.,Large,Yes,Yes,No,No,Major obstacle,Major obstacle,Very severe obstacle,0,50.0,0.0,Punjab,50.0
+33814,Motor Vehicles & Transport Equip.,Large,No,Yes,No,No,Very severe obstacle,Moderate obstacle,Moderate obstacle,30,20.0,30.0,Punjab,50.0
+33816,Motor Vehicles & Transport Equip.,Medium,No,Yes,Yes,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+33825,Motor Vehicles & Transport Equip.,Large,No,Yes,No,Yes,Very severe obstacle,No obstacle,No obstacle,30,0.0,0.0,Sindh,0.0
+33826,Motor Vehicles & Transport Equip.,Medium,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+33830,Motor Vehicles & Transport Equip.,Medium,Yes,Yes,No,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,40,0.0,40.0,Punjab,40.0
+33840,Motor Vehicles & Transport Equip.,Large,Yes,Yes,Yes,No,Very severe obstacle,Moderate obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+33844,Motor Vehicles & Transport Equip.,Medium,No,Yes,Yes,No,Very severe obstacle,Major obstacle,Major obstacle,70,0.0,0.0,Punjab,0.0
+33845,Motor Vehicles & Transport Equip.,Large,Yes,Yes,No,No,Major obstacle,Major obstacle,Moderate obstacle,0,40.0,0.0,Punjab,40.0
+33846,Motor Vehicles & Transport Equip.,Large,No,Yes,No,No,Very severe obstacle,Minor obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+33851,Motor Vehicles & Transport Equip.,Small,Yes,Yes,No,No,Major obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+33861,Motor Vehicles & Transport Equip.,Medium,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33865,Motor Vehicles & Transport Equip.,Small,Yes,Yes,Yes,No,Moderate obstacle,Very severe obstacle,Major obstacle,0,40.0,0.0,Punjab,40.0
+33868,Other Manufacturing,Small,No,Yes,No,No,Major obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33872,Other Manufacturing,Large,Yes,Yes,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+33876,Other Manufacturing,Small,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,0,50.0,50.0,Punjab,100.0
+33878,Other Manufacturing,Medium,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,50,0.0,0.0,Sindh,0.0
+33879,Other Manufacturing,Small,Yes,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33880,Other Manufacturing,Medium,Yes,Yes,No,No,Don't know (spontaneous),Don't know (spontaneous),Very severe obstacle,0,0.0,0.0,Punjab,0.0
+33886,Other Manufacturing,Small,No,Yes,No,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,30,15.0,45.0,Punjab,60.0
+33890,Other Manufacturing,Small,No,Yes,No,No,Major obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33918,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Minor obstacle,Minor obstacle,30,0.0,0.0,Punjab,0.0
+33921,Other Manufacturing,Small,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Major obstacle,Moderate obstacle,0,100.0,0.0,Punjab,100.0
+33955,Other Manufacturing,Small,No,Yes,No,No,Very severe obstacle,Very severe obstacle,Major obstacle,0,35.0,65.0,Punjab,100.0
+33970,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33973,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33987,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+33993,Other Manufacturing,Small,Yes,Yes,No,No,Minor obstacle,Minor obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+33996,Other Manufacturing,Small,No,Yes,No,No,Major obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34011,Other Manufacturing,Large,Yes,Yes,No,No,Very severe obstacle,Minor obstacle,Very severe obstacle,0,40.0,0.0,Punjab,40.0
+34013,Other Manufacturing,Small,No,Yes,No,No,Very severe obstacle,Moderate obstacle,Very severe obstacle,0,50.0,50.0,Punjab,100.0
+34016,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34020,Other Manufacturing,Small,No,Yes,Yes,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,0,0.0,70.0,Punjab,70.0
+34021,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Major obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34040,Other Manufacturing,Small,No,No,No,No,No obstacle,No obstacle,Moderate obstacle,0,0.0,0.0,Sindh,0.0
+34061,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34068,Other Manufacturing,Small,Yes,No,No,No,Very severe obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+34070,Other Manufacturing,Small,Yes,Yes,No,No,Very severe obstacle,Major obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+34075,Other Manufacturing,Small,No,No,No,No,Major obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34081,Other Manufacturing,Small,Yes,Yes,No,No,Major obstacle,Very severe obstacle,Minor obstacle,30,50.0,0.0,Punjab,50.0
+34086,Other Manufacturing,Medium,Yes,Yes,No,No,Very severe obstacle,Minor obstacle,Moderate obstacle,0,40.0,0.0,Punjab,40.0
+34100,Other Manufacturing,Small,No,Yes,No,No,Very severe obstacle,Minor obstacle,Very severe obstacle,0,40.0,60.0,Punjab,100.0
+34102,Other Manufacturing,Small,No,No,The establishment does not have an internet connection,No,Major obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34105,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34109,Other Manufacturing,Medium,No,No,No,No,Moderate obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34111,Other Manufacturing,Large,No,Yes,Yes,No,Very severe obstacle,Major obstacle,Major obstacle,0,15.0,10.0,Islamabad,25.0
+34117,Other Manufacturing,Large,No,Yes,No,Yes,Moderate obstacle,Minor obstacle,Minor obstacle,20,0.0,0.0,Balochistan,0.0
+34122,Other Manufacturing,Medium,No,Yes,Yes,No,Major obstacle,Minor obstacle,No obstacle,50,0.0,0.0,Sindh,0.0
+34124,Other Manufacturing,Small,Yes,Yes,No,No,Major obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34137,Other Manufacturing,Small,No,Yes,The establishment does not have an internet connection,No,Major obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+34138,Other Manufacturing,Small,No,Yes,No,No,Very severe obstacle,Major obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+34141,Other Manufacturing,Small,Yes,No,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34142,Other Manufacturing,Medium,No,No,The establishment does not have an internet connection,No,Moderate obstacle,No obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+34148,Other Manufacturing,Small,No,Yes,The establishment does not have an internet connection,No,Major obstacle,No obstacle,Minor obstacle,0,0.0,0.0,Islamabad,0.0
+34152,Other Manufacturing,Large,No,Yes,No,No,Very severe obstacle,No obstacle,Very severe obstacle,0,0.0,0.0,Islamabad,0.0
+34158,Other Manufacturing,Large,No,Yes,Yes,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,0,0.0,0.0,Islamabad,0.0
+34171,Other Manufacturing,Large,No,Yes,Yes,No,Very severe obstacle,No obstacle,Minor obstacle,50,0.0,30.0,Islamabad,30.0
+34174,Other Manufacturing,Small,No,No,No,No,Moderate obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34188,Other Manufacturing,Small,No,No,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+34196,Other Manufacturing,Medium,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Very severe obstacle,Moderate obstacle,0,0.0,0.0,Islamabad,0.0
+34198,Other Manufacturing,Small,No,Yes,No,No,No obstacle,No obstacle,No obstacle,30,0.0,0.0,Sindh,0.0
+34200,Other Manufacturing,Small,Yes,Yes,No,No,Major obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34210,Other Manufacturing,Small,No,Yes,No,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+34211,Other Manufacturing,Small,Yes,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Very severe obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+34219,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34222,Other Manufacturing,Medium,No,No,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+34236,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,No,Major obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34280,Other Manufacturing,Small,No,No,No,No,Major obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34283,Other Manufacturing,Large,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34284,Other Manufacturing,Small,No,No,No,No,Minor obstacle,No obstacle,No obstacle,100,0.0,0.0,Sindh,0.0
+34291,Other Manufacturing,Large,No,Yes,No,Yes,Moderate obstacle,No obstacle,No obstacle,100,0.0,0.0,Sindh,0.0
+34292,Other Manufacturing,Small,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Sindh,0.0
+34309,Other Manufacturing,Medium,No,No,No,No,Moderate obstacle,No obstacle,Moderate obstacle,0,0.0,0.0,Balochistan,0.0
+34328,Other Manufacturing,Medium,No,Yes,Yes,No,Very severe obstacle,No obstacle,Very severe obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34331,Other Manufacturing,Small,No,Yes,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+34334,Other Manufacturing,Small,No,No,No,No,Moderate obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34344,Other Manufacturing,Large,Yes,Yes,No,No,Very severe obstacle,No obstacle,No obstacle,50,0.0,0.0,Balochistan,0.0
+34351,Other Manufacturing,Small,No,Yes,Yes,No,Very severe obstacle,Minor obstacle,Very severe obstacle,0,40.0,40.0,Punjab,80.0
+34352,Other Manufacturing,Small,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Major obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+34357,Other Manufacturing,Large,No,No,No,No,Very severe obstacle,No obstacle,Very severe obstacle,0,0.0,0.0,Balochistan,0.0
+34358,Other Manufacturing,Small,Yes,Yes,No,No,Don't know (spontaneous),Very severe obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+34361,Other Manufacturing,Large,No,Yes,No,Yes,No obstacle,No obstacle,No obstacle,90,0.0,85.0,Sindh,85.0
+34365,Other Manufacturing,Large,No,Yes,Yes,No,Major obstacle,Does not apply,Moderate obstacle,20,0.0,0.0,Balochistan,0.0
+34367,Other Manufacturing,Small,Yes,No,The establishment does not have an internet connection,No,Moderate obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34369,Other Manufacturing,Small,Yes,Yes,No,Yes,Moderate obstacle,Very severe obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+34370,Other Manufacturing,Small,No,Yes,The establishment does not have an internet connection,No,Very severe obstacle,Major obstacle,Major obstacle,0,0.0,0.0,Punjab,0.0
+34374,Other Manufacturing,Small,No,No,The establishment does not have an internet connection,No,Very severe obstacle,Moderate obstacle,Minor obstacle,0,0.0,0.0,Punjab,0.0
+34380,Other Manufacturing,Small,No,No,The establishment does not have an internet connection,No,Moderate obstacle,Minor obstacle,Minor obstacle,50,0.0,0.0,Balochistan,0.0
+34381,Other Manufacturing,Small,Yes,Yes,No,No,Major obstacle,Moderate obstacle,Major obstacle,0,50.0,0.0,Punjab,50.0
+34389,Other Manufacturing,Large,No,Yes,No,No,Moderate obstacle,Moderate obstacle,Moderate obstacle,0,0.0,0.0,Khyber-Pakhtunkhwa,0.0
+34398,Other Manufacturing,Small,No,Yes,No,No,Moderate obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+34400,Other Manufacturing,Small,Yes,Yes,No,No,Very severe obstacle,Minor obstacle,Major obstacle,20,15.0,15.0,Punjab,30.0
+34417,Other Manufacturing,Small,No,Yes,No,No,Major obstacle,Major obstacle,Major obstacle,40,0.0,80.0,Punjab,80.0
+34418,Other Manufacturing,Small,Yes,Yes,Yes,No,Very severe obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Punjab,0.0
+34431,Other Manufacturing,Large,No,Yes,No,No,Minor obstacle,Moderate obstacle,No obstacle,70,20.0,0.0,Balochistan,20.0
+34469,Other Manufacturing,Small,No,Yes,No,No,Moderate obstacle,Major obstacle,Very severe obstacle,0,0.0,0.0,Punjab,0.0
+34477,Other Manufacturing,Medium,Yes,Yes,No,No,Major obstacle,Moderate obstacle,Minor obstacle,0,35.0,0.0,Punjab,35.0
+34490,Other Manufacturing,Medium,No,Yes,The establishment does not have an internet connection,No,Moderate obstacle,Minor obstacle,Major obstacle,0,0.0,0.0,Islamabad,0.0
+34495,Other Manufacturing,Medium,No,Yes,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+34501,Other Manufacturing,Small,Yes,No,Yes,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Balochistan,0.0
+34510,Other Manufacturing,Large,No,Yes,No,No,Very severe obstacle,Minor obstacle,Major obstacle,0,30.0,50.0,Punjab,80.0
+34542,Food,Large,Yes,No,No,No,Major obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Sindh,0.0
+34655,Garments,Medium,No,No,No,No,Major obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Sindh,0.0
+34657,Garments,Large,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,50,0.0,95.0,Sindh,95.0
+34664,Garments,Large,Yes,Yes,Yes,No,Very severe obstacle,No obstacle,No obstacle,50,0.0,70.0,Sindh,70.0
+34669,Garments,Large,No,No,No,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+34686,Garments,Medium,No,No,No,No,Major obstacle,No obstacle,No obstacle,30,0.0,0.0,Sindh,0.0
+34695,Garments,Large,No,No,No,Don't know (spontaneous),Very severe obstacle,No obstacle,No obstacle,40,0.0,100.0,Sindh,100.0
+34716,Garments,Medium,No,No,No,No,Minor obstacle,Moderate obstacle,Moderate obstacle,40,0.0,100.0,Sindh,100.0
+34730,Garments,Medium,No,No,No,No,Minor obstacle,Minor obstacle,Minor obstacle,0,0.0,0.0,Sindh,0.0
+34772,Chemicals & Chemical Products,Small,No,No,No,No,Major obstacle,Moderate obstacle,Major obstacle,0,0.0,0.0,Balochistan,0.0
+34792,Chemicals & Chemical Products,Medium,No,No,No,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+34795,Chemicals & Chemical Products,Medium,No,Yes,No,No,Moderate obstacle,No obstacle,No obstacle,20,0.0,0.0,Sindh,0.0
+34814,Chemicals & Chemical Products,Medium,No,Yes,No,No,Minor obstacle,Minor obstacle,No obstacle,0,0.0,75.0,Sindh,75.0
+34824,Chemicals & Chemical Products,Medium,No,Yes,No,No,Major obstacle,Moderate obstacle,Moderate obstacle,20,0.0,0.0,Sindh,0.0
+34853,Chemicals & Chemical Products,Medium,No,No,No,No,Major obstacle,Minor obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+34865,Chemicals & Chemical Products,Medium,No,No,No,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+34926,Motor Vehicles & Transport Equip.,Large,No,Yes,Yes,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+34933,Motor Vehicles & Transport Equip.,Medium,No,Yes,No,No,Moderate obstacle,No obstacle,No obstacle,50,0.0,0.0,Sindh,0.0
+34935,Motor Vehicles & Transport Equip.,Small,No,No,The establishment does not have an internet connection,No,Very severe obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+34976,Motor Vehicles & Transport Equip.,Medium,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+35000,Motor Vehicles & Transport Equip.,Large,No,No,No,No,Major obstacle,Minor obstacle,Moderate obstacle,0,0.0,0.0,Sindh,0.0
+35017,Motor Vehicles & Transport Equip.,Medium,No,No,No,No,Moderate obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
+35019,Motor Vehicles & Transport Equip.,Large,No,Yes,No,No,Major obstacle,No obstacle,No obstacle,70,0.0,60.0,Sindh,60.0
+35022,Motor Vehicles & Transport Equip.,Medium,Yes,No,No,No,No obstacle,No obstacle,No obstacle,0,0.0,0.0,Sindh,0.0
